@@ -1,7 +1,7 @@
 {
   "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "https://ihcgfjtobpzkakwkfnob.supabase.co",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_Z1w3sMEzoLHNoSyyTt91Kg_m3z1VEpS"
+    "NEXT_PUBLIC_SUPABASE_URL": "https://your-project.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "your-public-anon-key"
   }
 }
 
