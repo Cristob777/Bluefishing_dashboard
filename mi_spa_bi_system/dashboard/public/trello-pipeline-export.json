@@ -1,0 +1,4055 @@
+{
+  "boards": [
+    {
+      "id": "65aea15c4c787a98f7458b8c",
+      "name": "Área de Vendedores de Terreno",
+      "url": "https://trello.com/b/zlyC5YHs/%C3%A1rea-de-vendedores-de-terreno",
+      "desc": "",
+      "lists": [
+        {
+          "id": "66883b8201ac992d18ee0202",
+          "name": "CLIENTES PERU",
+          "pos": 8192
+        },
+        {
+          "id": "65c4ef14ce09d30a634aa322",
+          "name": "LISTAS DE TIENDAS CERRADAS",
+          "pos": 12288
+        },
+        {
+          "id": "65aea15d59f610d227ea774c",
+          "name": "CLIENTES",
+          "pos": 16384
+        },
+        {
+          "id": "66840effd4cdac4c88f51f29",
+          "name": "REGISTRO VISITA CLIENTE Contacto con el cliente",
+          "pos": 57344
+        },
+        {
+          "id": "65c4d29d4e747c3e1d4688bf",
+          "name": "NUEVO PEDIDO",
+          "pos": 65536
+        },
+        {
+          "id": "65aea15d84f11430eed4a044",
+          "name": "En Preparacion",
+          "pos": 81920
+        },
+        {
+          "id": "67f91b7ddd5aed3d3e055b42",
+          "name": "LISTO PARA DESPACHO",
+          "pos": 98304
+        },
+        {
+          "id": "65f832b0b2941ee835a88a5f",
+          "name": "En transito a Cliente",
+          "pos": 98307
+        },
+        {
+          "id": "65aea96da1b5543412399aa9",
+          "name": "Confirmacon de Entrega",
+          "pos": 131075
+        },
+        {
+          "id": "65c6276f163795dd60c6c88b",
+          "name": "COMPRA CON RECLAMO",
+          "pos": 163843
+        }
+      ],
+      "cardsByList": {
+        "CLIENTES PERU": [
+          {
+            "id": "66cdddf14a57530ea6f7253c",
+            "shortLink": "iwgJiL2F",
+            "name": "CLIENTES PERU",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66df2016d304b933f1a10301",
+            "shortLink": "GFQO5GlJ",
+            "name": "YONEL LAYME CLIENTE PERU",
+            "desc": "VENTA NO SII\nDATOS DE ENVIO:\nNOMBRE: JAVIER VILCA CHAMBI\nRUT: 22.767.810-0\nCELULAR: 997927339\nSUCURSAL ARICA - TRANSFLORA\n\nREMITENTE:\n\nMI TIENDA SPA\n\n76\\.999.020-8\n\nSANTIAGO\n\nTELEFONO: 934465998\n\n---\n",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66a2baeb12431a942af4ac41",
+            "shortLink": "gBTxkHuS",
+            "name": "PERU - JORGE FELIX SUARES OLARTE- CLIENTE PERU",
+            "desc": "JORGE FELIX SUARES OLARTE\n21\\.922.436-2\n\nDESTINATARIO:\nADOLFO MONGRAGON LINARES\nRUT: 14.737.868-8\nEmail: [horgef@gmail.com](mailto:horgef@gmail.com \"‌\")\nTeléfono: +56958962776\nSUCURSAL: STARKEN ARICA",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66aa7e476753f3bdfc98c1af",
+            "shortLink": "LRdDniX5",
+            "name": "COMERCIALIZADORA LUKAS PATRICIO SEREY ARENAS E.I.R.L.",
+            "desc": "COMERCIALIZADORA LUKAS PATRICIO SEREY ARENAS E.I.R.L.\nRUT: 77580032-1\n\nCURANIPE",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6888ea19798d241d4039078e",
+            "shortLink": "j4Ed32GA",
+            "name": "BLACK SHARK",
+            "desc": "RAZON SOCIAL\n\n BLACK SHARK SPA\n\nRUT 77.768.115 K\n\nDIRECCION BLANCO N #60 CONSTITUCION\n\nENCARGADO JORGE CARRASCO\n\nTEL 569 42850384",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "669589afaa0cbd685026d097",
+            "shortLink": "2XhpKQN3",
+            "name": "COMERCIAL DIWEB LTDA",
+            "desc": "**Facturar a: COMERCIAL DIWEB LIMITADA**\n**R.U.T. emp: 76.421.739-K**\n**Giro Emp : GRANDES TIENDAS**\n**Direccion : URMENETA 715 , OF 703**\n**Ciudad : PUERTO MONTT**",
+            "due": "2024-10-06T23:59:59.000Z",
+            "labels": []
+          },
+          {
+            "id": "69164cf4855e4b91b3a9dad9",
+            "shortLink": "yZJO3UDE",
+            "name": "Huasco",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "668d4a72ea3783a65500f9be",
+            "shortLink": "j24ZMkvS",
+            "name": "CHRISTIAN LUIS ARRUE HURTADO inactivo",
+            "desc": "DESTINATARIO:\n\nCHRISTIAN LUIS ARRUE HURTADO\n\nRUT: 15796777-0\n\nTEL: 962074847\n\nCORREO: [christianarrue@gmail.com](mailto:christianarrue@gmail.com \"‌\")\n\nDIRECCION: AGENCIA LA CISTERNA\n\nRECIBE: CHRISTIAN",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "SIN DSCTO"
+            ]
+          }
+        ],
+        "LISTAS DE TIENDAS CERRADAS": [
+          {
+            "id": "65c4ef193eefc2756ba6651f",
+            "shortLink": "CEjkkVTx",
+            "name": "Proceso de VENTA",
+            "desc": "[https://lucid.app/lucidchart/b91f75c9-5f57-4365-a5fd-19793a2d6deb/edit?viewport_loc=319%2C167%2C1925%2C971%2C9fHdb5g1AAT6&invitationId=inv_a8adcfe8-a398-45fe-87ff-6eff19f3f7d9](https://lucid.app/luci",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65e5d55a8858cbe5933c53c1",
+            "shortLink": "MklPv1Gr",
+            "name": "RODRIGO Y CESAR PESCA, CAZA Y DEPORTIVO LIMITADA (TIENDA CERRO PUERTAS)",
+            "desc": "DESTINATARIO:\n\nRODRIGO Y CESAR PESCA, CAZA Y DEPORTIVO LIMITADA\n\nRUT:  13091117-k\n\nTEL: +56 9 9453 2945\n\nCORREO: [zonadepescafs@gmail.com](mailto:zonadepescafs@gmail.com \"‌\")\n\nDIRECCION: OFICINA QUISC",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "668d9cfb92cd04a9dfa1d593",
+            "shortLink": "EXQuTtNU",
+            "name": "CAZA Y PESCA TRUCHISPORT SPA (CERRO TIENDA)",
+            "desc": "DESTINATARIO:\n\nCAZA Y PESCA TRUCHISPORT SPA\n\nRUT: 77.199.122-K\n\nTEL: +56 9 39132940\n\nCORREO: [truchisportspa@gmail.com](mailto:truchisportspa@gmail.com \"‌\")\n\nDOMICILIO: SUCURSAL ECOEX LOS ANGELES\n\nREC",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "65d4b7fda99b7925a4d176e3",
+            "shortLink": "zDh8d3KF",
+            "name": "ESPACIO FISHING SPA",
+            "desc": "DESTINATARIO:\n\nESPACIO FISHING SPA\n\n77\\.797.478-5\n\nDIRECCIÓN: FREIRE 542, LOCAL 17, OSORNO\n\nENCARGADO: LEANDRO AGUILAR\n\nCORREO: [espaciofishing@gmail.com](mailto:espaciofishing@gmail.com \"‌\")\n\nTeléfon",
+            "due": "2025-05-15T19:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "69024623aba62a399fec5f09",
+            "shortLink": "fMYWz0UE",
+            "name": "CLAUDIO ANDRES NAUTO GALLARDO",
+            "desc": "CLAUDIO ANDRES NAUTO GALLARDO\n\nRUT: 18.472.370-0\n\nFONO: +56 93156600\n\nDIRECCIÓN: PUERTO VARAS S/N\n\nCORREO:\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d7af71a29e512e54c4b27d",
+            "shortLink": "yXxe45SC",
+            "name": "TIRO AL BLANCO SPA (TEMUCO)",
+            "desc": "DESTINATARIO\n\nTIRO AL BLANCO SPA\n\n76\\.772.298-2\n\nDIRECCIÓN: CLARO SOLAR 1257, TEMUCO, REGIÓN DE LA ARAUCANIA\n\nEncargada: PILAR 56991740641\n\nTienda: 979393939\n\nMail: [armeria.tiroalblanco.temuco@gmail.",
+            "due": "2025-06-19T14:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "68e6679b8d1f19ff6c73d9c0",
+            "shortLink": "ks1sWWf6",
+            "name": "TIRO AL BLANCO SPA (CHILLÁN)",
+            "desc": "TIRO AL BLANCO SPA\n\n76\\.772.298-2\n\nDIRECCIÓN: AVENIDA LIBERTAD 401, CHILLÁN, REGIÓN DE ÑUBLE.\n\nEncargada: ALEXIS\n\nFONO: +56 9 9416 7070\n\nMail: [armeria.tiroalblanco.temuco@gmail.com](mailto:armeria.ti",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "NO RESPONDE!",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "65d36a955aa3184d27d70227",
+            "shortLink": "0CDcdgsv",
+            "name": "PATAGONIA OUTDOOR",
+            "desc": "DESTINATARIO:\n\nPATAGONIA OUTDOOR CHILE SPA\n\nRUT: 77.470.265-2\n\nDIRECCCIÓN: VOLCAN CORCOVADO #4942, PUERTO MONTT\n\nENCARGADO: ALI CHELECH GARRIDO\n\nFONO: +56 9 59560722\n\nMAIL: [cazador.furtivo200@gmail.c",
+            "due": "2024-12-27T20:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "663d2ce11d553ce43ac432e1",
+            "shortLink": "L6suK05z",
+            "name": "DUPEKA SPA",
+            "desc": "DESTINATARIO\n\nDUPEKA SPA\n\nRUT: 77.656.394-3\n\nFONO: +56 9 73562067\n\nCOREO: [DUPEKASPA@GMAIL.COM](mailto:DUPEKASPA@GMAIL.COM \"‌\")\n\nARBOLEDA LANTAÑO #536, CHILLAN REGIÓN DE ÑUBLE\n\nENCARGADO: JUAN GONZÁLE",
+            "due": "2024-10-07T18:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "668d656e8a9f41016915e798",
+            "shortLink": "e8IGd5sR",
+            "name": "MARIA PIA RUBIO FUENTES (sin tienda hasta nuevo aviso)",
+            "desc": "DESTINATARIO:\n\nMARÍA PIA RUBIO FUENTES\n\nRUT: 19.216.190-8\n\nTEL: 9 62152197\n\nCORREO: [Gf.marchigue@gmail.com](mailto:Gf.marchigue@gmail.com \"‌\")\n\nDIRECCION: JOSE MIGUEL CARRERA 1852, MARCHIGUE\n\nRECIBE:",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "SIN DSCTO",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "6780af608074bc76b5b3ed02",
+            "shortLink": "1kAnYWdz",
+            "name": "CHRISTIAN ANTONIO VERA CISTERNA",
+            "desc": "DESTINATARIO\n\nCHRISTIAN ANTONIO VERA CISTERNA\n\nRUT: 13185980-5\n\nFONO: +56939349385\n\nCORREO: [christian.77.v.c@gmail.com](mailto:christian.77.v.c@gmail.com \"‌\")\n\nDIRECCION: Población Los Almendros, Pas",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "SIN DSCTO",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "65c7b9947ca99a9fa27961e1",
+            "shortLink": "Za4zAQvN",
+            "name": "FISH PESCA DEPORTIVA LIMITADA (SEPARACION DE SOCIOS)",
+            "desc": "DESTINATARIO:\n\nFISH PESCA DEPORTIVA LIMITADA\n\nRUT: 76647111-0\n\nTEL: 984185014\n\nCORREO: [danielecortesalfaro@gmail.com](mailto:danielecortesalfaro@gmail.com \"‌\")\n\nDIRECCION: O´HIGGINS 530, LOCAL 18, CO",
+            "due": null,
+            "labels": [
+              "ZONA NORTE",
+              "CONTACTO FRECUENTE",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "66cfcbd2f5fac45a9c082227",
+            "shortLink": "ly20MUSl",
+            "name": "JEANNINE NINOSKA SANCHEZ BUZETA",
+            "desc": "DESTINATARIO:\n\nJEANNINE NINOSKA SANCHEZ BUZETA\n\nRUT: 14633524-1\n\nTEL: 956988816\n\nCORREO: [ALEXLEMUS7080@GMAIL.COM](mailto:ALEXLEMUS7080@GMAIL.COM \"‌\")\n\nDIRECCION: AV TENIENTE MERINO 09, TOCOPILLA\n\nREC",
+            "due": null,
+            "labels": [
+              "ZONA NORTE",
+              "dscto 10%",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "668d5d33a64c156a8b3c0127",
+            "shortLink": "gWRTUuW2",
+            "name": "ADRIANA FUENTES",
+            "desc": "DESTINATARIO:\n\nADRIANA FUENTES\n\nRUT: 9.465.376-2\n\nTEL: +56994760437\n\nCORREO: -----\n\nDIRECCION: AVENIDA LA PAZ 666 VILLA LAS GARZAS, COLCHAGUA\n\nRECIBE: CAMILO GONZALES\n\nREMITENTE\n\nMI TIENDA SPA\n\nRUT 76",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "SIN DSCTO",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "65d36456343f924153becd59",
+            "shortLink": "xNwgIDMh",
+            "name": "LA BUENA VIBRA SPA",
+            "desc": "DESTINATARIO:\n\nLA BUENA VIBRA FISHING SPA\n\nRUT: 77.385.013-5\n\nTELÉFONO: 56 9 7122 2862\n\nCORREO: [valentina@lbvf.cl](mailto:valentina@lbvf.cl \"‌\")\n\nDIRECCION: Portal Ernestina - García Moreno 255, loca",
+            "due": "2024-10-21T20:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "CREDITO",
+              "CERRO TIENDA"
+            ]
+          },
+          {
+            "id": "68f254e1b5840abf15eea2c5",
+            "shortLink": "hk7JKkzq",
+            "name": "YANN ALEJANDRO ELIZALDE ACEVEDO",
+            "desc": "YANN ALEJANDRO ELIZALDE ACEVEDO\n\nCAMILO HENRIQUEZ 592 O HIGGINS HUASCO\n\nRUT. 19738977-K\n\nTEL 9 49078715\n\n‌\n\ncondición de PAGO : AL DIA .\n\nENVIO POR STARKEN",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE",
+              "CLIENTES NUEVOS"
+            ]
+          },
+          {
+            "id": "6758723cc4a41956020942e0",
+            "shortLink": "OHsfIiwo",
+            "name": "JUAN ROLANDO ZEC CACERES",
+            "desc": "Razon Social: JUAN ROLANDO ZEC CACERES\nRUT: 8.494.712-1\n\nDestinatario:\nDESTINATARIO:\nJUAN ROLANDO ZEC CACERES\nRUT 8.494.712-1\nMAIPU 424\nPUNTA ARENAS\n\nCelular: 969092334\nCorreo: [buenapesca_zec@yahoo.c",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6672fd1b751b7026c2e1f760",
+            "shortLink": "tiBmml42",
+            "name": "Artículos de Pesca Ricardo Alberto Buschmann Laporte E.I.R.L.",
+            "desc": "RAZÓN SOCIAL:\nArtículos de Pesca Ricardo Alberto Buschmann Laporte E.I.R.L. RUT: 76.886.024-6\n\nDESTINATARIO:\nARTICULOS DE PESCA RICARDO ALBERTO BUSCHMANN LAPORTE / RUT: 76.886.024-6 DIRECCIÓN: Centena",
+            "due": null,
+            "labels": [
+              "CERRO TIENDA"
+            ]
+          }
+        ],
+        "CLIENTES": [
+          {
+            "id": "673f5874bf6151d46d0cd2d0",
+            "shortLink": "rpbi8XuH",
+            "name": "LUIS ORELLANA CHICANO",
+            "desc": "DESTINATARIO:\n\nLUIS ORELLANA CHICANO\n\nRUT: 9769521-0\n\nTEL: +56 9 6637 1422\n\nCORREO: [lasport@hotmail.cl](mailto:lasport@hotmail.cl \"‌\")\n\nDOMICILIO: COLO COLO 215, LOS ANGELES\n\nRECIBE: DAVID\n\n\\_\\_\\_\\_\\",
+            "due": null,
+            "labels": [
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "6977d2e5fbba5a4d2e819d8d",
+            "shortLink": "cS1D4ph1",
+            "name": "MARIO OSVALDO ALARCÓN NAVARRETE",
+            "desc": "RAZÓN SOCIAL: MARIO OSVALDO ALARCÓN NAVARRETE\nGIRO: VENTA AL POR MENOR DE ARTICULOS DE PESCA Y CAZA\nRUT:10.687.863-3\nCORREO: [pescaenpucon@gmail.com](mailto:pescaenpucon@gmail.com \"‌\")\nFONO:+569812157",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d7a75199a37634d1f3a89c",
+            "shortLink": "56SM8w6V",
+            "name": "ANDRIV DEPORTES SPA",
+            "desc": "DESTINATARIO:\n\nANDRIV DEPORTES SPA\n\nRUT: 77.909.354-9\n\nOFICINA CRUZ DEL SUR VALDIVIA\n\nRECIBE: CRISTIAN SILVA\n\nTEL +56 9 87966656\n\nCORREO: [andrivdeportes@gmail.com](mailto:andrivdeportes@gmail.com \"‌\"",
+            "due": "2025-05-13T20:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "Visita"
+            ]
+          },
+          {
+            "id": "696e48817d542545f0a178a2",
+            "shortLink": "TNhiDsHr",
+            "name": "SOCIEDAD TERRA AVENTURA SPA",
+            "desc": "SOCIEDAD TERRA AVENTURA SPA\nVENTA DE ARTÍCULOS DE PESCA Y CAZA\nRUT:78223139-1\nCORREO: [diegoeduardoramirez1999@gmail.com](mailto:diegoeduardoramirez1999@gmail.com \"‌\")\nFONO:9 58457430\n\nDIRECCIÓN: QUEC",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "664795c82fff1f6719b2a7cb",
+            "shortLink": "FAbN72q1",
+            "name": "NAVARRO Y RUZ LIMITADA",
+            "desc": "NAVARRO Y RUZ LIMITADA\n\nRUT 77.935.915-8\n\nGASPAR DEL RÍO 125- MAULLÍN\n\nTEL 984445843 - 979351037\n\nRECIBE DANIELA VERÓNICA RUZ ALVEAR / CAMILO NAVARRO OYARZÚN\n\n[DRUZ.ALVEAR@GMAIL.COM](mailto:DRUZ.ALVEA",
+            "due": "2024-10-23T15:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "6949669697c14c0fbe3dd20c",
+            "shortLink": "P7euFf91",
+            "name": "CAZA Y PESCA COMALLE SPA",
+            "desc": "RAZÓN SOCIAL: CAZA Y PESCA COMALLE SPA\nGIRO: VENTA AL POR MENOR DE ART. DE CAZA Y PESCA\nRUT: 78.038.195-7\nCORREO: [cazaypescacomalle2304@gmail.com](mailto:cazaypescacomalle2304@gmail.com \"‌\")\nFONO: +5",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "66f2cfd5bbcb0f02fe58b9a4",
+            "shortLink": "soCmJn6M",
+            "name": "LAS CUJAS SERVICIOS INTEGRALES SPA",
+            "desc": "LAS CUJAS SERVICIOS INTEGRALES SPA\nRUT: 77.246.027-9\nFONO: 983563850\nMAIL: [pircanoo@gmail.com](mailto:pircanoo@gmail.com \"‌\")\nDIRECCIÓN: MAIPU 420, GALVARINO, REGIÓN DE LA ARAUCANÍA\n\nTIENDA: NUBE NEG",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d4b611c85ff01f73314faa",
+            "shortLink": "7Xd5YnLX",
+            "name": "PESCAVENTURA CHILE SPA",
+            "desc": "DESTINATARIO:\n\nPESCAVENTURA CHILE SPA\nRUT: 77.220.402-7\n\nENVIAR A OFICINA CRUZ DEL SUR, OSORNO.\n\nPAOLO FUENZALIDA\n\nTELÉFONO: 991537113\n\nCORREO: [contacto@pescaventura.cl](mailto:contacto@pescaventura.",
+            "due": "2025-05-15T15:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "Visita"
+            ]
+          },
+          {
+            "id": "6883e972a809cff62135ea8e",
+            "shortLink": "YISQqybc",
+            "name": "SOCIEDAD COMERCIAL HERMANOS CLIMENT LIMITADA",
+            "desc": "SOCIEDAD COMERCIAL HERMANOS CLIMENT LIMITADA\n\nRUT: 78.196.320-8\n\nFONO:  +56 9 9920 1087\n\nMAIL: [ventas@climentpescaycaza.cl](mailto:ventas@climentpescaycaza.cl \"‌\")\n\nDIRECCIÓN: ANGULO #603, OSORNO, RE",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d7ab108b97e19796ff3c85",
+            "shortLink": "LWCEiUPd",
+            "name": "DEPORTES SALMO REY HECTOR MARIO VILLAGRAN PEREZ E.I.R.L.",
+            "desc": "DESTINATARIO:\n\nDEPORTES SALMO REY HECTOR MARIO VILLAGRAN PEREZ E.I.R.L.\n\nRUT: 76.610.485-1\n\nDIRECCIÓN: PEDRO DE VALDIVIA 598. VILLARRICA\n\nTELÉFONO: 9 5859 7364\n\nCORREO: [deportesalmorey@gmail.com](mai",
+            "due": "2025-06-18T15:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "Visita"
+            ]
+          },
+          {
+            "id": "668da4257b2f4f8296a9d174",
+            "shortLink": "WWntTmt3",
+            "name": "PIPE'S FISHING",
+            "desc": "RAZÓN SOCIAL: PIPE'S FISHING\nRUT 77.174.619-5\n\nCORREO: [felipeconchav@gmail.com](mailto:felipeconchav@gmail.com \"‌\")\nDIRECCIÓN INDEPENDENCIA 682, COBQUECURA\n\nDESTINATARIO: FELIPE CONCHA VILLALOBOS\nTEL",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d7b61563bbeffa8324527c",
+            "shortLink": "AGSlWeam",
+            "name": "MARIELA AZOCAR PARRA",
+            "desc": "DESTINATARIO:\n\nMARIELA AZOCAR PARRA\n\nRUT: 13.600.514-6\n\nVICTORIA Nº 657-B- CAUQUENES\n\nFONO: 9 95159020\n\nCORREO: [hugoreyesmejias@hotmail.com](mailto:hugoreyesmejias@hotmail.com \"‌\")\n\n---\n\nREMITENTE:\n\n",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "668d9dbbf5301442cae2e080",
+            "shortLink": "wRlclMjC",
+            "name": "ZENON ANTONIO VASQUEZ GONZALEZ",
+            "desc": "DESTINATARIO:\n\nZENON ANTONIO VASQUEZ GONZALEZ\n\nRUT: 7292959-4\n\nTEL: 978977174 - Tienda 432318423\n\nCORREO: [aventuraflyfishing@yahoo.com](mailto:aventuraflyfishing@yahoo.com \"‌\")\n\nDIRECCION: COLO COLO ",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "681e7a90653e5f44b38ffd3f",
+            "shortLink": "uqXbYJmM",
+            "name": "COMERCIALIZADORA VISON SPA",
+            "desc": "COMERCIALIZADORA VISON SPA\n\nRUT: 78.032.287-K\n\nFONO: +56 9 6587 0981\n\nCORREO: [tiendavison@gmail.com](mailto:tiendavison@gmail.com \"‌\")\n\nDIRECCIÓN: CARLOS CONDELL 295, COYHAIQUE, REGIÓN DE AYSEN.\n\nENC",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "6985f5e0f1294fc059cd41ba",
+            "shortLink": "DOBEWUnU",
+            "name": "CAZA Y PESCA EL BUEN LANCE SPA",
+            "desc": "RAZÓN SOCIAL: CAZA Y PESCA EL BUEN LANCE SPA.\nRUT: 78.288.816-1\nCORREO: [elbuenlance@gmail.com](mailto:elbuenlance@gmail.com \"‌\")\nFONO: 978707218\nENCARGADO DE TIENDA: ALVARO CORONADO BARRA.\nDIRECCIÓN ",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "6957d4996064b67fb40ab420",
+            "shortLink": "ppZzvroc",
+            "name": "Listado Clientes",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6966a1f862471335a5561f4a",
+            "shortLink": "Gig2sgFo",
+            "name": "ROCIO GATICA ARROLLO",
+            "desc": "ROCIO GATICA ARROLLO\n\nRUT: 15.981.240-K\n\nENCARGADO: GERMÁN VÁSQUEZ\n\nFONO: +56 9 48138360\n\nDIRECCIÓN: UNO NORTE #281, LONGAVI, REGIÓN DEL MAULE",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "68067ea060c2b9c498ecce30",
+            "shortLink": "VM2XxOFa",
+            "name": "HORIZON SPA",
+            "desc": "HORIZON SPA\n\nRUT: 77.626.993-K\n\nDIRECCIÓN: LOS RADALES 512\nLONCOCHE\n\n[TEL: ](%22%E2%80%8C%22 \"‌\")920116755\n[ventas@pescamania.cl](mailto:ventas@pescamania.cl \"‌\")\n\nCONTACTO: MATIAS\n\n‌\n\nTRANSPORTE CRUZ",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66b257c86d92214b4c16c016",
+            "shortLink": "vJ6NQSNr",
+            "name": "ALICIA GONZALEZ GONZALEZ",
+            "desc": "ALICIA GONZALEZ GONZALEZ\n\nRUT: 76.695.895-8\n\nMAIL: [cla34kra@gmail.com](mailto:cla34kra@gmail.com \"‌\")\n\nFONO: +56 9 8137 7505\n\nDIRECCIÓN: RIQUELME #365, CAÑETE, REGIÓN DEL BIO BIO\n\nENCARGADO TIENDA: C",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "67770079068504316eb707f0",
+            "shortLink": "4KN8uor4",
+            "name": "GUSTAVO ENRIQUE CARVAJAL VARAS",
+            "desc": "GUSTAVO ENRIQUE CARVAJAL VARAS\n\nRUT: 4.582.639-2\n\nFONO: +56 9 4551 4383\n\nDIRECCIÓN: EDMUNDO PIZARRO 376, OVALLE, REGIÓN DE COQUIMBO.\n\nCORREO: [armeriavictoria@gmail.com](mailto:Armeriavictoria@gmail.c",
+            "due": null,
+            "labels": [
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "66aa9b1b0d645d7f641d4298",
+            "shortLink": "kLBRSn6z",
+            "name": "ARTICULOS DE CAZA Y PESCA MARIA LORETO URRA ALARCÓN E.I.R.L.",
+            "desc": "DESTINATARIO:\n\nARTICULOS DE CAZA Y PESCA MARIA LORETO URRA ALARCÓN EIRL\n\nRUT: 77390742-0\n\nTEL: 934138219\n\nCORREO: [manuelsaez0505@gmail.com](mailto:manuelsaez0505@gmail.com \"‌\")\n\nDIRECCION: PASAJE 22,",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "68474444b8426f1dc08e5b6f",
+            "shortLink": "MwmSojGP",
+            "name": "ALFREDO ANGULO SCHILLER",
+            "desc": "**DESTINATARIO: (OJO)**\n\n\\***ENVIAR A SRA. MALVINA RECABARREN**\n\n**RUT: 77.109.479-1**\n\n**LAS LAVANDAS 1040, PLACILLA, VALPARAÍSO.**\n\n**FONO: +569 96647492**\n\nDEBE DECIR “ENVIAR A ALFREDO ANGULO SHILL",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "67102707a123293c2aa254d5",
+            "shortLink": "zrprqu3R",
+            "name": "JACINTO DANIEL LABRIN PERALTA",
+            "desc": "JACINTO DANIEL LABRIN PERALTA\n\nRUT: 15.996.587-2\n\\*ENVIAR A SUCURSAL PTO. MONTT (CALLE BIMA).\nENCARGADO: DANIEL LABRIN\n\nFONO: +56 9 3253 7003\n\nMAIL: [danjer_619@hotmail.com](mailto:danjer_619@hotmail.",
+            "due": "2025-05-08T19:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d7a8fabc09978406458f44",
+            "shortLink": "PN5K4w7b",
+            "name": "LICAN SPORT FISHING SPA",
+            "desc": "DESTINATARIO\n\nLICAN SPORT FISHING SPA\n\n77\\.740.711-2\n\nEncargado: PABLO ORTEGA POBLETE\n\nTeléfono: 932647789\n\nMail: licansportfishing@gmail.con\n\nDirección: GENERAL URRUTIA #725, GALERIA LOS NIETOS, LICA",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "668d789155e85cfeea24a49c",
+            "shortLink": "Cve5LDoN",
+            "name": "SOCIEDAD IMPORTADORA Y COMERCIALIZADORA DE ARTICULOS DEPORTIVOS Y ARMERIA LIMITADA",
+            "desc": "DESTINATARIO:\n\nRAZON SOCIAL: SOCIEDAD IMPORTADORA Y COMERCIALIZADORA DE ARTICULOS DEPORTIVOS Y ARMERIA LIMITADA\nRUT: 77.001.549-9\n\nTIENDA: ARMERIA AUSTRAL\n\nFONO: +56 9 5199 8304\nDIRECCIÓN: CALLE DIECI",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66aa95b940af43f2721b8b49",
+            "shortLink": "J7HwNjWp",
+            "name": "ROSA CATALAN CAYUL",
+            "desc": "RAZÓN SOCIAL: ROSA CATALAN CAYUL\n\nRUT: 13.630.530-1\n\nDIRECCIÓN: GOROSTIAGA, 475 VICTORIA\n\nCORREO: [armeria-pihan@hotmail.com](mailto:armeria-pihan@hotmail.com \"‌\")\n\nFONO: +56 9 83510496\n\nDESTINATARIO:",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "668eb3084389700627864e97",
+            "shortLink": "VaVPpkMF",
+            "name": "HECTOR FABIAN SANDANA HERNANDEZ",
+            "desc": "RAZÓN SOCIAL: HÉCTOR SANDAÑA HERNÁNDEZ\nRUT: 12.715.994-7\n\nTEL: +56 9 75610732\n\nTIENDA: ARMERIA KAWELL\n\nENCARGADO: HÉCTOR SANDAÑA\nDIRECCIÓN: CALLE SIMPSON 1846, COYHAIQUE\n\nCORREO: [asandana.hector@gmai",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66bb7e032674d031c5843e4f",
+            "shortLink": "BW6GNKpE",
+            "name": "COMERCIALIZADORA PESCA RIOS DEL SUR SPA",
+            "desc": "DESTINATARIO:\n\nRAZÓN SOCIAL: COMERCIALIZADORA PESCA RIOS DEL SUR SPA\n\nRUT: 77.937.637-0\n\nDIRECCIÓN: CAMINO BOTROLHUE 991, ALTO MIRASUR, TEMUCO\n\nCORREO: [juancarlos.urrutiav@gmail.com](mailto:juancarlo",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "68b86c41be3706f28e4df6cc",
+            "shortLink": "OjB1I8zf",
+            "name": "NARCISO EDUARDO YAÑEZ ESPINOSA",
+            "desc": "DESTINATARIO:\n\nNARCISO EDUARDO YAÑEZ ESPINOSA\n\nRUT: 19098245-9\n\nTEL: 986818078\n\nCORREO: [CRISTHOPHER.Y.CC](http://CRISTHOPHER.Y.CC \"‌\")[\\@](mailto:multisportpescaza@gmail.com \"‌\")[GMAIL.COM](http://GM",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "679cd421a7ad3991d5f8ff91",
+            "shortLink": "FliwGdk3",
+            "name": "PESCA Y CAZA ANTUCO SPA",
+            "desc": "PESCA Y CAZA ANTUCO SPA\n\n77\\.526.082-3\n\nFONO: +56 9 91662072\n\nMAIL: [mario.medina2016@gmail.com](mailto:mario.medina2016@gmail.com \"‌\")\n\nDIRECCIÓN: ALMAGRO #489, LOCAL 3, LOS ANGELES\n\nTIENDA: ANTUCO P",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d3655e7ec0f85db87e3038",
+            "shortLink": "62fn31oK",
+            "name": "PESCA PUERTO VARAS",
+            "desc": "DESTINATARIO :\n\nPESCA PUERTO VARAS SPA\n\nRUT: 77.366.897-3\n\nENCARGADO: EMIR JADUE\n\nDIRECCIÓN: SAN PEDRO 571, PUERTO VARAS\n\nFONO: +56 9 99292381\n\nCORREO: [contacto@pescapuertovaras.cl](mailto:contacto@p",
+            "due": "2024-10-21T18:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d367d2087f9df49a2dc2c8",
+            "shortLink": "YjxYw7D8",
+            "name": "ROYAL FISHING SPA",
+            "desc": "DESTINATARIO:\n\nROYAL FISHING SPA\n\n76\\.989.725-9\n\nENCARGADA: EVELYN FERNANDEZ\n\nFONO: +56964929064\n\nCORREO: [royalfishing.cl@gmail.com](mailto:royalfishing.cl@gmail.com \"‌\")\n\nDIRECCIÓN: AVDA. CAPITAL ÁV",
+            "due": "2024-12-27T19:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "668da15e0381dbedbb4d5f13",
+            "shortLink": "43PS41Pv",
+            "name": "MORAGA INVERSIONES",
+            "desc": "RAZON SOCIAL:\n\nMORAGA INVERSIONES\nRUT 77.220.176-1\nDIRECCION: ISABEL RIQUELME 1190 A, CHILLÁN\nTEL +56 9 66608653\nCORREO:  [lopazovenegas@gmail.com](mailto:lopazovenegas@gmail.com \"‌\") -  [lorenzoopazo",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "Visita"
+            ]
+          },
+          {
+            "id": "66d62b81bfbafdc17930cfbb",
+            "shortLink": "koe14I2S",
+            "name": "RUKA RENKÜ SPA",
+            "desc": "RAZÓN SOCIAL: RUKA RENKÜ SPA\n\n77\\.735.599-6\n\nDIRECCIÓN: RENGO 138, LOCAL 7, LOS ÁNGELES\n\nENCARGADO: FELIPE ORTIZ\n\nFONO: +56 9 7957 0987\n[sotoaguilarortelio@gmail.com](mailto:-sotoaguilarortelio@gmail.",
+            "due": "2025-06-26T14:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "67082d0c926fe475e1a03554",
+            "shortLink": "3BPkULoc",
+            "name": "GUILLERMO CORDERO MOSQUEIRA",
+            "desc": "GUILLERMO CORDERO MOSQUEIRA\n\n11\\.129.044-K\n\nGIRO: DEPORTES\n\nfono: +56994442564\n\nCORREO: [deportesroyal@gmail.com](mailto:deportesroyal@gmail.com \"‌\")\n\nDIRECCIÓN: PEDRO DE VALDIVIA #490, VILLARRICA\n\nEN",
+            "due": "2025-06-18T19:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "Visita",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "6891229d814ea406c61ab817",
+            "shortLink": "wBA9vxLT",
+            "name": "FRANCISCO CHEUQUEAN LEAL",
+            "desc": "FRANCISCO CHEUQUEAN LEAL\n\nRUT: 11.921.624-9\n\nFONO: +56 9 2989 9964\n\nMAIL: [concretarte23@gmail.com](mailto:Concretarte23@gmail.com \"‌\")\n\nDIRECCIÓN: CRUCE IGNAO S/N, IGNAO, LAGO RANCO, REGION DE LOS RÍ",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "695fb7403e8d2bdb8c3ca37a",
+            "shortLink": "RZPGDroR",
+            "name": "JUAN PABLO MELLADO ARANEDA",
+            "desc": "RAZÓN SOCIAL: JUAN PABLO MELLADO ARANEDA\nGIRO: FERRETERIA , CAZA Y PESCA\nRUT: 15.201.912-2\nCORREO: [j.pablomellado82@gmail.com](mailto:J.pablomellado82@gmail.com \"‌\")\nFONO: +56996760503\nDIRECCIÓN: VIL",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d7abb37d6cd91b420f9517",
+            "shortLink": "hvbrPCwv",
+            "name": "MARTIN PESCADOR SPA",
+            "desc": "DESTINATARIO\n\nMARTIN PESCADOR SPA\n\nRUT 77.448.288-1\n\nENCARGADA: DAMARIN VARGAS\n\nDIRECCIÓN: ERRAZURIZ  508, FREIRE, REGIÓN DE LA ARAUCANÍA\n\nFONO: +56 9 6166 3174\n\nCORREO: [damarindelagos@gmail.com](mai",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "66a8fc9d3d39935ac914a497",
+            "shortLink": "o9HzslF1",
+            "name": "ARMIN SILVA - Pilmaiquén(POSIBLE CLIENTE)",
+            "desc": "ARMIN SILVA\n\nPUYEHUE, REGIÓN DE LOS LAGOS.",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "663bf9e8e0127d9b4ebfce36",
+            "shortLink": "AZm3Kao5",
+            "name": "ARCOIRIS PESCA Y CAZA - RENGO(POSIBLE CLIENTE)",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66233e88b3a76693c92a1898",
+            "shortLink": "OcDD4IjA",
+            "name": "PESCA STORE CHILE SPA",
+            "desc": "DESTINATARIO:\n\nPESCA STORE CHILE SPA\n\nRUT:  77443843-2\n\nTEL: 967430137\n\nCORREO: [pescastorechile@gmail.com](mailto:pescastorechile@gmail.com \"‌\")\n\nDIRECCION: ALVAREZ 32, local 26, VIÑA DEL MAR\n\nRECIBE",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "Visita"
+            ]
+          },
+          {
+            "id": "66d08fc1bd4673987f584a34",
+            "shortLink": "XMFIrRhL",
+            "name": "ORLANDO VILCHES - PUCÓN (POSIBLE CLIENTE)",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65c4fa421159b9c7c2ecaf2c",
+            "shortLink": "YdxpL8vE",
+            "name": "DEPORTE IV REGION CAZA Y PESCA SPA",
+            "desc": "DESTINATARIO:\n\nDEPORTE IV REGIÓN CAZA Y PESCA SPA.\n\nRUT: 77.553.869-4\n\nTEL: +56981452722\n\nCORREO: [cazaypesca1975.fv@gmail.com](mailto:cazaypesca1975.fv@gmail.com \"‌\")\n\nDOMICILIO: CALLE PORTALES 431 –",
+            "due": "2025-10-02T19:00:00.000Z",
+            "labels": [
+              "ZONA NORTE",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "67aa1a73f5f7c6aaa19e236d",
+            "shortLink": "qPMylpA5",
+            "name": "tienda de pesca y caza los cuervos spa",
+            "desc": "### Descripción\n\nTienda de pesca y caza los cuervos padilla spa\nRUT 77.868.141-2\n\nDESTINATARIO: Rosana Roa Guevara\nDireccion: manuel rodriguez n715 PITRUFQUEN\nTelefono: +56 9 95309980",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "661e86f99feb9199d463bd40",
+            "shortLink": "UD6mHljy",
+            "name": "GONZALO ANDRES ESPINOLA ARAVENA",
+            "desc": "DESTINATARIO:\n\nGONZALO ANDRES ESPINOLA ARAVENA\n\nRUT: 13.880.990-0\n\nTEL: 9 82510265\n\nCORREO: [reydelapesca@gmail.com](mailto:reydelapesca@gmail.com \"‌\")\n\nDIRECCION: VICTORIA 2486 LOCAL 28 VALPARAISO\n\nR",
+            "due": "2024-10-02T17:00:00.000Z",
+            "labels": [
+              "ZONA NORTE",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "668d6959dabaafcd7136d739",
+            "shortLink": "aXe99jQ2",
+            "name": "CORRIENTE MARINA LIMITADA",
+            "desc": "DESTINATARIO:\n\nCORRIENTES MARINAS LMTDA\n\nRUT: 77.215.536-0\n\nTEL: 966694781\n\nCORREO: [corrientemarina2020@gmail.com](mailto:corrientemarina2020@gmail.com \"‌\")\n\nDIRECCION: AVENIDA COMERCIO 1480, LOCAL 8",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "668850d322ecbd0b9c3ccaeb",
+            "shortLink": "evUJE4D4",
+            "name": "Ruth maria silva gomez",
+            "desc": "RAZÓN SOCIAL: RUTH MARÍA SILVA GÓMEZ\nRUT: 9.611.506-7\nTIENDA: FERRETERIA LOS HEROES LTDA\n\nDESTINATARIO Ruth maria silva gomez\nRUT: 9.611.506-7\nHernan olguin 0468 Maipu\n[TEL: +5](TEL: +5 \"‌\")6 9 7621 1",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6626d5af3bd886fabe590465",
+            "shortLink": "YiM3hTZL",
+            "name": "DIMARSA",
+            "desc": "**DISTRIBUIDORA IMPORTADORA DIMARSA LTDA.**\n**R.U.T.  93.224.000-9**\n**Giro Emp : ART. PARA EL HOGAR Y VEHICULOS MOTORIZADOS**\n**Direccion : CHILLAN # 117**\n**Ciudad : PUERTO MONTT**\n\n\n\nTransportes Sa",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66426be8c37e03ce63c309e9",
+            "shortLink": "jsziQ16z",
+            "name": "COMERCIAL IVAN ESTEBAN MELENDEZ TORRES E.I.R.L.",
+            "desc": "COMERCIAL IVAN ESTEBAN MELENDEZ TORRES E.I.R.L.\nRUT: 76.646.222-7\nDIRECCION:\nPEDRO AGUIRRE CERDA 211 - HUALANE\n[TEL: 99507646]\n\nIVAN ESTEBAN MELENDEZ TORRES\n\n‌\n\nTRANSPORTE CASTRO\nDIRECCIÓN: BLANCO GAR",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "668d9b0303b9a29337d2d964",
+            "shortLink": "BMhq8Lix",
+            "name": "CATHERINE SOLEDAD GARCÉS ZAPATA",
+            "desc": "DESTINATARIO:\n\nCATHERINE SOLEDAD GARCES ZAPATA\n\nRUT: 17.641.056-6\n\nTEL: +56965471166\n\nCORREO: [fishinlures.spa@gmail.com](mailto:fishinlures.spa@gmail.com \"‌\")\n\nDOMICILIO: CALLE MANQUE 4571, VILLA ESC",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "SIN DSCTO"
+            ]
+          },
+          {
+            "id": "661ffb1a3ccb719e164a16b0",
+            "shortLink": "ZCImGw3K",
+            "name": "ISABEL LEYTON MENDEZ",
+            "desc": "Isabel Leyton Méndez\nRUT: 10.808.758-7\n\nDESTINATARIO:\n ISABEL LEYTON MENDEZ\nRUT 10.808.758-7\nTEL +56 9 5687 8743\nAtacama N° 375 - A- COPIAPO\n\ncontacto Mario Duarte.\n\nENVIAS CARGO\nDIRECCIÓN: CLAUDIO VI",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "679661a1cd0dcc8b86b337ab",
+            "shortLink": "HympUxeR",
+            "name": "JUDITH RIVAS PARRA",
+            "desc": "DESTINATARIO\n\nJudith rivas parra\nRUT 9.054.424-1\nignacio carrera pinto 218 los alamos comuna los alamos\nBio bio\ntelefono 944682985\nEMAIL: [patrick.fabian.rivas@gmail.com](mailto:patrick.fabian.rivas@g",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65aeb9e3933f88ee4dfef55a",
+            "shortLink": "hxHYlIRJ",
+            "name": "LA GUARIDA PESCA, CAZA & OUTDOOR SPA",
+            "desc": "DESTINATARIO:\n\nLA GUARIDA PESCA, CAZA & OUTDOOR SPA\n\nRUT: 77.276.807-9\n\n[TEL: ](TEL: \"‌\")9 50044078\n\nCORREO:  [laguarida.pesca.caza@gmail.com](mailto:laguarida.pesca.caza@gmail.com \"‌\")\n\nDIRECCION: CA",
+            "due": "2025-10-30T18:46:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "P7",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "691b6ed715faaa1d799fdfb9",
+            "shortLink": "B3Jjw937",
+            "name": "CYH IMPORT SPA",
+            "desc": "CYH IMPORT SPA\n\nRUT:78.024.323-6\n\nCORREO: [claudiopatriciogonzalez.j@gmail.com](mailto:claudiopatriciogonzalez.j@gmail.com \"‌\")\n\nTLF: +56968445908\n\nCLIENTE CON 15 DIAS DE CREDITO\n\nDIRECCION: VILLA EL ",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "CLIENTES NUEVOS",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "66df56aca60052f079226e25",
+            "shortLink": "IPU0L8vo",
+            "name": "CONTRERAS GÁLVEZ Y COMPAÑIA LIMITADA",
+            "desc": "DESTINATARIO\n\nCONTRERAS GÁLVEZ Y COMPAÑIA LIMITADA\n\nRUT: 77.993.264-8\n\nDIRECCIÓN OSCAR QUIROZ MORGADO 1889 LOCAL 5- LA SERENA\n\nTEL +56 9 9126 3791\n\nCONTACTO FELIPE contreras\n\n‌\n\nTRANSPORTES VARMONTT\n\n",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66310226b11f0544c2dcb1ae",
+            "shortLink": "x2pK0fSw",
+            "name": "COMERCIALIZADORA LA JAGUAR SPA",
+            "desc": "DESTINATARIO:\n\nCOMERCIALIZADORA LA JAGUAR SPA\n\nRUT: 77.072.775-8\n\nTEL: +569 58648060\n\nCORREO: [ventas@armerialajaguar.cl](mailto:ventas@armerialajaguar.cl \"‌\")\n\nDOMICILIO: ALONSO DE OVALLE 1147, L1, S",
+            "due": "2025-05-06T16:00:00.000Z",
+            "labels": [
+              "SIN DSCTO"
+            ]
+          },
+          {
+            "id": "662fd77d13959f188bd99d23",
+            "shortLink": "ImolIZwh",
+            "name": "LITORAL CHILE PESCA SPA",
+            "desc": "DESTINATARIO:\n\nJAIME LUIS VASQUEZ JOFRE\n\nRUT: 77.394.882-8\n\nTEL: 94680441\n\nCORREO: [litoralchilepescadeportiva@gmail.com](mailto:litoralchilepescadeportiva@gmail.com \"‌\")\n\nDIRECCION: Las Hortensias 20",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "690caf554e5b9096db3ba496",
+            "shortLink": "cdvJFPQ2",
+            "name": "LUIS RIQUELME LIMITADA",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66197541f5936aa5a4246122",
+            "shortLink": "NFOo5822",
+            "name": "BIGFISH SPA",
+            "desc": "BIGFISH SPA\nRUT 77.582.395-K\nPaulina Zarricueta\nRut : 16441950-9\nDirección envío:\nPasaje rio seco 1353 bosque San Carlos Coquimbo\nTeléfono :938813049\n\nTRANSPORTE\nRAPID CARGO\nDIRECCIÓN: SANTA ELENA 958",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65e244865bc8cc580e93fe11",
+            "shortLink": "CmRiQQ0m",
+            "name": "Fishing corp ltda",
+            "desc": "FISHING CORP LTDA\nRUT 77.600.663-7\n\nDESTINATARIO: Jonathan Campusano\nDireccion: Sor teresa de los andes 4226, Alto Hospicio [Fishing.corp2022@gmail.com](mailto:Fishing.corp2022@gmail.com \"‌\")\nTelefono",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "662fcfae0ea357400786e273",
+            "shortLink": "9o81I6gp",
+            "name": "PEDRO EWING SIERRALTA",
+            "desc": "DESTINATARIO:\n\nPEDRO EWING SIERRALTA\n\nRUT: 6362654-6\n\nTEL: 996396449\n\nCORREO: [armeriamagnum@gmail.com](mailto:armeriamagnum@gmail.com \"‌\")\n\nDIRECCION: JOSE MANUEL BALMACEDA 1095\n\nRECIBE: PEDRO\n\nEMITE",
+            "due": null,
+            "labels": [
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "66aaa1e853dc216096b004e9",
+            "shortLink": "nZdXY96Z",
+            "name": "KATHERINE AGUILAR CASTILLO",
+            "desc": "DESTINATARIO:\n\nKATHERINE AGUILAR CASTILLO\n\nRUT: 16602456-0\n\nTEL: 990303735\n\nCORREO: [katherine87aguilar@gmail.com](mailto:katherine87aguilar@gmail.com \"‌\")\n\nDIRECCION: CONSTITUCIÓN 690, ILLAPEL\n\nRECIB",
+            "due": null,
+            "labels": [
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "6630fdee688d46a82963a5e5",
+            "shortLink": "4e2LZ49t",
+            "name": "INVERSIONES JORGE PAVEZ AGUAYO E.I.R.L.",
+            "desc": "DESTINATARIO:\n\nINVERSIONES JORGE PAVEZ AGUAYO E.I.R.L\n\nRUT: 77.003.659-3\n\nTEL: +56959629228\n\nCORREO: [JORGE.PAVEZ.AGUAYO@HOTMAIL.COM](mailto:JORGE.PAVEZ.AGUAYO@HOTMAIL.COM \"‌\")\n\nDOMICILIO: LOTE 8, FUN",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "SIN DSCTO"
+            ]
+          },
+          {
+            "id": "65c4f1f2720b96aefd0faf5c",
+            "shortLink": "F3QNFgJx",
+            "name": "MARIA ELENA MORALES CASTRO",
+            "desc": "DESTINATARIO:\n\nMARIA ELENA MORALES CASTRO\n\nRUT: 7282963-8\n\nTEL: 985627414\n\nCORREO: [pmderderian@hotmail.com](mailto:pmderderian@hotmail.com \"‌\")\n\nDIRECCION: AGENCIA LLAY-LLAY\n\nRECIBE: PABLO\n\nREMITENTE",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "68b0b5f8a1683f4df30469a1",
+            "shortLink": "DbvfLxb4",
+            "name": "CARMONA JIMENEZ ELBA DEL CARMEN",
+            "desc": "DESTINATARIO\n\nCARMONA JIMENEZ ELBA DEL CARMEN\n\nRUT: 10.562.094-2\n\nFONO: 56 9 5764 2011\n\nCORREO: [Petherpilcante@gmail.com](mailto:Petherpilcante@gmail.com \"‌\")\n\nRECIBE: PEDRO PILCANTE\n\nREMITENTE:\n\nMI ",
+            "due": null,
+            "labels": [
+              "SIN DSCTO",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "691b7bbcfeffe234bddbcfcd",
+            "shortLink": "7GgNcCqi",
+            "name": "Carmen tienda Huasco",
+            "desc": "Carmen Olga Gonzales\n\nrazon social : Carmen Olga Gonzales\n\nrut: 137455310-k\n\nDirección: Ohiggins 412 , Huasco\n\ntransporte  Varmont\n\nenvias cargo\n\n‌\n\ncliente pago al dia",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6929b71c77a317fa884c21c3",
+            "shortLink": "xAb7Slfc",
+            "name": "Antonia Elizabeth Robles Aros",
+            "desc": "Antonia Elizabeth Robles Aros C. I.\n\nrut 13.644.056-k\n\nRazón social : Antonia Elizabeth Robles Aros\n\nGiro: VENTA artículos de pesca, camping, caza\n\nTransporte: Barrios\n\nDirección : Avenida Salvador al",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66158a0f1f98af9739e29d54",
+            "shortLink": "byHyoTZf",
+            "name": "PESCA TOTAL COMERCIAL LIMITADA",
+            "desc": "DESTINATARIO:\n\nPESCA TOTAL COMERCIAL LIMITADA\n\nRUT: 76272134-1\n\nTEL: 978646520\n\nCORREO: [hola@w-austral.cl](mailto:hola@w-austral.cl \"‌\")\n\nDIRECCION: AVENIDA APOQUINDO 4900, LOCAL 130, LAS CONDES\n\nREC",
+            "due": "2024-10-21T13:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "668e9c38a0124fdb6f8c3ad1",
+            "shortLink": "v6h4do1d",
+            "name": "SOCIEDAD COMERCIAL LHUGORI LIMITADA",
+            "desc": "DESTINATARIO:\n\nSOCIEDAD COMERCIAL LHUGORI LIMITADA\n\nRUT: 76086243-6\n\nTEL: 72-2222655\n\nPERSONAL: 954070519\n\nCorreo: [manrisa@gmail.com](mailto:manrisa@gmail.com \"‌\")\n\nDIRECCIÓN: SAN MARTÍN 522, RANCAGU",
+            "due": "2025-05-07T18:20:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "Visita"
+            ]
+          },
+          {
+            "id": "668d6d059944229df740af86",
+            "shortLink": "MHejZNTZ",
+            "name": "NELSON SANTANDER",
+            "desc": "DESTINATARIO:\n\nNELSON SANTANDER\n\nRUT:  76948636-4\n\nTEL: 982998861\n\nCORREO:\n\nDIRECCION: AVENIDA CENTRAL 941, SAN VICENTE TT\n\nRECIBE: NELSON SANTANDER\n\nREMITENTE\n\nMI TIENDA SPA\n\nRUT 76.999.020-8\n\nSANTIA",
+            "due": "2025-11-06T17:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "6849ce26a8eebd2ff86ae4f5",
+            "shortLink": "O3B0jk2a",
+            "name": "ENRIQUE Alfonso Díaz Romo/TIENDA ENRIPESCA",
+            "desc": "Enrique Alfonso Díaz Romo\nRut: 12.581.096-9\nArturo Prat 18 San Antonio, San Antonio, sector centro\nQuinta Región\nTEL 985394412\n\nCLIENTE NO POSEE CREDITO.\n\nESPERAR EL PAGO PARA DESPACHAR\n\n‌\n\nTRANSPORTE",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66884a9f314fac50ee0e18a8",
+            "shortLink": "rZUrX2xO",
+            "name": "DANIELA RUBY BASTIAS BASAEZ",
+            "desc": "RAZÓN SOCIAL: DANIELA RUBY BASTIAS BASAEZ\nRUT: 17.317.934-0\n\n‌\n\nDANIELA RUBY BASTIAS BASAEZ\nRUT: 17.317.934-0\nDIRECCIÓN: STARKEN MAITENCILLO\nTELÉFONO: 966462583\n\nSTARKEN\n\n‌\n\nCLIENTE TIENE NO TIENE CRE",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "668d821b31e57a4094c80070",
+            "shortLink": "11JnlWee",
+            "name": "ROCIO CAROLINA GATICA ARROYO/GERMAN VÁSQUEZ TORRES",
+            "desc": "DESTINATARIO:\n\nROCIO CAROLINA GATICA ARROYO\n\nRUT: 18.981.240-K\n\nTEL: 56948138360\n\nCORREO: [germanvasqueztorres9@gmail.com](mailto:germanvasqueztorres9@gmail.com \"‌\")\n\nDIRECCIÓN:  AGENCIA LINARES\n\nRECI",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "664e2b75a0235649d3e71281",
+            "shortLink": "P2VyMMuT",
+            "name": "ALEJANDRO PRAXEDES CANCINO AVILA",
+            "desc": "DESTINATARIO:\n\nALEJANDRO PRAXEDES CANCINO AVILA\n\nRUT: 15597306-4\n\nTEL: 965687724\n\nCORREO: [alejandrocancino.ac@gmail.com](mailto:alejandrocancino.ac@gmail.com \"‌\")\n\nDIRECCION: 10 ORIENTE #1065. TALCA\n",
+            "due": "2025-09-25T13:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65e5db0873f01ee24d437cf3",
+            "shortLink": "6lJlOFUF",
+            "name": "DIEGO ARIEL ARANCIBIA FERNANDEZ",
+            "desc": "DESTINATARIO:\n\nDIEGO ARIEL ARANCIBIA FERNANDEZ\n\nRUT: 15.814.960-5\n\nTEL: +56950097424\n\nCORREO: [dafoxcelu@gmail.com](mailto:dafoxcelu@gmail.com \"‌\")\n\nDOMICILIO: CALLE ESMERALDA 3530, SECTOR VALLE HERMO",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "SIN DSCTO",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "668d8805f9bf1e5a67a0502d",
+            "shortLink": "jEeNeqQB",
+            "name": "ERNESTO GASPAR CARVAJAL",
+            "desc": "RAZÓN SOCIAL: Ernesto Gaspar Carvajal\nGIRO: ventas al por menor de artículos de Caza y pesca en comercios especializados\nRUT: 8.448.474-1\n\nDESTINATARIO\n\nLUIS ERNESTO GASPAR CARVAJAL\nRUT: 8 448.474-1\nD",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65c4db43aa786aa96b098b43",
+            "shortLink": "718wyOp8",
+            "name": "LA CASA DEL PESCADOR",
+            "desc": "La Casa del Pecador SPA\n\nRUT 77928631-2\n\nLOS PIMIENTOS 157,  ANTOFAGASTA\n\n[casadelospescadores@gmail.com](mailto:casadelospescadores@gmail.com \"‌\")\n\nRECIBE PEDRO VALENCIA\n\n‌\n\nTRINA TRAVEL\nDIRECCIÓN CO",
+            "due": null,
+            "labels": [
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "668d8159031631cbe9892f44",
+            "shortLink": "DvdvQjVs",
+            "name": "Camuflaje Jorginho",
+            "desc": "RAZÓN SOCIAL: Camuflaje Jorginho\nRUT: 18.707.965-9\n\nDESTINATARIO: Camuflaje Jorginho\nRUT: 18.707.965-9\nDIRECCIÓN: Calle Doctor Santelices 0234. PARRAL\nTELÉFONO: 56 9 75978942\n\nTRANSPORTE TVP\nDIRECCIÓN",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "673b43d40262eb82305caab9",
+            "shortLink": "hveunsRo",
+            "name": "MARIA TERESA SOZA CARDENAS",
+            "desc": "MARIA TERESA SOZA CARDENAS\n\n8\\.233.437-8\n\nDIRECCIÓN: PICARTE 483, LOCAL 21, VALDIVIA\n\nFONO: +569 98290349\n\nCORREO: [msoza_val@hotmail.com](mailto:msoza_val@hotmail.com \"‌\")\n\nENCARGADA DE TIENDA: MARIA",
+            "due": "2025-05-13T14:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "Visita"
+            ]
+          },
+          {
+            "id": "66a7eefd2bf28bc764a1aee7",
+            "shortLink": "KNjAj4qE",
+            "name": "ARMERIA DON LEO SPA",
+            "desc": "DESTINATARIO:\n\nARMERIA DON LEO SPA\n\nRUT: 78019177-5\n\nTEL: 981291353\n\nCORREO: [armeriadonleo@gmail.com](mailto:armeriadonleo@gmail.com \"‌\")\n\nDIRECCION: URIBE 195, LA LIGUA\n\nRECIBE: FABIAN AGUIRRE\n\nREMI",
+            "due": null,
+            "labels": [
+              "SIN DSCTO",
+              "ZONA CENTRO",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "65cb7739d31cc7bd0f4a0ea6",
+            "shortLink": "uY6fdwqH",
+            "name": "HUNTER FISHING SPA",
+            "desc": "DESTINATARIO:\n\nHUNTER FISHING SPA\n\nRUT: 77.272.368-7\n\nTEL: 968322044\n\nCORREO: [Esteban.cabana.g@gmail.com](mailto:Esteban.cabana.g@gmail.com \"‌\")\n\nDOMICILIO: AURORA DE CHILE 9721, CASA H, SAN RAMON\n\nR",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "65ca831097b653b84d094859",
+            "shortLink": "PDZsHykl",
+            "name": "LEONARDO MARIN GONZALES",
+            "desc": "DESTINATARIO:\n\nLEONARDO MARIN GONZALES\n\nRUT: 76.870.693-K\n\nTEL: 992205428\n\nCORREO: [vetleomarin@gmail.com](mailto:vetleomarin@gmail.com \"‌\")\n\nDIRECCION: Mirador del Pacifico 1028 Lote 1 A - PICHILEMU\n",
+            "due": null,
+            "labels": [
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "664e2403f6cc9a3ccc441975",
+            "shortLink": "Qtel69mZ",
+            "name": "JORGE ARTURO VALDIVIA POTTSTOCK",
+            "desc": "DESTINATARIO:\n\nJORGE ARTURO VALDIVIA POTTSTOCK\n\nRUT:  8.288.388-6\n\nTEL: 977255064\n\nCORREO: [contacto@armeriacentrosport.cl](mailto:contacto@armeriacentrosport.cl \"‌\")\n\nDIRECCION: CHACABUCO #629 A1. SA",
+            "due": "2025-11-06T16:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "Visita"
+            ]
+          },
+          {
+            "id": "666338493697a456c265573d",
+            "shortLink": "pGJT6nSV",
+            "name": "MARCELO OCTAVIO DONOSO SALDAÑA",
+            "desc": "DESTINATARIO:\n\nMARCELO OCTAVIO DONOSO SALDAÑA\n\nRUT: 13561375-4\n\nTEL: 983279388\n\nCORREO: [marcelo.donoso.s@hotmail.com](mailto:marcelo.donoso.s@hotmail.com \"‌\")\n\nDIRECCION: CHORRILLOS 219, PICHIDEGUA\n\n",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "65dcad79aea61c4c8ada62d5",
+            "shortLink": "mYWnODkA",
+            "name": "B055 FISH STORE SPA",
+            "desc": "DESTINATARIO:\n\nB055 FISH STORE SPA\n\nRUT: 77.805.347-0\n\nTEL: 934416233\n\nCORREO: [B055FISHSTORE@GMAIL.COM](mailto:B055FISHSTORE@GMAIL.COM \"‌\")\n\nDOMICILIO: MARCELA PAZ #3022, COMUNA ALTO HOSPICIO\n\nRECIBE",
+            "due": null,
+            "labels": [
+              "ZONA NORTE",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "65aeacb8a2df57653a0743f5",
+            "shortLink": "wud4xGsk",
+            "name": "RICARDO ARROYO VIVEROS",
+            "desc": "DESTINATARIO:\n\nRICARDO ARROYO VIVEROS\n\nRUT: 17686478-8\n\nTEL: 991239987\n\nCORREO: [ravmarine3@gmail.com](mailto:ravmarine3@gmail.com \"‌\")\n\nDIRECCION: Duao s/n\n\nRECIBE: RICARDO ARROYO\n\nTIENDA: Ravmarine ",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "dscto 10%",
+              "P7"
+            ]
+          },
+          {
+            "id": "668c030a958c11bf8d884017",
+            "shortLink": "xUco9C81",
+            "name": "COMERCIALIZADORA AIRGUNS LIMACHE SPA",
+            "desc": "DESTINATARIO:\n\nCOMERCIALIZADORA AIRGUNS LIMACHE SPA\n\nRUT: 77208051-4\n\nTEL: 982130214\n\nCORREO: [nitroairguns@gmail.com](mailto:nitroairguns@gmail.com \"‌\")\n\nDIRECCION: ROMA 169 SAN FCO. DE ASIS, LIMACHE",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 5%"
+            ]
+          },
+          {
+            "id": "65d8eecc7352cc3ceac151ab",
+            "shortLink": "H1hcMAhm",
+            "name": "Caterine Barco Olivares",
+            "desc": "DESTINATARIO:\n\nCATERINE BARCO OLIVARES\n\nRUT:  17688216-6\n\nTEL: 956856092\n\nCORREO: [marytierraelmelon@gmail.com](mailto:marytierraelmelon@gmail.com \"‌\")\n\nDIRECCION: AGENCIA LA CALERA\n\nRECIBE: CATERINE ",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "P7",
+              "CREDITO",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "68b0b1983021edda8c47de40",
+            "shortLink": "Qzt70boV",
+            "name": "MANUEL HERNAN ALVAREZ ALVIAL",
+            "desc": "DESTINATARIO\n\nMANUEL HERNAN ALVAREZ ALVIAL\n\nRUT 10.462.597-5\n\nCORREO:  [hernanalvarezalvial@gmail.com](mailto:hernanalvarezalvial@gmail.com \"‌\")\n\nDirección: OFICINA STARKEN TALAGANTE\n\nTienda Artículos",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "SIN DSCTO",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "6862ae95850d789a86897aaf",
+            "shortLink": "QsDbHSQu",
+            "name": "TRIBU PESCAZA SPA",
+            "desc": "RAZON SOCIAL: TRIBU PESCAZA SPA\n\nRUT: 78090006-7\n\nFONO: +56971009102\n\nCORREO: [TRIBUPESCAZA@GMAIL.COM](mailto:TRIBUPESCAZA@GMAIL.COM \"‌\")\n\nDIRECCION: 9 ORIENTE, LOCAL 1 #938, TALCA\n\nRECIBE: NICOLAS GA",
+            "due": "2025-09-25T15:00:00.000Z",
+            "labels": []
+          },
+          {
+            "id": "65e2444bfee430ed8ca33f0f",
+            "shortLink": "pEOirQ42",
+            "name": "GRACIELA BRAVO SPA",
+            "desc": "DESTINATARIO:\n\nGRACIELA BRAVO SPA\n\nRUT: 77239729-1\n\nTEL: 931460688\n\nCORREO: [cazanorteiqq@gmail.com](mailto:cazanorteiqq@gmail.com \"‌\")\n\nDIRECCION: VIVAR 842, CON LA TORRE, IQUIQUE\n\nRECIBE: KHIRAN\n\nRE",
+            "due": null,
+            "labels": [
+              "ZONA NORTE",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "65cb8482df0e25dca883f396",
+            "shortLink": "52XSOm0i",
+            "name": "FERRETERIA SAN ANDRES SPA",
+            "desc": "DESTINATARIO:\n\nFERRETERIA SAN ANDRES SPA\n\nRUT: 78130121-3\n\nTEL: 996241368\n\nCORREO: [hernaldo26@hotmail.es](mailto:hernaldo26@hotmail.es \"‌\")\n\nDIRECCION: BUCALEMU S/N, PAREDONES\n\nRECIBE: HERNALDO\n\nREMI",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO",
+              "ZONA SUR",
+              "Visita"
+            ]
+          },
+          {
+            "id": "662fd9e64832c427998ecec4",
+            "shortLink": "w09GU3o9",
+            "name": "EQUIPESCA CHILE LIMITADA",
+            "desc": "DESTINATARIO:\n\nEQUIPESCA CHILE LIMITADA\n\nRUT: 77.811.300-7\n\nTEL: 226345404\n\nCORREO:  -----\n\nDIRECCION: AV.BUSTAMANTE 833, ÑUÑOA\n\nRECIBE: PATRICIO\n\nREMITENTE\n\nMI TIENDA SPA\n\nRUT 76.999.020-8\n\nSANTIAGO\n",
+            "due": "2026-03-03T03:07:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "670e778d6eaf4364236dc728",
+            "shortLink": "BACBjMzC",
+            "name": "JUAN IGNACIO SILVA PACHECO",
+            "desc": "DESTINATARIO:\n\nJUAN IGNACIO SILVA PACHECO\n\nRUT: 20176411-4\n\nCEL: 984244656\n\nCORREO: [juansilva9.9.com@icloud.com](mailto:juansilva9.9.com@icloud.com \"‌\")\n\nDIRECCION: AGENCIA STARKEN CASA BLANCA\n\nRECIB",
+            "due": "2025-01-10T18:20:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "CONTACTO FRECUENTE",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "668849a2ede166ab0a989a63",
+            "shortLink": "Wl0yfZQu",
+            "name": "ACONCAGUA DEPORTES",
+            "desc": "ACONCAGUA DEPORTE\n\nRUT 77.012.145-0\n\nTEL +56950944519\n\nCORREO: [tiquitaca@hotmail.com](mailto:tiquitaca@hotmail.com \"‌\")\n\nDOMICILIO: ARTURO PRAT 740 LOCAL 22, SAN FELIPE\n\nRECIBE: CRISTOBAL O LUIS\n\nREM",
+            "due": "2025-10-30T18:46:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "65cd50da4bc696079669f217",
+            "shortLink": "5axi2xOE",
+            "name": "JULIAN GONZALEZ G. E HIJOS LIMITADA",
+            "desc": "DESTINATARIO:\n\nJULIAN GONZALEZ G. E HIJOS LIMITADA\n\nRUT: 76470935-7\n\nTEL: 967274036\n\nCORREO: [julian.gzar@gmail.com](mailto:julian.gzar@gmail.com \"‌\")\n\nDIRECCION: CUEVAS 748, RANCAGUA\n\nRECIBE: JULIAN\n",
+            "due": "2025-11-05T04:20:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "Visita"
+            ]
+          },
+          {
+            "id": "662fe1a6b9ee16da533924d9",
+            "shortLink": "J1605UCk",
+            "name": "CAZA 24/7 SPA",
+            "desc": "DESTINATARIO:\n\nCAZA 24/7\n\nRUT: 77.503.275-8\n\nTEL: +56985858551\n\nCORREO: [Contactocaza247@gmail.com](mailto:Contactocaza247@gmail.com \"‌\")\n\nDOMICILIO: Agencia Melipilla\n\nRECIBE: Andres Orellana\n\nREMITE",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "66cbc45602581588d74324ea",
+            "shortLink": "A3Zkf4O3",
+            "name": "AMH PESCA SPA",
+            "desc": "DESTINATARIO:\n\nAMH PESCA SPA\n\nRUT: 77983066-7\n\nTEL: 569 89047073\n\nCORREO: [Molepesca@gmail.com](mailto:Molepesca@gmail.com \"‌\")\n\nDIRECCION: AVENIDA LA PAZ 915, RECOLETA\n\nRECIBE: ALFREDO O FABIAN\n\nREMI",
+            "due": "2025-12-30T15:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "CONTACTO FRECUENTE",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "6980fc4ba9aa3c0e4bd284e4",
+            "shortLink": "Q70BtrsA",
+            "name": "DANIELA ANDREA ALISONE VALENZUELA REYES/ Kraken",
+            "desc": "DESTINATARIO\n\nDANIELA ANDREA ALISONE VALENZUELA REYES\n\nRUT 15.990.822-4\n\nTEL 9 52066737\n\nCamino playa Ritoque 3623 QUINTERO\n\n[kraken.valenzuela.reyes@gmail.com](mailto:kraken.valenzuela.reyes@gmail.co",
+            "due": null,
+            "labels": [
+              "CLIENTES NUEVOS"
+            ]
+          },
+          {
+            "id": "660ecf2c935c60998105e934",
+            "shortLink": "XhIn15cL",
+            "name": "JOSE OVIDIO ZAMORANO PEÑA",
+            "desc": "DESTINATARIO:\n\nJOSE OVIDIO ZAMORANO PEÑA\n\nRUT: 5.608.047-3\n\nTEL: 72-2903113\n\nCORREO: -----\n\nDOMICILIO: CIRCULACIÓN LEONTINA BARRIOS 1086, LOCAL 2, SAN VICENTE TT\n\nRECIBE: JOSE ZAMORANO O ROMUALDO VALD",
+            "due": "2025-12-12T00:52:00.000Z",
+            "labels": [
+              "CONTACTO FRECUENTE",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "661d3b5428ca8b43722fbb10",
+            "shortLink": "fy5Xk21u",
+            "name": "SOCIEDAD COMERCIALIZADA SAN ESTEBAN DEPORTES SPA",
+            "desc": "DESTINATARIO:\n\nSOCIEDAD COMERCIAL SAN ESTEBAN DEPORTES SPA\n\nRUT: 76651349-2\n\nTEL: 963479973\n\nCORREO: [joser_o@hotmail.com](mailto:joser_o@hotmail.com \"‌\")\n\nDIRECCION: LOS COPIHUE 15 B, SAN ESTEBAN\n\nRE",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "66233e7421518f8af4ef9311",
+            "shortLink": "bhJGMpmC",
+            "name": "MARISOL 2.0",
+            "desc": "DESTINATARIO:\n\nMAR Y SOL 2.0 LIMITADA\n\nRUT: 77.203.741-4\n\nTEL: 940281738\n\nCORREO: [marysol2.0@hotmail.com](mailto:marysol2.0@hotmail.com \"‌\")\n\nDOMICILIO: SUCURSAL MARGA MARGA, QUILPUE\n\nRECIBE: GUILLER",
+            "due": "2026-01-29T15:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "65eb36e95561689e00ed8662",
+            "shortLink": "Q6SA2iOe",
+            "name": "DANESKA VERGARA GUERRERO",
+            "desc": "DESTINATARIO:\n\nDANESKA VERGARA GUERRERO\n\nRUT: 19339845-6\n\nTEL: 989260178\n\nCORREO: [ventas1servigrafic@gmail.com](mailto:ventas1servigrafic@gmail.com \"‌\")\n\nDIRECCION: AVENIDA 21 DE MAYO #1595, QUINTERO",
+            "due": "2026-02-11T15:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "65cbc2908dc8c988acfb6660",
+            "shortLink": "lUy683W3",
+            "name": "OSCAR ARMANDO POBLETE CORREA",
+            "desc": "DESTINATARIO:\n\nOSCAR ARMANDO POBLETE CORREA\n\nRUT: 7376581-1\n\nTEL: 962927796\n\nCORREO: [joselynpobleted@hotmail.com](mailto:joselynpobleted@hotmail.com \"‌\")\n\nDIRECCION: DUAO 3945 - LINCANTEN\n\nRECIBE: OS",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "662fd0b3e38d4cd33bf2a185",
+            "shortLink": "fpwXKOOy",
+            "name": "IRMA LATOJA SAA",
+            "desc": "DESTINATARIO:\n\nIRMA LATOJA SAA\n\nRUT: 8056203-9\n\nTEL: 944607381\n\nCORREO: [armeriaquillotasport@gmail.com](mailto:armeriaquillotasport@gmail.com \"‌\")\n\nDIRECCION: FREIRE 10, QUILLOTA\n\nRECIBE: IRMA\n\nREMIT",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "65fb12896b3162bc34c9c974",
+            "shortLink": "I1QMfsnq",
+            "name": "VENTA DE ART. DE PESCA NICKY RONALD ULLOA RETAMAL EIRL",
+            "desc": "DESTINATARIO:\n\nVENTA DE ART. DE PESCA NICKY RONALD ULLOA RETAMAL EIRL\n\nRUT: 77.609.854-K\n\nTEL: 9 84072282\n\nCORREO: [nickyronald@gmail.com](mailto:nickyronald@gmail.com \"‌\")\n\nDIRECCION: MERINO JARPA #7",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "SIN DSCTO"
+            ]
+          },
+          {
+            "id": "675c5c4b94f9ea00dd8ce128",
+            "shortLink": "MFHaPOOu",
+            "name": "SERGIO SEBASTIÁN SUÁREZ FERNÁNDEZ",
+            "desc": "DESTINATARIO:\n\nSERGIO SEBASTIÁN SUÁREZ FERNÁNDEZ\n\nRUT: 17441736-9\n\nTEL: 931807304\n\nCORREO: [ssuarezfoo@gmail.com](mailto:ssuarezfoo@gmail.com \"‌\")\n\nDIRECCION: AGENCIA CURICO\n\nRECIBE: SERGIO\n\nREMITENTE",
+            "due": "2025-01-17T03:07:00.000Z",
+            "labels": [
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "681ac1ed34443ce226f6cf82",
+            "shortLink": "T7LQJ6Zx",
+            "name": "FAC CHILE SPA",
+            "desc": "DESTINATARIO:\n\nFAC CHILE SPA\n\nRUT: 78.061.989-9\n\nTEL: 978155169\n\nCORREO: [FACCHILESPA@GMAIL.COM](mailto:FACCHILESPA@GMAIL.COM \"‌\")\n\nDIRECCION: RODRIGO CABEZON 0637, SAN CARLOS, ÑUBLE\n\nRECIBE: FABIAN A",
+            "due": null,
+            "labels": [
+              "SIN DSCTO"
+            ]
+          },
+          {
+            "id": "6679d7848a6768eb2a563676",
+            "shortLink": "OAeTdu5a",
+            "name": "ARMERIA CARLOS ALBERTO SALGADO ZUNIGA E.I.R.L",
+            "desc": "DESTINATARIO:\n\nARMERIA CARLOS ALBERTO SALGADO ZUNIGA E.I.R.L\n\nRUT: 76698350-2\n\nTEL: 999534503\n\nCORREO: [carlos.ignacio@terraoutdoor.cl](mailto:carlos.ignacio@terraoutdoor.cl \"‌\")\n\nDIRECCION: ALONSO OV",
+            "due": "2026-03-03T19:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "Visita"
+            ]
+          },
+          {
+            "id": "662fd9bd48bddc6fb15adf71",
+            "shortLink": "I2BwZLPw",
+            "name": "SOC.COMERCIALIZADORA DE PRODUCTOS DEPORTIVOS S A (Target)",
+            "desc": "DESTINATARIO:\n\nSOC.COMERCIALIZADORA DE PRODUCTOS DEPORTIVOS S A\n\nRUT: 96.709.310-6\n\nTEL: 226963943\n\nCORREO: [VENTAS@TARGET.CL](mailto:VENTAS@TARGET.CL \"‌\")\n\nDOMICILIO: ZENTENO 91 SANTIAGO CENTRO\n\nRECI",
+            "due": "2026-03-03T18:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "65f2547a88facfce17685f55",
+            "shortLink": "lVs4Y18e",
+            "name": "SOCIEDAD COMERCIALIZADORA DESCUBRE LIMITADA",
+            "desc": "DESTINATARIO:\n\nSOCIEDAD COMERCIALIZADORA DESCUBRE LIMITADA\n\nRUT: 76637610-K\n\nTEL: 752324487\n\nCORREO: [comprascarlosherrera@gmail.com](mailto:comprascarlosherrera@gmail.com \"‌\")\n\nDIRECCION: YUNGAY #970",
+            "due": "2025-11-07T15:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "dscto 10%",
+              "Visita"
+            ]
+          },
+          {
+            "id": "668d4f71056d476ebe3543d3",
+            "shortLink": "DjHpfgaF",
+            "name": "RICARDO ENRIQUE ROBLES RUBIO",
+            "desc": "DESTINATARIO:\n\nRICARDO ENRIQUE ROBLES RUBIO\n\nRUT: 14419435-7\n\nTEL: +56982653158\n\nCORREO: [rroblesrubio@gmail.com](mailto:rroblesrubio@gmail.com \"‌\")\n\nDIRECCION: FRANCISCO CHACON 725, LOCAL 7, TALAGANT",
+            "due": "2025-01-07T03:07:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "SIN DSCTO"
+            ]
+          },
+          {
+            "id": "68ed03f4365ea46de7969274",
+            "shortLink": "4CSYmzga",
+            "name": "CHRISTIAN PIZARRO OLGUIN",
+            "desc": "DESTINATARIO:\n\nCHRISTIAN PIZARRO OLGUIN\n\nRUT: 14.048.496-2\n\n[TEL: ](TEL:  569900849 \"‌\")+56983936600\n\nCORREO: [PIZARROOLGUIN16@GMAIL.COM](mailto:PIZARROOLGUIN16@GMAIL.COM \"‌\")\n\nDIRECCION: CRUCE DE PUP",
+            "due": null,
+            "labels": [
+              "SIN DSCTO",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "662fd97e36c2f064cea4002c",
+            "shortLink": "uSUOQqwe",
+            "name": "JOSE ALBERTO MAUREIRA MIRANDA",
+            "desc": "DESTINATARIO:\n\nJOSE ALBERTO MAUREIRA MIRANDA\n\nRUT: 3.924.337-7\n\nTEL: 56993963271\n\nDIRECCION: PASEO BULNES 121\n\nRECIBE: JOSE MAUREIRA\n\nEMITENTE\n\nMI TIENDA SPA\n\nRUT 76.999.020-8\n\nSANTIAGO\n\nTEL 934465998",
+            "due": "2025-12-11T19:27:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "CONTACTO FRECUENTE",
+              "Visita"
+            ]
+          },
+          {
+            "id": "68a5efe89c2ffc9f7916b88c",
+            "shortLink": "j2vDn8Ez",
+            "name": "WANAKOS DEL MAR SPA",
+            "desc": "WANAKOS\n\nRUT, 78.155.069-8\n\nSUCURSAL ARICA\n\nTLF, +56999401417\n\nCORREO, [WANAKOSDELMAR@GMAIL.COM](mailto:WANAKOSDELMAR@GMAIL.COM \"‌\")\n\nNOMBRE DEL ENCARGADO, RODRIGO ALEXIS NAVARRO ARGANDOÑA\n\n‌\n\nTRANSPO",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6780ab8668022cb78a028132",
+            "shortLink": "TYw411RQ",
+            "name": "PRAGOTSPORT SPA",
+            "desc": "DESTINATARIO:\n\nPRAGOSPORT SPA\n\nRUT: 78055621-8\n\nFONO: 22381864\n\nCORREO: [jessicaprado825@gmail.com](mailto:jessicaprado825@gmail.com \"‌\")\n\nDIRECCION: EL BOLDO 366, LOCAL 6, ALGARROBO.\n\nRECIBE: JESSICA",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE",
+              "ZONA CENTRO",
+              "SIN DSCTO"
+            ]
+          },
+          {
+            "id": "66f4270e8ba1559be6640ee5",
+            "shortLink": "I91lXlDI",
+            "name": "RODOLFO VALENZUELA SILVA",
+            "desc": "DESTINATARIO:\n\nRODOLFO VALENZUELA SILVA\n\nRUT: 14311507-0\n\nTEL: 56995121809\n\nCORREO: [pescadordeplaya2015@gmail.com](mailto:pescadordeplaya2015@gmail.com \"‌\")\n\nDIRECCION:  OHIGGINS 459 LEBU\n\nRECIBE: MA",
+            "due": null,
+            "labels": [
+              "SIN DSCTO",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "668d74bb0cf937bb7ecc7d2c",
+            "shortLink": "r9I8ngdp",
+            "name": "FRANCISCO VALENZUELA MENDOZA",
+            "desc": "DESTINATARIO:\n\nFRANCISCO VALENZUELA MENDOZA\n\nRUT: 19006756-4\n\nTEL: 56984724137\n\nCORREO: [lacazayelpescador.sanrafael@gmail.com](mailto:lacazayelpescador.sanrafael@gmail.com \"‌\")\n\nDIRECCION: AV San Raf",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "66032b992cd673ad890d3b49",
+            "shortLink": "S7kGi647",
+            "name": "KATRIMAKY OUTDOORS SPA",
+            "desc": "DESTINATARIO:\n\nKATHERINE NATALY AGUILAR\n\nRUT: 16028225-8\n\nTEL: 932243948\n\nCORREO: [katrimaky20@gmail.com](mailto:katrimaky20@gmail.com \"‌\")\n\nDIRECCION: URMENETA 0252 SN, BERNARDO\n\nRETIRA: JUAN PABLO O",
+            "due": null,
+            "labels": [
+              "P7",
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "66884a150167fccd215bcd31",
+            "shortLink": "qzZ8hHe3",
+            "name": "ZAVALAGODOY SPA",
+            "desc": "DESTINATARIO:\n\nZAVALA GODOY SPA\n\nRUT: 77.349.437-1\n\nTEL: +56 9 9578 1946\n\nCORREO: [Zavalagodoyspa1501@gmail.com](mailto:Zavalagodoyspa1501@gmail.com \"‌\")\n\nDOMICILIO: AGENCIA STARKEN PAPUDO\n\nRECIBE: DA",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "6699b3bfb91e5fda2de151c4",
+            "shortLink": "XYWVwFim",
+            "name": "TACTICO JT SPA",
+            "desc": "DESTINATARIO:\n\nTACTICO JT SPA\n\nRUT:  78.066.752-4\n\nTEL: 955134169\n\nCORREO: MONICA@TACTICOLACRUZ.CL\n\nDIRECCION: AV. TROCAL 6865, LOCAL 6, LA CRUZ\n\nRECIBE: NICOLAS CORDERO LARENZI\n\nREMITENTE\n\nMI TIENDA ",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 5%"
+            ]
+          },
+          {
+            "id": "699f145472d2449e44e88934",
+            "shortLink": "tEtxzuk3",
+            "name": "FREDY MATTIAS SANTOS SAEZ",
+            "desc": "FREDY MATTIAS SANTOS SAEZ\nGIRO: VENTA AL POR MENOR DE ARTICULOS DE PESCA Y CAZA\nRUT: 20.365.001-9\nCORREO: [fredysantos.saez60@gmail.com](mailto:fredysantos.saez60@gmail.com \"‌\")\nFONO: 930324030\nDIRECC",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "65c500983edd60c0717d2ec8",
+            "shortLink": "akm21Goc",
+            "name": "ARTICULOS DE PESCA Y BAZAR",
+            "desc": "DESTINATARIO:\n\nARTICULOS DE PESCA Y BAZAR\n\nRUT: 13.635.182-6\n\nTEL: 96566466\n\nCORREO: [contacto@localdonfacu.cl](mailto:contacto@localdonfacu.cl \"‌\")\n\nDOMICILIO: AV CARDENAL SAMORE 3135, PLACILLA DE PE",
+            "due": "2026-02-06T03:07:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "65cbbf00040b8063b6432fc3",
+            "shortLink": "Ww0O3EJR",
+            "name": "VICTOR ALEJANDRO MUNDACA PACHECO",
+            "desc": "DESTINATARIO:\n\nVICTOR ALEJANDRO MUNDACA PACHECO\n\nRUT: 15732449-7\n\nTEL: 984088730\n\nCORREO: [victor.mundaca.pacheco@gmail.com](mailto:victor.mundaca.pacheco@gmail.com \"‌\")\n\nDIRECCION: LATORRE 431, PUCHU",
+            "due": "2025-05-30T16:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "690cafac87a9d87e7fbb978b",
+            "shortLink": "sXezCInT",
+            "name": "LUIS RIQUELME LIMITADA",
+            "desc": "RAZON SOCIAL: LUIS RIQUELME LIMITADA\n\nRUT:  77.992.471-8\n\nFONO: +56 9 9916 9734\n\nCORREO: [edgar.sebastian1111@gmail.com](mailto:edgar.sebastian1111@gmail.com \"‌\")\n\nDIRECCION: AGENCIA VARMONTT RANCAGUA",
+            "due": "2025-11-06T14:27:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "Visita",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "65fb34f2ad0dfdcad5c4fa6e",
+            "shortLink": "cHa0Nzcz",
+            "name": "WILLIAMS VALDEZ",
+            "desc": "RAZÓN SOCIAL:\nPESCA Y CAZA VALDÉS LTDA RUT: 77.066.281-8\n\nDESTINATARIO:\nWilliams Valdes\nRUT: 77.066.281-8\nArturo Prat #2535. SAN JAVIER\n[TEL: 5](TEL: 5 \"‌\")6 9 7915 1860\n\nTRANSPORTE VILLA PRAT CARGO T",
+            "due": "2025-09-25T16:00:00.000Z",
+            "labels": []
+          },
+          {
+            "id": "67a24853776320fd06c85a7a",
+            "shortLink": "Tff918Fq",
+            "name": "COMERCIALIZADORA MARTIN SPA",
+            "desc": "DESTINATARIO\n\nCOMERCIALIZADORA MARTIN SPA\n\nRUT: 78061711-K\n\nFONO: 56963092529\n\nRETIRA:  CLAUDIO O SU PAREJA\n\nRETIRO EN TIENDA\n\n‌\n\nCONDICION DE PAGO: AL DIA ( CLIENTE SOLICITA A VECES LINK DE PAGO)",
+            "due": null,
+            "labels": [
+              "dscto 5%"
+            ]
+          },
+          {
+            "id": "66b257a757f78b38b26ce1b0",
+            "shortLink": "dFAQpCde",
+            "name": "ARMERIA PANTO - CAÑETE (POSIBLE CLIENTE)",
+            "desc": "FONO: +56 9 5735 7065\n\nCORREO: [pantospacanete@gmail.com](mailto:pantospacanete@gmail.com \"‌\")\n\nENCARGADA: LORENA\n\nDIRECCIÓN: CAÑETE\n\nTIENDA: ARMERÍA PANTO",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "686d8e8b8bf29a951bd1d8dd",
+            "shortLink": "lZezieZq",
+            "name": "MARYSPORT SPA",
+            "desc": "RAZÓN SOCIAL: MARYSPORT SPA\n\nRUT: 77.613.542-9\n\nDIRECCIÓN: CARRERA #705, LA CALERA, REGIÓN DE VALPARAISO\n\nFONO: +56 9 7176 2845\n\nCORREO: [marycaniguante11@gmail.com](mailto:marycaniguante11@gmail.com ",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          }
+        ],
+        "REGISTRO VISITA CLIENTE Contacto con el cliente": [
+          {
+            "id": "66db2d4e18c0c6ef880dd194",
+            "shortLink": "1ZvDD9RO",
+            "name": "REGISTRO VISITA CLIENTE Contacto con el cliente",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65d7b1d0d8e8ae9c4865a83b",
+            "shortLink": "GaIzDlzn",
+            "name": "OLLETA CAZA Y PESCA SpA.",
+            "desc": "‌\n\nDESTINATARIO:\n\nOLLETA CAZA Y PESCA SPA.\n\nRUT: 76.310.360-9\n\nDIRECCIÓN: PRAT 439 LOCALES D y E, TEMUCO\n\nTELÉFONO: +56 9 5608 8805 - +56 9 9751 8154\n\n[esaez@laolleta.cl](mailto:esaez@laolleta.cl \"‌\")",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "65d4e79115ce1c667323ae61",
+            "shortLink": "eoDQqTeK",
+            "name": "JULIO ANGULO FUENTES E.I.R.L.",
+            "desc": "DESTINATARIO\n\nJULIO IGNACIO ANGULO FUENTES\n\nRUT: 77.498779-7\n\nFONO: 944735288\n\nCORREO: [julioangulof94@gmail.com](mailto:julioangulof94@gmail.com \"‌\")\n\nTIENDA: FISHING AVENTURA STORE\n\nPADRE LEODEGARIO",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "663bf81f8e9d56fe16430a09",
+            "shortLink": "SG6he8Q6",
+            "name": "DE ORILLA FISHING SPA",
+            "desc": "DESTINATARIO:\n\nDE ORILLA FISHING SPA\n\n78\\.203.958-K\n\nFONO: +56 9 7400 9074\n\nMAIL: [richardmonte.18@gmail.com](mailto:richardmonte.18@gmail.com \"‌\")\n\nDIRECCIÓN: LOS PIMIENTOS 9, CALDERA, REGIÓN DE ATAC",
+            "due": null,
+            "labels": [
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "6928cdd04e453953d7ffa476",
+            "shortLink": "g66BA03N",
+            "name": "Lethal Fishing /LUTAC LF SPA",
+            "desc": "LUTAC LF SPA /Lethal Fishing\n\nRUT: 77356255-5\n\nTLF, 957512068\n\nDirección: Pedro Montt 69 local 20, San Antonio\n\nCLIENTE NO TIENE CREDITO- PAGA ANTES DE ENVIAR\n\n‌\n\nENVIAR POR LA GAVIOTA PREVIA COORDINA",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "CLIENTES NUEVOS"
+            ]
+          },
+          {
+            "id": "669945e73bc49d182beaeae7",
+            "shortLink": "rpE3oahG",
+            "name": "Carlos Rodolfo Concha Wagenknecht",
+            "desc": "Carlos Rodolfo Concha Wagenknecht\nRUT  8079167-4\n\nCienfuegos 662 La Serena\n\nTEL 962623290\n\n‌\n\nTRANSPORTE RAPID CARGO\n\nSta Elena 985\nsantiago\n\n‌\n\nSIN CREDITO",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "662fe2061af64a31e30c5fee",
+            "shortLink": "2tsJt2OV",
+            "name": "IMPORTADORA CHEFA LIMITADA",
+            "desc": "DESTINATARIO:\n\nIMPORTADORA CHEFA LIMITADA\n\nRUT: 76.108.202-7\n\nTEL: 56944226323\n\nCORREO: [nmassoudb@gmail.com](mailto:nmassoudb@gmail.com \"‌\")\n\nDIRECCION: UGALDE 71-A, MELIPILLA\n\nRECIBE: NICOLAS MASSOU",
+            "due": "2025-02-18T23:59:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "6614487abbc82bf3bdd8a0df",
+            "shortLink": "JcwkHzfV",
+            "name": "Minimarket Claudio Mejillones",
+            "desc": "MINIMARKET CLAUDIO MEJILLONES\nRUT 77.663.817-k\nSUCURSAL  mejillones\nCelular: 56976415509\nCorreo: [by_stich@hotmail.com](mailto:by_stich@hotmail.com \"‌\")\nRECIBE Magali soliz moron\n\n‌\n\nSTARKEN\n\n‌\n\nCRÉDI",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "668d6135c2fb80f1e036cc40",
+            "shortLink": "MZLoJr7H",
+            "name": "HECTOR FIGUEROA CABELLO",
+            "desc": "Razón social: Hector Figueroa Cabello\nRUT. 12.364.954-0\nGiro: Venta de artículos de pesca\n\nDestinatario Héctor Figueroa\nRUT: 12.364.954-0\nLa vega de pupuya Navidad 987870662",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "660ef0d93ed83464451f1de1",
+            "shortLink": "G6g9tedw",
+            "name": "ISABEL SEPULVEDA MEZA",
+            "desc": "Isabel Sepulveda Meza\n\nRUT: 15.686.298-3\nDIRECCIÓN: Santiago Polanco 2419 Iquique\n\nTienda Pescador Adicto\n\nTEL: 98532770\n\n‌\n\nTRINA TRAVEL\n\nDIRECCIÓN CONSTANTINO 464 QUINTA NORMAL\n\nHORARIO DE ATENCIÓN:",
+            "due": null,
+            "labels": [
+              "CLIENTES NUEVOS"
+            ]
+          },
+          {
+            "id": "66cf36fcac81e4fc8d2558a6",
+            "shortLink": "9yibzaIL",
+            "name": "CASA DE DEPORTES SNIPER SHOP SPA- AMERICA HERRERA",
+            "desc": "RAZÓN SOCIAL:\nCASA DE DEPORTES SNIPER SHOP SPA\nRUT: 77.436.063-8\n\nDESTINATARIO:\n\nCASA DE DEPORTES SNIPER SHOP SPA\nRUT: 77.436.063-8\nDIRECCION: Edificio Pratt #740 Local #11. San Felipe\nTELÉFONO: 56941",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66214069a9cdd4149b5b21be",
+            "shortLink": "Uasmg6w1",
+            "name": "CARLOS ALBALLAY",
+            "desc": "Carlos Allballay Araya\n\nCalle Calama 2951 Tocopilla\n\nRut: 13748237-1\n\nTel 9 96655907\n\n‌\n\nTRANSPORTE BARRIOS\nDIRECCIÓN: COQUIMBO 387, SANTIAGO. HORARIO DE ATENCIÓN: 9:00 A 16:00 HRS TELÉFONO: 990656297",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65e2440bba396fca191588b9",
+            "shortLink": "R3rr3rCp",
+            "name": "Daisy del Carmen Aguilera Ramirez",
+            "desc": "Daisy Del Carmen Aguilera Ramirez\n\nRUT: 16.349.637-2\n\nDIRECCIÓN: Moises Gonzales 1415 -IQUIQUE\n\n[TEL: ](TEL: \"‌\")9 87090343\n\nTienda: Lures Vinyls\n\nMitas de factura al día, resto con crédito 30 días\n\n‌",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "693847089d9284bc86a6aab8",
+            "shortLink": "yaflOJWU",
+            "name": "ANGELO TIENDA NORTFISHING",
+            "desc": "DESTINAARIO\nDARINKA ORIELE FUENZALIDA VEGA\n\nRUT: 78272893-8\n\nTEL 975638303\n\nMAR DEL NORTE 4755 C H REINA MAR-IQUIQUE\n\nCONTACTO: ANGELO VEGA\n\n‌\n\nTRANSPORTE TRINA TRAVEL\n\nDIRECCIÓN CONSTANTINO 464 QUINT",
+            "due": null,
+            "labels": [
+              "CLIENTES NUEVOS",
+              "ZONA NORTE",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "65aebacd486c948801f26361",
+            "shortLink": "e6lItMac",
+            "name": "UNCROMAGNON",
+            "desc": "RAZÓN SOCIAL:\n\nUNCROMAGNON SPA\nRUT: 76727919-1\nDireccion: FREIRE 644, LOCAL 7\nCONCEPCION\nEMAIL:\nTelefono : +56963007836\n\nrecibe Andres Daza\n\n CLIENTE NO TIENE CREDITO, SOLO DOCUMENTANDO CON CHEQUE, CR",
+            "due": "2024-12-26T23:59:59.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "68efb74f019b56e941daa0dc",
+            "shortLink": "jzwXrWhh",
+            "name": "NORTFISHING SPA",
+            "desc": "NOMBRE: NORTFISHING SPA\n\nRUT: 78118722-4\n\nDIRECCIÓN: VICTOR FARIAS 9014 ALTOS CLUB HIPICO ANTOFAGASTA\n\nCORREO: [ALEXIS.ARACENA23@GMAIL.COM](mailto:ALEXIS.ARACENA23@GMAIL.COM \"‌\")\n\nTELÉFONO: +569650077",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE",
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "65c57e2983cd811be147d46a",
+            "shortLink": "alzfx9Z3",
+            "name": "FISHING ARICA SPA",
+            "desc": "DESTINATARIO:\n\nFISHING ARICA SPA\n\nRUT: 77.366.564-8\n\nTEL: 56987772469\n\nCORREO: [Alexissmitharce@gmail.com](mailto:Alexissmitharce@gmail.com \"‌\")\n\nDIRECCION: Cristóbal Colón 782, Local 38, Arica\n\nRECIB",
+            "due": null,
+            "labels": [
+              "ZONA NORTE",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "68addf990bc590028ac8c000",
+            "shortLink": "xRgVOlOw",
+            "name": "MANADA SPA",
+            "desc": "RAZÓN SOCIAL: MANADA SPA\n\nRUT: 78.135.154-7\n\nFONO: +56 9 8989 2305\n\nCORREO: [manada.aventurah@gmail.com](mailto:manada.aventurah@gmail.com \"‌\")\n\nDIRECCIÓN: LOS BOLDOS 489, HUALQUI, REGIÓN DEL BIO BIO.",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "68a888c072a09ab5b473084c",
+            "shortLink": "9qToZrvE",
+            "name": "COMERCIALIZADORA DE PRODUCTOS JUAN MUÑOZ ALARCON E.I.R.L.",
+            "desc": "COMERCIALIZADORA DE PRODUCTOS JUAN MUÑOZ ALARCON E.I.R.L.\n\nRUT: 78.189.679-9\n\nFONO: +56 9 61350778\n\nCORREO: [coronelfishing@gmail.com](mailto:coronelfishing@gmail.com \"‌\")\n\nDIRECCIÓN: RÍO HUAQUI #0105",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "672bd50b8a5f3f18d65197ab",
+            "shortLink": "Y3b9or6Y",
+            "name": "COMERCIALIZADORA EL TIBÚRON SPA",
+            "desc": "COMERCIALIZADORA EL TIBÚRON SPA\n\nRUT: 76.658.059-9\n\nTEL: +56 9 5675 8910\n\nCORREO: [gustavodro2@gmail.com](mailto:gustavodro2@gmail.com \"‌\")\n\nDIRECCION: CANTABRIA 1610, VALLE ALTO, CONCEPCION.\n\nRECIBE:",
+            "due": null,
+            "labels": [
+              "SIN DSCTO",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "694ab093d73fe0a0acc0ca9b",
+            "shortLink": "wGbaO5g2",
+            "name": "IMP. Y COM. ERIC MONSALVE PEREZ E.I.R.L.",
+            "desc": "IMP. Y COM. ERIC MONSALVE PEREZ E.I.R.L.\n\nRUT: 76.889.026-9\n\nCORREO: [ventas@yas.cl](mailto:ventas@yas.cl \"‌\")\n\nDIRECCIÓN: JOSÉ TOHA 478, PORTAL DEL VALLE, ARAUCO\n\nFONO: +56982269834\n\nENCARGADO: ERIC ",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "698a599cba3753c8d04f936d",
+            "shortLink": "2CoGjQjL",
+            "name": "EDUARDO ALBERTO ANGUITA BAHAMONDE",
+            "desc": "EDUARDO ALBERTO ANGUITA BAHAMONDE\n\nRUT: 15.260.181-6\n\nDIRECCIÓN: RECREO 838, TEMUCO\n\nFONO: +56 9 83610365\n\nCORREO: [planetaoutdoor@hotmail.com](mailto:planetaoutdoor@hotmail.com \"‌\")\n\nENCARGADO TIENDA",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "694966460cf65ef1a91e4a53",
+            "shortLink": "F7o8jyLy",
+            "name": "SARASQUETA ARTÍCULOS CAZA Y PESCA LTDA.",
+            "desc": "RAZÓN SOCIAL: SARASQUETA ARTÍCULOS CAZA Y PESCA LTDA.\nGIRO: ARTICULOS DEPORTIVOS\nRUT: 78879030-9\nCORREO: [armeriasarasqueta@gmail.com](mailto:armeriasarasqueta@gmail.com \"‌\")\nFONO: 948883124\nENCARGADO",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d4e59c8f23bbfff434de79",
+            "shortLink": "8JVz5nZB",
+            "name": "ARRATIA MOSCAS SPA",
+            "desc": "DESTINATARIO:\n\nRAZÓN SOCIAL: ARRATIA MOSCAS SPA\n\nRUT: 77.285.114-6\n\nTEL 56 9 50244306\n\nCORREO: [felipearratia19@gmail.com](mailto:felipearratia19@gmail.com \"‌\")\n\nDIRECCIÓN: MARTINEZ DE ROSAS 190, PURR",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "6682c689480f5ca0d646928c",
+            "shortLink": "tpAKbwEl",
+            "name": "JOSELO PESCA SPA",
+            "desc": "JOSELO PESCA SPA\nRut: 78.336.749-1\n\nDIRECCIÓN: 26 SUR 281 CONAVICOOP LC 2, TALCA\n\nCORREO: [tiendajocelopesca@hotmail.com](mailto:tiendajocelopesca@hotmail.com \"‌\")\n\nFONO: +56 9 3202 8918\n\nENCARGADO: J",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "65d77314cf9edd1c709eea64",
+            "shortLink": "pKlTu4Re",
+            "name": "PESCADORES LIMITADA",
+            "desc": "DESTINATARIO:\n\nPESCADORES LTDA.\n\nRut: 77.896.360-4\n\nENCARGADO: JUAN IRIGOIN\n\noficina  **(Enviar a Oficina Valdivia)**\n\nFONO: +56 9 81373570\n\nCORREO:  [jirigoinb@gmail.com](mailto:jirigoinb@gmail.com \"",
+            "due": "2025-05-13T14:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "69275daee23ae29ad253d90f",
+            "shortLink": "GGDBfdHI",
+            "name": "DPJ SPA",
+            "desc": "RAZÓN SOCIAL: DPJ SPA\n\nRUT: 78.299.838-2\n\nFONO: 983568717\n\nCORREO: [dpj.contacto@gmail.com](mailto:dpj.contacto@gmail.com \"‌\")\n\nENCARGADO: JAVIER AGUILERA\n\nDIRECCIÓN DE DESPACHO: LOS NOGALES #20, POBL",
+            "due": null,
+            "labels": [
+              "CLIENTES NUEVOS",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d366df3f26bdbad387e2c3",
+            "shortLink": "KMkipa45",
+            "name": "YAMATO SPA",
+            "desc": "DESTINARTARIO:\n\nYAMATO SpA\n\nRUT: 76.544.817-4\n\nAVENIDA PARQUE INDUSTRIAL 481-PUERTO MONTT\n\nTEL +56 9 74991207 - +56 9 72968969\n\nCORREO: [ventas@yamatospa.cl](mailto:ventas@yamatospa.cl \"‌\")\n\n---\n\nREMI",
+            "due": "2025-05-07T17:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d4e8b2119a15372a70a318",
+            "shortLink": "sQPHen8r",
+            "name": "GUIDO SILVA MIRANDA",
+            "desc": "DESTINATARIO:\n\nRAZÓN SOCIAL: GUIDO SILVA MIRANDA\n\nRUT 13.401.914-K\n\nDIRECCIÓN: OHiggins 515, Futrono, Región de Los Ríos\n\nMAIL: [movilcomfutrono@gmail.com](mailto:movilcomfutrono@gmail.com \"‌\")\n\nFONO:",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "Visita"
+            ]
+          },
+          {
+            "id": "65cd308859f29793a55a4b52",
+            "shortLink": "1gtHkw9r",
+            "name": "FRANCISCO JAVIER MALDONADO BARRIA",
+            "desc": "DESTINATARIO:\n\nFRANCISCO JAVIER MALDONADO BARRIA\n\nRUT: 19.437.667-7\n\nFONO: +56964062570\n\nCORREO: [pancho.j.m.b@gmail.com](mailto:pancho.j.m.b@gmail.com \"‌\")\n\nDIRECCIÓN: ARTURO PRAT 269, LOCAL 3-A, ANC",
+            "due": "2025-05-06T19:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "66a3c4e2e4d4e7fe27599401",
+            "shortLink": "cAJDxWlC",
+            "name": "JUAN RODRIGUEZ UBILLA",
+            "desc": "JUAN RODRIGUEZ UBILLA\n\n16\\.283.106-2\n\nFONO: +56 9 8512 2207\n\nDIRECCIÓN: PASAJE EL MICHAY 4597 , TALCAHUANO, REGIÓN DEL BIO BIO\n\nMAIL: [jrodriguez@concepcionsscc.cl](mailto:jrodriguez@concepcionsscc.cl",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "69961556882fbe82e26d0c15",
+            "shortLink": "7OxfYlnP",
+            "name": "MONTAÑA TACTICA SPA",
+            "desc": "MONTAÑA TACTICA SPA\n\n77\\.296.353-K\n\nCORREO: [montanatactica@gmail.com](mailto:montanatactica@gmail.com \"‌\")\n\nDIRECCIÓN: ALDUNATE 541, TEMUCO\n\nTELEFONO: 976183250 ANDRES, 944696221 PEDRO\n\nCONTACTO: AND",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65ca77d220901fe7ce23e367",
+            "shortLink": "xJ64WXDi",
+            "name": "SERVICIOS DE ARQUITECTURA NAVAL CHILE SPA",
+            "desc": "DESTINATARIO:\n\nRAZÓN SOCIAL: SERVICIOS DE ARQUITECTURA NAVAL CHILE SPA\n\nRUT: 77.179.703-2\n\nENCARGADO: LEONARDO VILLARROEL\n\nTEL 56 9 5798 1326\n\nMAIL: [lvillarroel75@gmail.co](mailto:lvillarroel75@gmail",
+            "due": "2025-05-07T22:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "65d7b3ce6a223ca38310e85b",
+            "shortLink": "r8Lq2nqV",
+            "name": "RAFAEL ARTURO ETCHEGARAY OLMEDO",
+            "desc": "DESTINATARIO:\n\nRAFAEL ARTURO ETCHEGARAY OLMEDO\n\nRUT 8.747.944-7\n\nDIRECCIÓN: DIEGO PORTALES 1141, TEMUCO.\n\nENCARGADO DE LOCAL: SERGIO FUENTES\n\nFONO: +56996439037\n\nCORREOS: [jabalitemuco@gmail.com](mail",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d7b42ca533b2e263a38101",
+            "shortLink": "obOJkXSR",
+            "name": "COMERCIAL EL JABALI SPA",
+            "desc": "DESTINATARIO:\n\nCOMERCIAL EL JABALI SPA\n\nRUT: 76.831.693-7\n\nZENTENO 430, TEMUCO\n\nEncargada: ERIKA PAREDES\n\nFONO: +56 [(45) 266 8221](https://www.google.com/search?q=ARMERIA+EL+JABALI+TEMUCO+ZENTENO&oq=",
+            "due": "2025-06-19T14:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "6880108e6e4f3d7860bd8f90",
+            "shortLink": "68SFBB91",
+            "name": "COMERCIALIZADORA CRAZY FISH SPA",
+            "desc": "RAZÓN SOCIAL: COMERCIALIZADORA CRAZY FISH SPA\nRUT: 78.024.878-5\nCORREO: [1986crazyfish@gmail.com](mailto:1986crazyfish@gmail.com \"‌\")\nFONO: 9 54560937\nDIRECCIÓN: LOS ARRAYANES #0230, TEODORO SCHMIDT, ",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "68c0308fcd6a9302bedfb4c1",
+            "shortLink": "7cO8OpLT",
+            "name": "INVERSIONES CERDA Y PARDO SPA",
+            "desc": "INVERSIONES CERDA Y PARDO SPA\n\nRUT: 77.469.839-6\n\nFONO: +56 9 32296632\n\nCORREO: [freddycerda0@gmail.com](mailto:freddycerda0@gmail.com \"‌\")\n\nDIRECCIÓN: AVENIDA CONDE DE MANSO 665, LOCAL 6, MELIPILLA, ",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "664e229909bc8839a91d8793",
+            "shortLink": "FtpsTP4b",
+            "name": "RIGOBERTO AREVALO",
+            "desc": "RIGOBERTO AREVALO\n\n13\\.139.912-K\n\nDIRECCIÓN: MANZANA 4, LOTE 14, PASAJE 5 , CORONEL, REGIÓN BIO BIO.\n\nFONO: +56 9 9935 8619 , (+56 9 65907657 Hijo)\n\nCORREO: [rigobertoa12@gmail.com](mailto:rigobertoa1",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "68ff6640f655150d1fed5f52",
+            "shortLink": "DsK05gBe",
+            "name": "HECTOR ESPINOZA CID",
+            "desc": "HECTOR OLOFERNE ESPINOZA CID\n\nRUT: 12.053.323-1\n\nFONO: +56 9 9667 2903\n\nCORREO: [olofer@gmail.com](mailto:olofer@gmail.com \"‌\")\n\nDIRECCIÓN: CALLE VILLARRICA 170, FREIRE, REGIÓN DE LA ARAUCANIA\n\nENCARG",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d771d1e2fbf5961bd36fc6",
+            "shortLink": "7G1RNXbn",
+            "name": "AUGUSTO RICARDO ARRIAGADA LOVERA",
+            "desc": "DESTINATARIO:\n\nAUGUSTO RICARDO ARRIAGADA LOVERA\n\nRUT: 10.259.441-K\n\nDIRECCIÓN: Caupolicán 443, Local 1, VALDIVIA\n\nTELEFONO: +56 9 78452476\n\nMAIL: [locosporlapescavaldivia@gmail.com](mailto:locosporlap",
+            "due": "2025-05-12T18:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "Visita",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "65d76e70bf2a0359d67bea7d",
+            "shortLink": "SI9De904",
+            "name": "H y V IMPORTACIONES SPA",
+            "desc": "H y V IMPORTACIONES SPA\n\nRUT: 77.533.719-2\n\nTELEFONO: 56974994976\n\nMail: [hheuser@gmail.com](mailto:hheuser@gmail.com \"‌\")\n\n\\*ENVIAR A SUCURSAL TRANSPORTES CRUZ DEL SUR VALDIVIA.\n\n---\n\nREMITENTE:\n\nMI ",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "Visita",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "65d7b14e61855b5ee091e5ff",
+            "shortLink": "diRBvZAl",
+            "name": "ÑIELOL CAZA Y PESCA SpA",
+            "desc": "DESTINATARIO:\n\nÑIELOL CAZA Y PESCA SPA\n\nRut: 77.805.789-1\n\nDIRECCIÓN: AV. CAUPOLICAN #0592 LOCAL 2, TEMUCO\n\nENCARGADO: MIGUEL RUBILAR GARCIA\n\nFONO: +56995598040\n\nCORREO: [nielol.cazaypesca@gmail.com](",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "Visita"
+            ]
+          },
+          {
+            "id": "66a7ef3c5610a2518a12c2e2",
+            "shortLink": "s7q5ohdk",
+            "name": "R&B CHILE SPA",
+            "desc": "DESTINATARIO:\n\nR&B CHILE SPA\n\nRUT:  76932857-2\n\nTEL: 964765435\n\nCORREO: [pescaycazaryb@gmail.com](mailto:pescaycazaryb@gmail.com \"‌\")\n\nDIRECCION: GREGORIO CORDOVEZ 540, LOCAL 107, LA SERENA\n\nRECIBE: M",
+            "due": "2025-10-03T15:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "CONTACTO FRECUENTE",
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "65c4d9a0fd9910a9559a0a05",
+            "shortLink": "I2fBk5FH",
+            "name": "HOJALATERIA GALVALUM SPA",
+            "desc": "DESTINATARIO:\n\nHOJALATERIA GALVALUM SPA\n\nRUT: 77272712-7\n\nTEL: 942007775\n\nCORREO: [PROPEZCATALCA@GMAIL.COM](mailto:PROPEZCATALCA@GMAIL.COM \"‌\")\n\nDIRECCION: 2 NORTE 2541, TALCA\n\nRECIBE: MARIO O FRAN\n\nR",
+            "due": "2025-09-26T13:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "CONTACTO FRECUENTE",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d64d9f662c6ef13f45c5c2",
+            "shortLink": "BhWU2kcU",
+            "name": "VICTORIA ANDREA URRA NUÑEZ (PROMAR)",
+            "desc": "DESTINATARIO:\n\nVICTORIA ANDREA URRA NUÑEZ\n\nRUT: 11.529.365-6\n\nTEL: +56 9 51207063\n\nCORREO: [arturoflores992@gmail.com](mailto:arturoflores992@gmail.com \"‌\")\n\nDIRECCION: HUASCAR 1, PICHIDEGUA\n\nRECIBE: ",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65f3db7dc1a531689ba3baa4",
+            "shortLink": "bgoP6Dua",
+            "name": "ASESORIAS Y SERVICIOS TALCA LIMITADA",
+            "desc": "DESTINATARIO:\n\nASESORIAS Y SERVICIOS TALCA LIMITADA\n\nRUT: 77.630.290-2\n\nTEL: 9 97415091\n\nCORREO: [RUTASDELMAULE1@GMAIL.COM](mailto:RUTASDELMAULE1@GMAIL.COM \"‌\")\n\nDOMICILIO: AV COLIN 635 LOCAL 1009-A, ",
+            "due": "2025-09-26T14:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65f3dbfae75ae36571ebe4be",
+            "shortLink": "RCpkWYou",
+            "name": "ASESORIAS SERVICIOS INTEGRALES MENSAJERIA Y EXPORTACIONES LIMITADA",
+            "desc": "DESTINATARIO:\n\nASIMEX LIMITADA\n\nRUT: 76.209.020-1\n\nTEL: 992439950\n\nCORREO: [RUTASDELMAULEMALLPLAZA@GMAIL.COM](mailto:RUTASDELMAULEMALLPLAZA@GMAIL.COM \"‌\")\n\nDOMICILIO: AVENIDA CIRCUNVALACIÓN ORIENTE 10",
+            "due": "2025-09-24T19:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65d39ae45d0272efb3d6f155",
+            "shortLink": "wsw34lWb",
+            "name": "WOLF SPORT SPA RANCAGUA",
+            "desc": "DESTINATARIO:\n\nWOLF SPORT SPA\n\nRUT: 76.701998-K\n\nTEL: 9 94422067\n\nCORREO: [Hcastillo@wolfsport.cl](mailto:Hcastillo@wolfsport.cl \"‌\")\n\nDOMICILIO: BRASIL 1173 LOCAL 2- RANCAGUA\n\nRECIBE: HECTOR CASTILLO",
+            "due": "2025-11-05T14:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "Visita"
+            ]
+          },
+          {
+            "id": "66104de668bed9f15555e124",
+            "shortLink": "t7jtWtvK",
+            "name": "JUAN CARLOS RAMIREZ RUIZ",
+            "desc": "DESTINATARIO:\n\nJUAN CARLOS RAMIREZ RUIZ\n\nRUT: 23312814-7\n\nTEL: 973826576\n\nCORREO: [ramirezjuancarlos98@gmail.com](mailto:ramirezjuancarlos98@gmail.com \"‌\")\n\nDIRECCION: AGENCIA QUILLOTA PLAZA\n\nRECIBE: ",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "65de96d94e3e328afa383476",
+            "shortLink": "K7930180",
+            "name": "TREMENDO PIQUE FISHING SPA",
+            "desc": "DESTINATARIO:\n\nTREMENDO PIQUE FISHING SPA\n\nRUT: 77552111-2\n\nTEL: 956783251\n\nCORREO: [claudio.tapiad@gmail.com](mailto:claudio.tapiad@gmail.com \"‌\")\n\nDIRECCION: TOKIO 648, LA CALERA\n\nRECIBE: CLAUDIO\n\nR",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "CONTACTO FRECUENTE",
+              "CREDITO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "67d984cd6a86299e76b0ce67",
+            "shortLink": "WVXJPGyR",
+            "name": "SAMUEL ZURITA",
+            "desc": "DESTINATARIO:\n\nSAMUEL ZURITA\n\nRUT: 13953391-7\n\n\\+56952932670\n\nCORREO: [CATHERINEMARTINEZ.CM36@GMAIL.COM](mailto:CATHERINEMARTINEZ.CM36@GMAIL.COM \"‌\")\n\nDIRECCION: CALLE 2 #1389, ETAPA 1, LLACOLEN DEL M",
+            "due": null,
+            "labels": [
+              "SIN DSCTO"
+            ]
+          },
+          {
+            "id": "670d2ce4a1039e89c0c8ea5e",
+            "shortLink": "nrs0Ely6",
+            "name": "WOLF SPORT SPA (TALCA)",
+            "desc": "DESTINATARIO:\n\nWOLF SPORT SPA\n\nRUT: 76.701998-K\n\n[TEL: ](TEL: \"‌\")9 94422067\n\nCORREO: [Hcastillo@wolfsport.cl](mailto:Hcastillo@wolfsport.cl \"‌\")\n\nDOMICILIO: 13 ORIENTE 1096, LOCAL 5, ESQUINA 1 SUR, T",
+            "due": "2025-09-26T17:30:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "dscto 10%",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "662fd90a8bd0ff0ee12bbd71",
+            "shortLink": "8GrXxvhL",
+            "name": "Artículos de pesca y caza Boris Agustin Pizarro Santana E.I.R.L",
+            "desc": "DESTINATARIO:\n\nArtículos de pesca y caza Boris Agustin Pizarro Santana E.I.R.L\n\nRUT: 78.131.903-1\n\nTEL: 986326943\n\nCORREO: [boris.pizarro.santana@hotmail.com](mailto:boris.pizarro.santana@hotmail.com ",
+            "due": null,
+            "labels": [
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "65f9da814e531f5770eccb11",
+            "shortLink": "2Gboibr9",
+            "name": "DANIEL GOMEZ MENNESES",
+            "desc": "RAZÓN SOCIAL:\nDANIEL ANDRES GOMEZ MENNESES\nRUT: 16.944.220-7\nTIENDA: CAZA Y PESCA TRIMAR\n\nCaza Y Pesca Trimar.\nAv errazuriz 354 Peralillo\nTELÉFONO: 942902426\n\nANDIMAR DIRECCIÓN: Edison 4524 Quinta Nor",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "NUEVO PEDIDO": [
+          {
+            "id": "66cddccc71e5e0e9f9bf5ae9",
+            "shortLink": "QQDZHUzu",
+            "name": "NUEVO PEDIDO",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65d7b52d492243d027e87d08",
+            "shortLink": "jASV8iPf",
+            "name": "CRISTOBAL BUENO",
+            "desc": "DESTINATARIO:\n\nCRISTOBAL BUENO\n\nRUT: 77.327.402-9\n\nDIRECCIÓN: AV VICENTE MENDEZ 1545, VIVO OUTLET, LOCAL 1080, CHILLÁN\n\nTEL: +56 9 68258342\n\nMAIL: [crist_babb@hotmail.com](mailto:crist_babb@hotmail.co",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "Visita"
+            ]
+          },
+          {
+            "id": "6908f978ab626086f0c5cc16",
+            "shortLink": "VCJYHwiP",
+            "name": "CALFMANN SPA",
+            "desc": "RAZÓN SOCIAL: CALFMANN SPA\n\nRUT: 78.283.875-K\n\nCORREO:  [rudycalfin@gmail.com](mailto:rudycalfin@gmail.com \"‌\")\n\nFONO: +56 9 5616 4715  - +56 9 3258 8438\n\nDIRECCIÓN: MIRAFLORES 829, TEMUCO, REGIÓN DE ",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65cfd36e322fe6fce3013764",
+            "shortLink": "OISxRR20",
+            "name": "PESCA MORTAL CONCE SPA",
+            "desc": "DESTINATARIO:\n\nPESCA MORTAL CONCE SPA\n\nRUT: 77053041-5\n\nTEL: 977905214\n\nCORREO: [contacto@pescamortalconce.cl](mailto:contacto@pescamortalconce.cl \"‌\")\n\nDIRECCION: AVENIDA 8 ORIENTE 1700 B, CHIGUAYANT",
+            "due": null,
+            "labels": [
+              "ZONA SUR",
+              "dscto especial",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "664fb3e441c0c29604c6539c",
+            "shortLink": "XQkb0siJ",
+            "name": "CRISTIAN ANDRES CRUZ CAMUS",
+            "desc": "Cristian Andres Cruz Camus\n\nDIRECCIÓN: Av Jose Miguel Infante 27. Salamanca\n\nRUT: 13749232-6\n\nTEL: 961749406\n\n‌\n\nTRANSPORTES MANQUE\n\nAVENIDA 5 DE ABRIL 3874, ESTACIÓN CENTRAL.\n\nHORARIO: 9:30-17:30\n\n‌\n",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "677300337b444bb761fb6f94",
+            "shortLink": "ORup8UZA",
+            "name": "THE SALTY GAME CHILE SPA (NO TIENDA)",
+            "desc": "DESTINATARIO:\n\nTHE SALTY GAME CHILE SPA\n\nRUT: 78057133-0\n\n[TEL: ](TEL: 98562741 \"‌\")+56 957380051\n\nCORREO: [thesaltygamechile@gmail.com](mailto:thesaltygamechile@gmail.com \"‌\")\n\nDIRECCION:  AGENCIA ST",
+            "due": null,
+            "labels": [
+              "ZONA NORTE",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "65c7bf810a10be6117281b64",
+            "shortLink": "O2jwtKkK",
+            "name": "PESCAAVENTURA SPA",
+            "desc": "DESTINATARIO:\n\nPESCAAVENTURA SPA\n\nRUT: 77.760.248-9\n\nTEL: 9 85293602\n\nCORREO: [Cristian.mondaca@pescaaventura.cl](mailto:Cristian.mondaca@pescaaventura.cl \"‌\")\n\nDIRECCION: ARLEGUI 1109 LOCAL 36 VIÑA D",
+            "due": "2026-03-04T18:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "65c7c0fabc76bfc650de1611",
+            "shortLink": "rsdTHNgn",
+            "name": "MARISOL VALENZUELA",
+            "desc": "DESTINATARIO:\n\nMARISOL VALENZUELA\n\nRUT: 8.721.136-3\n\nTEL: 989883575\n\nCORREO: [marisolpescadeportiva@hotmail.com](mailto:marisolpescadeportiva@hotmail.com \"‌\")\n\nDIRECCION: MARINA 1038, VIÑA DEL MAR.\n\nR",
+            "due": "2026-03-04T18:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "660daab59ce304450eb4de2a",
+            "shortLink": "ena02YR4",
+            "name": "INVERSIONES YANFRANCO PATUELLI SPA",
+            "desc": "DESTINATARIO:\n\nINVERSIONES YANFRANCO PATUELLI SPA\n\nRUT: 76341054-4\n\nTEL: 994335619\n\nCORREO: [multisportpescaza@gmail.com](mailto:multisportpescaza@gmail.com \"‌\")\n\nDIRECCION: FRANKLIN 837, SANTIAGO\n\nRE",
+            "due": "2025-07-07T18:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "Visita"
+            ]
+          },
+          {
+            "id": "660adac916c208b5151d1640",
+            "shortLink": "chWVlzoj",
+            "name": "JEAN PIERRE ALEJANDRO MENDOZA VALLEJOS",
+            "desc": "DESTINATARIO:\n\nJEAN PIERRE ALEJANDRO MENDOZA VALLEJOS\n\nRUT: 17954580-2\n\nTEL: 989964029\n\nCORREO: [jean_mendoza.v@hotmail.com](mailto:jean_mendoza.v@hotmail.com \"‌\")\n\nDIRECCION: AGENCIA LIMACHE\n\nRECIBE:",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "6703ec6b44294c709eee2078",
+            "shortLink": "8PCDjo6F",
+            "name": "REAL SHOOTERS SPA",
+            "desc": "REAL SHOOTERS SPA\n\n76\\.615.491-3\n\nVENTA AL POR MENOR DE ARTICULOS DE CAZA\n\nDIRECCIÓN: AVDA. COLLIN 1067, CHILLÁN.\n\nFONO: +56994085263\n\nMAIL: [cvejar_@hotmail.com](mailto:cvejar_@hotmail.com \"‌\")\n\nENCA",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "65e244a6f1de15f48313bafb",
+            "shortLink": "fijzZs4S",
+            "name": "CYS FISHING GROUP CHILE LIMITADA MICHAEL ST",
+            "desc": "TIENDA: MITCHAEL ST RAZON SOCIAL:\n\nCYS FISHING GROUP CHILE LIMITADA\n\nRUT: 77.254.446-4\n\nRut: 15.692.845-3\nAv. La Pampa 3779 Local 8 Segundo Pasillo ALTO HOSPICIO\n[Tel: ](Tel: \"‌\")9 90778111\n\nMichael s",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65d746cd652fb325b9c2391a",
+            "shortLink": "FaefQhX2",
+            "name": "VENTA DE ARTICULOS DE PESCA DAISSY ROSA CALDERON OLGUIN E.I.R.L.",
+            "desc": "DESTINATARIO:\n\nVENTA DE ARTICULOS DE PESCA DAISSY ROSA CALDERON OLGUIN E.I.R.L.\n\nRUT: 77510716-2\n\nTEL: 933617026\n\nCORREO: [cueto.algarrobo@gmail.com](mailto:cueto.algarrobo@gmail.com \"‌\")\n\nDIRECCION: ",
+            "due": "2025-01-08T03:07:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "65dcc3d1deea7fad82110285",
+            "shortLink": "KuflUyvg",
+            "name": "MARIO VERGARA GUTIERREZ",
+            "desc": "DESTINATARIO:\n\nMARIO VERGARA GUTIERREZ\n\nRUT: 15.630.375-5\n\nTEL: 944597141\n\nCORREO:  [mario.vergara.pro@hotmail.com](mailto:mario.vergara.pro@hotmail.com \"‌\")\n\nDIRECCION: ROSARIO 1209 CURICO\n\nRECIBE: M",
+            "due": "2025-11-07T13:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "ZONA CENTRO",
+              "dscto 10%",
+              "Visita"
+            ]
+          },
+          {
+            "id": "664e2e3fbe555e83f2444bac",
+            "shortLink": "iwaOJqKG",
+            "name": "HUNTER SHOTT SPA",
+            "desc": "DESTINATARIO:\n\nCOMERCIAL HUNTER SHOTT SPA\n\nRUT: 76.713.546-7\n\nTEL: 56984238817\n\nCORREO: [hernan.tb@outlook.com](mailto:hernan.tb@outlook.com \"‌\")\n\nDIRECCION: RODRIGUEZ 1080, LOCAL 13, CURICO.\n\nRECIBE:",
+            "due": "2025-11-07T14:25:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "65cd393526d5b795e7067744",
+            "shortLink": "xHq2E57e",
+            "name": "COMERCIAL JANET CAROLINA SALDIVIA NENEN E.I.R.L.",
+            "desc": "DESTINATARIO:\n\nCOMERCIAL JANET CAROLINA SALDIVIA NENEN E.I.R.L.\n\nRut: 76.744.773-6\n\nENCARGADA: CAROLINA SALDIVIA NENEN\n\nDIRECCIÓN: PUDETO 272, LOCAL 19, PASEO PLAZA, ANCUD, CHILOÉ\n\nFONO: +56 9 6255 01",
+            "due": "2025-05-06T21:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "65d3625d7708398e1102f58f",
+            "shortLink": "wF2Onlb7",
+            "name": "PORVENIR SPA",
+            "desc": "DESTINATARIO:\n\nRAZON SOCIAL: PORVENIR SPA\n\nRUT: 77.314.747-7\n\n\\+56996119072\n\nDIRECCIÓN: PANAMERICANA SUR 1822, CASTRO, CHILOÉ\n\nMAIL: [godoybarker@gmail.com](mailto:godoybarker@gmail.com \"‌\")\n\n---\n\nREM",
+            "due": "2025-05-09T14:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "66cf807ce4705fe38f6b8664",
+            "shortLink": "ur3ZnOeT",
+            "name": "JONATHAN FERRADA CALFUMAN",
+            "desc": "RAZÓN SOCIAL: JONATHAN FERRADA CALFUMAN\n\nRUT: 16.187.084-6\n\nFONO: +56 9 7610 5832  -  +56 9 7415 0776\n\nCORREO: [jonfishing86@gmail.com](mailto:Jonfishing86@gmail.com \"‌\")\n\nDIRECCIÓN: CALLE UNO NORTE #",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "662140b1e760382976b065a9",
+            "shortLink": "xJthGczR",
+            "name": "DIEGO - LUIS GALLARDO",
+            "desc": "DESTINATARIO:\nLUIS ANTONIO GALLARDO OLIVARES\nRUT: 10.102.809-7\nDIRECCIÓN: Independencia 183, CHAÑARAL\nTELÉFONO: 569 9348238\n\nSTARKEN\n\n‌\n\nEL CLIENTE POSEE CREDITO A 15 DIAS",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "66182e3dcec0ea6658a084b5",
+            "shortLink": "ynO2ARoj",
+            "name": "LUIS ARMANDO NUÑEZ",
+            "desc": "‌\n\nDESTINATARIO\n\nLuis Armando Nuñez Hernandez\nRUT 20.144.007-6\nPoblacion san francisco pasaje los quillayes N8-PERALILLO\n\ntel 9 71671296\n\nTRANSPORTE VILCHES Francisco Javier 468, Quinta Normal, TEL (5",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "65aeb68b970d07cc200dc800",
+            "shortLink": "b61lrjO2",
+            "name": "INSUMOS DE PESCAY CAZA & LUIS ALBERTO PINTO CONTRERAS E.I.R.L.",
+            "desc": "RAZON SOCIAL: INSUMOS DE PESCAY CAZA & LUIS ALBERTO PINTO CONTRERAS E.I.R.L.\nRUT:76.575.839-4\n\nCORREO: [ventas@extremeangler.cl](mailto:ventas@extremeangler.cl \"‌\")\n\nENCARGADO: LUIS PINTO\nDIRECCION: C",
+            "due": "2024-05-24T17:00:00.000Z",
+            "labels": [
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "660da63c673cd87805ad07e7",
+            "shortLink": "ipSMGwx8",
+            "name": "COMERCIALIZADORA BARRACUDA FISHING SHOP CHILE LIMITADA",
+            "desc": "DESTINATARIO:\n\nCOMERCIALIZADORA BARRACUDA FISHING SHOP CHILE LIMITADA\n\nRUT:  77793728-6\n\nTEL: 949194747\n\nCORREO:\n\nDIRECCION:\n\nRECIBE:\n\nREMITENTE\n\nMI TIENDA SPA\n\nRUT 76.999.020-8\n\nSANTIAGO\n\nTEL 9344659",
+            "due": "2025-01-07T03:07:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "662fd71233ef29d69b91a4b2",
+            "shortLink": "fdZXwIQ1",
+            "name": "NELLY ELIZABETH VARGAS MORALES",
+            "desc": "DESTINATARIO:\n\nNELLY ELIZABETH VARGAS MORALES\n\nRUT: 7940446-2\n\nTEL: 998275191\n\nCORREO: [electronicalaligua@gmail.com](mailto:electronicalaligua@gmail.com \"‌\")\n\nDIRECCION: ORTIZ DE ROZAS 434, LOCAL 36,",
+            "due": "2025-08-13T16:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "65e24539b4de255f049e15fe",
+            "shortLink": "ci8sOvqN",
+            "name": "COMERCIALIZADORA CARBIPEZ SPA/a  Raul Soto Toro",
+            "desc": "COMERCIALIZADORA CARBIPEZ SPA\n\nRUT 77.852.041-9\n\nPadre Juan Orione 909-ANTOFAGASTA\n\n[TEL:968486362](TEL:968486362 \"‌\")\n\nRECIBE Raul Soto Toro\n\n‌\n\nTRANSPORETE POBLETE DIRECCIÓN: Lo Espejo #860, Bodega ",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "660ece9f025ac16cee7c34a9",
+            "shortLink": "54CZjFjV",
+            "name": "TIENDA EL SEÑUELO",
+            "desc": "DESTINATARIO:\n\nTienda El Señuelo\n\nRUT: 12.450.776-6\n\nTEL: 991235405\n\nCORREO: [christian@elsenuelo.cl](mailto:christian@elsenuelo.cl \"‌\")\n\nDOMICILIO: CALLE BLANCO N°1033, VALPARAISO\n\nRECIBE: Christian ",
+            "due": "2026-03-06T15:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "CREDITO"
+            ]
+          }
+        ],
+        "En Preparacion": [
+          {
+            "id": "67f3e87d96108b61f16728b1",
+            "shortLink": "Y1Rs0aMa",
+            "name": "En Preparacion",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66aa9a685897ce210f00fb87",
+            "shortLink": "nQ7DNam3",
+            "name": "Ventas de productos recreativos y de Pesca Eduardo Maldonado E.I.R.L",
+            "desc": "DESTINATARIO\n\nVENTAS DE PRODUCTOS RECREATIVOS Y DE PESCA EDUARDO MALDONADO\n\nRUT 77.377.988-0\n\nAvda buen retiro 992, altos del valle VALLENAR\n\nTEL 956691138\n\n‌\n\nTRANSPORTE VARMONTT\nDIRECCIÓN: GENERAL B",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "660db1e4c86be88056e5e9d8",
+            "shortLink": "CgJRWLFC",
+            "name": "SPEED FIRE /                              PRODUCTOS DEPORTIVOS MORALES Y AVALOS LTDA",
+            "desc": "DESTINATARIO\n\nSPEEDFIRE SPA\nRUT: 77.867.833-0\nPRAT 977 LOCAL 6 VALLENAR\n\nTEL: 5696130997\nBERNARDA VERONICA MORALES TAPIA\n\nTRANSPORTE VARMONTT\nDIRECCIÓN: GENERAL BUSTAMANTE 656 ÑUÑOA\nHORARIO DE ATENCIÓ",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE"
+            ]
+          }
+        ],
+        "LISTO PARA DESPACHO": [
+          {
+            "id": "67f91b90cace48b71208ef95",
+            "shortLink": "HC1FppFR",
+            "name": "Listo para Despacho",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66044fb5ba87691f18a96973",
+            "shortLink": "hre46jFD",
+            "name": "DISTRIBUIDORA DON ALVARO LTDA, ZAMORA",
+            "desc": "Distribuidora Don Alvaro Ltda\n82\\.085.100-5\nMERINO JARPA 865, CHAÑARAL\n[azamoratello@donalvaro.cl](mailto:azamoratello@donalvaro.cl \"‌\")\n\\+56962384600\n\nposee CREDITO A 15 DIAS\n\n‌\n\nSTARKEN",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "65ca67e469cceaf9b8a4bb35",
+            "shortLink": "HdZLaTzf",
+            "name": "COMERCIALIZADORA NAUTICA FERMAR LIMITADA",
+            "desc": "DESTINATARIO:\nCOMERCIALIZADORA NAUTICA FERMAR LIMITADA\nRUT: 77.991.952-8\nDIRECCIÓN: CHORRILLOS 1582, PUERTO MONTT\nEMAIL: [gsubiabre@nauticafermar.cl](mailto:Gsubiabre@nauticafermar.cl \"‌\")  -  [contac",
+            "due": "2025-05-07T15:00:00.000Z",
+            "labels": [
+              "ZONA SUR",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "6602e8da50ac4fe88647b275",
+            "shortLink": "lUQ0oVc8",
+            "name": "SPRINGBOK S.A",
+            "desc": "DESTINATARIO:\n\nSPRINGBOX S.A\n\nRUT: 96.578.020-3\n\nTEL: 223600270\n\nCORREO: [rodandgun@gmail.com](mailto:rodandgun@gmail.com \"‌\")\n\nDOMICILIO: AV. LAS CONDES 9607\n\nRECIBE: MARC\n\nREMITENTE\n\nMI TIENDA SPA\n\n",
+            "due": "2025-11-04T17:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "Visita"
+            ]
+          },
+          {
+            "id": "664e293374b07fe61f398961",
+            "shortLink": "Yp5IzYCt",
+            "name": "MEBARU SPA",
+            "desc": "MEBARU SPA\nRUT 77338497-7\nTEL 966869626\n\nSR: TAREK JEREZ\n\nCOPIAPO 936\n\nANTOFAGASTA\n\nTRANSPORTE POBLETE\n\nLo Espejo #860, Bodega 63. Maipú.\n\n‌\n\nCLIENTE PAGA A LOS 7 DIAS",
+            "due": null,
+            "labels": [
+              "ZONA NORTE",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "65fae3cb80db170876717649",
+            "shortLink": "P4amdSps",
+            "name": "sport fishing Taltal spa",
+            "desc": "DESTINATARIO:\n\nSPORT FISHING TALTAL SPA\n\nRUT: 77.991.342-2\n\nSUCURSAL VARMONTT TALTAL\n\n TEL 56 9 8195 3748\n\nESTEBAN VALENZUELA CORDOVEZ\n\n‌\n\nCLIENTE POSEE CREDITO A 30 DIAS\n\n‌\n\nTRANSPORTE VARMONTT\n\nDIRE",
+            "due": "2025-01-09T23:59:59.000Z",
+            "labels": [
+              "dscto 10%",
+              "CONTACTO FRECUENTE",
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "67701dae419a979bc1160eb0",
+            "shortLink": "HKO05PlD",
+            "name": "FISHING ARICA (IQUIQUE)",
+            "desc": "DESTINATARIO:\n\nFISHING ARICA SPA\n\nRUT: 77.366.564-8\n\nTEL: 5698777246\n\nCORREO: [Alexissmitharce@gmail.com](mailto:Alexissmitharce@gmail.com \"‌\")\n\nDIRECCION: VIVAR 855, LOCAL 210 SEGUNDO PISO, IQUIQUE\n\n",
+            "due": null,
+            "labels": [
+              "dscto 10%",
+              "CREDITO"
+            ]
+          },
+          {
+            "id": "65d77e269c60630d19aff80f",
+            "shortLink": "IE32y2kT",
+            "name": "PESCAPASION",
+            "desc": "DESTINATARIO:\n\nPESCAPASION\n\nRUT:  77872381-6\n\nTEL: 982068339\n\nCORREO: [cortesmarcelo87@gmail.com](mailto:cortesmarcelo87@gmail.com \"‌\")\n\nDIRECCION: CARVALLO 559, BLOQUE 10, CALDERA\n\nRECIBE: MARCELO CO",
+            "due": null,
+            "labels": [
+              "ZONA NORTE",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "65e2457dc34bd3332d701237",
+            "shortLink": "6B4bAL8U",
+            "name": "EMPORIO OUTDOOR SPA",
+            "desc": "EMPORIO OUTDOOR SPA.\n\nRUT: 77.616.848-3\n\nTELÉFONO: 992275557\n\nDIRECCIÓN: LORD COCHRANE 1987. ANTOFAGASTA.\n\nSR RAUL PORTILLA\n\n# _cliente con credito mitad de su factura_\n\n‌\n\nTRANSPORTE PDQ\n\nsanta rosa ",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6650cc6a20b74c23d8ace85b",
+            "shortLink": "w7Risr0b",
+            "name": "INTEGRAL LIFE SPA",
+            "desc": "INTEGRAL LIFE SPA\n\nRUT: 76.964.744-9\n\nCalle 6 Villa Bosque San Carlos 60 B-3 Local 11- COQUIMBO\n\n[TEL: ](TEL: \"‌\")9 74429164\n\n‌\n\nTRANSPORTE OSTERWYK DIRECCIÓN: Compañia 4425- QUINTA NORMAL HORARIO: DE",
+            "due": null,
+            "labels": [
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "65cb8bd69494efdf4f973196",
+            "shortLink": "o6kfG5A3",
+            "name": "MUNDO PESCA SPA",
+            "desc": "DESTINATARIO:\n\nMUNDO PESCA SPA\n\nRUT:  78258379-4\n\nTEL: 952263122\n\nCORREO: [mundopesca.tienda@gmail.com](mailto:mundopesca.tienda@gmail.com \"‌\")\n\nDIRECCION: RETIRO EN TIENDA\n\nRECIBE: JORDAN\n\nREMITENTE\n",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "CONTACTO FRECUENTE"
+            ]
+          },
+          {
+            "id": "699c843204225c6e4a054a26",
+            "shortLink": "MyG24pVi",
+            "name": "PCP STUAR SPA / VICTOR STUARDO",
+            "desc": "PCP STUAR SPA\n77401911-1\nDireccion Calle loncomilla 2325\nSan javier\nTEL ‪+56 9 8260 1972‬\n\n## TRANSPORTE\n\nTRANSPORTE TVP\nDIRECCIÓN: General Bustamante #656, Ñuñoa\nHORARIO: 9:00 A 18:00\nTELÉFONO: 93954",
+            "due": null,
+            "labels": [
+              "CLIENTES NUEVOS",
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "66228f7cfc49af7c80fa26ee",
+            "shortLink": "jKt97XF3",
+            "name": "COMERCIALIZADORA CARLA ANDREA CACERES GALLARDO EIRL LIMITADA",
+            "desc": "Destinatario:\n\nCOMERCIALIZADORA CARLA ANDREA CACERES GALLARDO EIRL LIMITADA\n\n77590372-4\n\n\\+56950334051\n\n[ccgallardo1972@live.com](mailto:ccgallardo1972@live.com \"‌\")\n\nSusana Serrat 48 villa San Miguel",
+            "due": null,
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "6859cb5e32622fe0ad2b0dcf",
+            "shortLink": "3CBSFZBL",
+            "name": "COMERCIAL SF LIMITADA",
+            "desc": "DESTINATARIO:\n\nCOMERCIAL SF LIMITADA\n\nRUT: 78.179.854-1\n\nTEL: +56934300299\n\nCORREO: [SHOOTINGANDFISHING1@GMAIL.COM](mailto:SHOOTINGANDFISHING1@GMAIL.COM \"‌\")\n\nDIRECCION: PEÑA 459, LOCAL 12, CURICO\n\nRE",
+            "due": null,
+            "labels": [
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "66a954d5362f8bf5b60b8b55",
+            "shortLink": "7jkSyQfD",
+            "name": "VALDES Y ZAMORANO SPA",
+            "desc": "DESTINATARIO:\n\nVALDÉS Y ZAMORANO SPA\n\nRUT: 77027294-7\n\nTEL: +56956399410\n\nCORREO: -----\n\nDOMICILIO: AV ESPAÑA 1065, SAN VICENTE TT\n\nRECIBE:  ROMUALDO VALDEZ\n\nREMITENTE\n\nMI TIENDA SPA\n\nRUT 76.999.020-8",
+            "due": "2025-12-11T14:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "CONTACTO FRECUENTE",
+              "Visita",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "6736acbd19f3ed3f0941ced6",
+            "shortLink": "Ku8XOrGT",
+            "name": "VERONICA CONTRERAS PONCE",
+            "desc": "DESTINATARIO:\n\nVERONICA CONTRERAS PONCE\n\nRUT: 10543908-3\n\nTEL:  56990084929\n\nCORREO: [salinasmiguel9971@gmail.com](mailto:salinasmiguel9971@gmail.com \"‌\")\n\nDIRECCION: POBLACION SUEÑO DORADO 2 CALLE EM",
+            "due": "2025-10-30T18:46:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          },
+          {
+            "id": "66cbf256672298dee928faa3",
+            "shortLink": "oSOxjHxN",
+            "name": "COMERCIALIZADORA MONZÓN Y PALMA LIMITADA",
+            "desc": "DESTINATARIO:\n\nCOMERCIALIZADORA MONZÓN Y PALMA LIMITADA\n\nRUT: 77904006-2\n\nTE: +56931238097\n\nCORREO: [elbazardeloscris@gmail.com](mailto:elbazardeloscris@gmail.com \"‌\")\n\nDIRECCION: ELOY ALFARO 91, VALP",
+            "due": "2025-08-01T20:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "672a276545164aa8556b5c33",
+            "shortLink": "GJZPHkiN",
+            "name": "Pescadictos SpA SERGIO HERRERA",
+            "desc": "Pescadictos SpA\nRut : 77.931.313-1\nDirección Jeremias cortez #415 Población 21 de mayo\nCiudad: Huasco\nRegión: Atacama\nDirección de correo electrónico: [pescadictosspa@gmail.com](mailto:pescadictosspa@",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "En transito a Cliente": [
+          {
+            "id": "66cdde12e23d7ce83a3dc408",
+            "shortLink": "eTAAZMgc",
+            "name": "En transito a Cliente",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "69977a85b971ba569dbdfdec",
+            "shortLink": "NvcDz03D",
+            "name": "SOCIEDAD COMERCIAL LOS LAGOS LTDA",
+            "desc": "RAZON SOCIAL: SOCIEDAD COMERCIAL LOS LAGOS LTDA\nRUT: 76.001.504-0\nDIRECCIÓN: TORREMOLINOS 485, LOCAL 104, TEMUCO\nFONO: +56 9 9157 0025\nCORREO: [comercial.loslagos@gmail.com](mailto:comercial.loslagos@",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "69a5e24eab579cd8acadfa98",
+            "shortLink": "yNV5npcs",
+            "name": "JOSE MANUEL BAES REVECO",
+            "desc": "DESTINATARIO:\n\nJOSE MANUEL BAES REVECO\n\nRUT: 20.178.218-k\n\nCEL: +56 9 6486 6540\n\nCORREO: [imperiodecaza2022@icloud.com](mailto:imperiodecaza2022@icloud.com \"‌\")\n\nDIRECCION: MIRAFLORES 616, CHIMBARONGO",
+            "due": null,
+            "labels": [
+              "CLIENTES NUEVOS"
+            ]
+          },
+          {
+            "id": "69a5e3b3825f3a4fa4224624",
+            "shortLink": "CdrKM6KJ",
+            "name": "CHRISTOPHER FERNANDO ÁVALOS RIARTE",
+            "desc": "DESTINATARIO:\n\nCHRISTOPHER FERNANDO ÁVALOS RIARTE\n\nRUT: 17.644.158-5\n\nCEL: +56961160914\n\nCORREO: [AVALOS.RIARTE@GMAIL.COM](mailto:AVALOS.RIARTE@GMAIL.COM \"‌\")\n\nDIRECCION: : AGENCIA HUASCO\n\nRECIBE: CHR",
+            "due": null,
+            "labels": [
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "660dac39c35e20a0007c3a72",
+            "shortLink": "GAuWtp6V",
+            "name": "ESTEBAN ALEJANDRO SANHUEZA RODRIGUEZ",
+            "desc": "DESTINATARIO:\n\nESTEBAN ALEJANDRO SANHUEZA RODRIGUEZ\n\nRUT: 13832101-0\n\nTEL: +56967406750\n\nCORREO: [ARMERIAMATIAS@GMAIL.COM](mailto:ARMERIAMATIAS@GMAIL.COM \"‌\")\n\nDIRECCION: Maipú 698 local 2, Linares\n\nR",
+            "due": "2025-09-25T13:00:00.000Z",
+            "labels": [
+              "dscto 10%",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "6761f1fa3f94b815508ae23d",
+            "shortLink": "5xhf2vL4",
+            "name": "COMERCIALIZACION ARTICULOS CAZA Y PESCA OSCAR PIZARRO PEÑA E.I.R.L",
+            "desc": "DESTINATARIO:\n\nCOMERCIALIZACION ARTICULOS CAZA Y PESCA OSCAR PIZARRO PEÑA E.I.R.L\n\nRUT:  77226547-6\n\n(TEL: 94919474 \"‌\")932623222\n\nCORREO: [BALTHUNTER20@GMAIL.COM](mailto:BALTHUNTER20@GMAIL.COM \"‌\")\n\n",
+            "due": null,
+            "labels": [
+              "SIN DSCTO",
+              "ZONA CENTRO"
+            ]
+          },
+          {
+            "id": "69a5e69aaabb99cbde1f2a2a",
+            "shortLink": "N4fDlQcS",
+            "name": "COMERCIALIZADORA CARLOS SILVA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA",
+            "desc": "DESTINATARIO:\n\nCOMERCIALIZADORA CARLOS SILVA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA\n\nRUT: 77532848-7\n\nCEL: 936120793\n\nCORREO: [carlossilvamadariaga@gmail.com](mailto:carlossilvamadariaga@gmail",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "Confirmacon de Entrega": [
+          {
+            "id": "66d737029b377c5cdac1b5c9",
+            "shortLink": "kGFQzmLJ",
+            "name": "Confirmacon de Entrega",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65dea1d18ec6578e528bb149",
+            "shortLink": "Yjix4rW4",
+            "name": "JUAN PABLO GUTIERREZ GUERRERO EIRL",
+            "desc": "DESTINATARIO:\n\nJUAN PABLO GUTIERREZ GUERRERO EIRL\n\nRUT: 76820004-1\n\nTEL: 988346218\n\nCORREO: [jgutierrez@militarychile.cl](mailto:jgutierrez@militarychile.cl \"‌\")\n\nDIRECCION: CALLE RANCAGUA 592- A, SAN",
+            "due": "2025-11-06T15:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "Visita"
+            ]
+          },
+          {
+            "id": "660db9a76aace11bfeebb387",
+            "shortLink": "FpTU5i23",
+            "name": "Gerardo Romero Cid",
+            "desc": "DESTINATARIO:\n\nGERARDO ROMERO CID\n\nRUT:  8945883-8\n\nTEL: 998378624\n\nCORREO: [hobbys.stacruz@gamail.com](mailto:hobbys.stacruz@gamail.com \"‌\")\n\nDIRECCION: RAFAEL CASANOVA 371, LOCAL H, SANTA CRUZ\n\nRECI",
+            "due": "2025-01-16T03:07:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%",
+              "CREDITO"
+            ]
+          }
+        ],
+        "COMPRA CON RECLAMO": [
+          {
+            "id": "66d73709d6f2cce372413df8",
+            "shortLink": "KHHyYvzD",
+            "name": "COMPRA CON RECLAMO",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65d360961699c8d6c09c966a",
+            "shortLink": "neZrFH8b",
+            "name": "SOCIEDAD ESTRADA Y BROWN LTDA",
+            "desc": "DESTINATARIO:\n\nSOCIEDAD ESTRADA Y BROWN LTDA\n\nRUT. 76.640.476-6\n\nENCARGADA: MELISSA BROWN\n\nCORREO: [melsbrownc@gmail.com](mailto:melsbrownc@gmail.com \"‌\")\n\nFONO: +56 9 36362545\n\nDIRECCIÓN: LADRILLEROS",
+            "due": "2024-10-24T15:00:00.000Z",
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "699cb885fb0011089a0439cf",
+            "shortLink": "Mi7GwGJu",
+            "name": "COMERCIAL CONCHA Y CARREÑO LIMITADA",
+            "desc": "COMERCIAL CONCHA Y CARREÑO LIMITADA.\nRUT: 78.346.414-4\nDIRECCIÓN: AVENIDA GLADYS MARÍN 4398, ALTO HOSPICIO, IQUIQUE\nCORREO: [adictoalpiquefishig@gmail.com](mailto:adictoalpiquefishig@gmail.com \"‌\")\nTE",
+            "due": null,
+            "labels": [
+              "ZONA NORTE"
+            ]
+          },
+          {
+            "id": "65c521289a73f6b98a2176f1",
+            "shortLink": "ThIjitNL",
+            "name": "KATHERINE CISTERNAS CARVAJAL",
+            "desc": "DESTINATARIO:\n\nKATHERINE CISTERNAS CARVAJAL\n\nRUT: 77.060.197-5\n\nTEL: +56995229149\n\nCORREO: [Fiskershop@gmail.com](mailto:Fiskershop@gmail.com \"‌\")\n\nDIRECCION: AV DEL MAR 223, BOULEVARD LAS OLAS, MAITE",
+            "due": "2025-10-29T17:00:00.000Z",
+            "labels": [
+              "ZONA CENTRO",
+              "dscto 10%"
+            ]
+          }
+        ]
+      },
+      "totalCards": 269
+    },
+    {
+      "id": "674f49ad4fb7fc8db7ee51b8",
+      "name": "Epicbike.cl",
+      "url": "https://trello.com/b/jzRWM0GV/epicbikecl",
+      "desc": "",
+      "lists": [
+        {
+          "id": "674f49b861538504f0724692",
+          "name": "LISTADO CLIENTES",
+          "pos": 16384
+        },
+        {
+          "id": "674f49c418d7724ea17fef9b",
+          "name": "clientes ya contactados",
+          "pos": 32768
+        },
+        {
+          "id": "6863000cfdca4c6970d1e615",
+          "name": "Visita programada",
+          "pos": 40960
+        },
+        {
+          "id": "6914905657f6a7bc711c360e",
+          "name": "tiendas ya visitadas",
+          "pos": 45056
+        },
+        {
+          "id": "674f49ca2eb71c288928fc02",
+          "name": "Nuevo Pedido",
+          "pos": 49152
+        },
+        {
+          "id": "674f49f1f36c64257f8bf057",
+          "name": "En Preparacion",
+          "pos": 65536
+        },
+        {
+          "id": "674f4a347b9f1c69c7499019",
+          "name": "En transito a Cliente",
+          "pos": 98304
+        }
+      ],
+      "cardsByList": {
+        "LISTADO CLIENTES": [
+          {
+            "id": "685d572151dd799b7933fa14",
+            "shortLink": "tC7zAt1Q",
+            "name": "LISTADO CLIENTES",
+            "desc": "**Cycling Store**\n\nRUT:\n\nCORREO: [contacto@cyclingstore.cl](mailto:contacto@cyclingstore.cl \"‌\")\n\nTLF: +56 9 4540 9349\n\nDIRECCION: Av. José Pedro Alessandri 821, Ñuñoa\n\nCONDICON DE PAGO: 0",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "68dc1180ca0c125cc941f90d",
+            "shortLink": "GsQmrsAi",
+            "name": "BIKE AUTORITY",
+            "desc": "Sociedad Comercializadora BikeAuthority SpA\n77\\.426.017-K\nTLF: +56 9 5009 8177 HECTOR DINAMARCA\n\nGIRO: Comercializadora de bicicletas, manutenciones y sus repuestos\n\nDIRECCION: Av. Las Condes 12461, L",
+            "due": null,
+            "labels": [
+              "CLIENTES DE RODAMIENTOS",
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "685c0d1be0d95f385a2b351f",
+            "shortLink": "fqesbKWw",
+            "name": "GEMBABIKE SPA",
+            "desc": "GEMBABIKE SPA\n\nRUT: 77189042-3\n\nCORREO: [contacto@gembabike.cl](mailto:contacto@gembabike.cl \"‌\")\n\nTLF: +56991217072 ricardo\n\nDIRECCION: Avenida Las Condes 11700 local 102B, Santiago, Chile\n\nCONDICION",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "686c034f21f07fd3ca3c7c67",
+            "shortLink": "00pLWCKO",
+            "name": "PEDAL PRO VITACURA",
+            "desc": "JOMAX SPA\n\nRUT: 77239755-0\n\nTLF: +56973002484 nelson\n\nCORREO: [contacto@pedalpro.cl](mailto:contacto@pedalpro.cl \"‌\")\n\nDIRECCION: Sta. María 6928, 7660253 Vitacura, Región Metropolitana\n\nCONDICION DE ",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "685c159c15b4ac2f9ab055ee",
+            "shortLink": "ILSgE8hp",
+            "name": "MEJORANDO TU VIDA SPA",
+            "desc": "MEJORANDO TU VIDA SPA\n\nRUT: 76878258-K\n\nTLF:996557383\n\nCORREO: [tienda.livetobike@gmail.com](mailto:tienda.livetobike@gmail.com \"‌\")\n\nDIRECCION: Diputado Clemente Fuentealba 486, OVALLE\n\nCONDICION DE ",
+            "due": null,
+            "labels": [
+              "Zona Norte",
+              "CLIENTES BH"
+            ]
+          },
+          {
+            "id": "68ffd49d9362d95426cb405d",
+            "shortLink": "9C6nlQag",
+            "name": "comercial de artículos deportivos cortes parada ltda",
+            "desc": "Razón social: comercial de artículos deportivos cortes parada ltda\nRut: 76.962.192-k\nDirección: Pedro Aguirre Cerda 73, buin\nCorreo: [oscar_ale20@hotmail.com](mailto:oscar_ale20@hotmail.com \"‌\")\nGiro:",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68de84409325927e79bb7575",
+            "shortLink": "amNmoBt5",
+            "name": "EXTREME ZONE",
+            "desc": "CONTACTO: [+56 9 33891789](tel:+56 \"‌\")\n\nCORREO: [JAVIER.SARMIENTO@extremezone.cl](mailto:JAVIER.SARMIENTO@extremezone.cl \"‌\")\n\nENCARGADO: JAVIER SARMIENTO",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68755ea221d2a5289626b725",
+            "shortLink": "huYdCLyn",
+            "name": "RODI BIKE PROVIDENCIA",
+            "desc": "RODI BIKE SPA\n\nRUT:\n\nTLF:+56 9 5885 9279\n\nDIRECCION: Av. Providencia 2529, local 5, 8320076 Providencia, Región Metropolitana",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68c83f7f2ca5734b0bfa4a19",
+            "shortLink": "CfXa9nWZ",
+            "name": "BIKE PRO VILLA RICA",
+            "desc": "BIKE PRO VILLARICA\n\nRazon social: Eric uziel acuña sandoval\n\nRUT: 16900264-9\n\nTLF:+56998219584\n\nDIRECCION: Aviador Acevedo 1079, 4930740 Villarrica, Araucanía\n\nENVIO:  BUS NORTE\n\n## Estación Central, ",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "685c09f259ba4b4eb4741aa3",
+            "shortLink": "RSzjFWe3",
+            "name": "CALBUCO BIKES SPA",
+            "desc": "CALBUCO BIKES SPA\n\nRUT: 77130579-2\n\nCORREO: [aguerobikes@gmail.com](mailto:aguerobikes@gmail.com \"‌\")\n\nTLF: +56 988058017\n\nDIRECCION: BALMACEDA 194, BALMACEDA\n\nCONDICON DE PAGO: 0",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "686bfbd1f0c2038b580e7006",
+            "shortLink": "3RvWXVih",
+            "name": "PEDAL PRO CONCON",
+            "desc": "JOMAX SPA\n\nRUT: 77239755-0\n\nTLF: +5699507547 rafa\n\nCORREO: [contacto@pedalpro.cl](mailto:contacto@pedalpro.cl \"‌\")\n\nDIRECCION: Las Pelargonias 842, local 21, Concón, Valparaíso\n\nCONDICION DE PAGO: 30/",
+            "due": null,
+            "labels": [
+              "LITORAL CENTRAL",
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68dc2fd699f3f70b528fe65c",
+            "shortLink": "vWG1WqgE",
+            "name": "VIDAURRE BIKE",
+            "desc": "CV SPORT LTDA\n76263250-0\nContacto@vidaurrebikes.cl\n+5694056295 Luis san martin jefe de tienda\n",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "69090db5f9d0a04bb369a3ff",
+            "shortLink": "Gyu85uym",
+            "name": "FELIX GARRI ROJAS",
+            "desc": "Felipe Garry Rojas\n18\\.633.395-0\n‪+56981590970\n\nENVIO:\n\nRAPID CARGO SUCURSAL LA SERENA\n\n# Sucursal Santiago\n\n#### Santa Elena 985, Santiago Centro.\n\n\\+569 5902 3191\n\nLun a Jue: 09:00 a 18:00 hrs.\nVier",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6823603f2c3dac4f90437cf3",
+            "shortLink": "kqgKrgFI",
+            "name": "RIDER DESERT CALAMA LTD",
+            "desc": "DESTINO:\nRIDER DESERT CALAMA LIMITADA\n\nRUT: 77.358.533-4\n\nEMAIL: [riderdesertcalama@gmail.com](mailto:riderdesertcalama@gmail.com \"‌\")\n\nDireccion: Aconcagua 2904, villa caspana. Calama\nContacto: +5698",
+            "due": null,
+            "labels": [
+              "Zona Norte",
+              "PENDIENTE PAGO",
+              "CONSIGNACION"
+            ]
+          },
+          {
+            "id": "68bf2ccb1c8bf606c520f860",
+            "shortLink": "Acd8ffoy",
+            "name": "MAS BIKE",
+            "desc": "ENRIQUE FRANCISCO RIVERA MARCHANT\n\nRUT: 16.989.848-0\n\nCORREO: [riveraprobike@gmail.com](mailto:riveraprobike@gmail.com \"‌\")\n\nTLF: 997619887\n\nDIRECCION: Coelsa el Bajo 58 Chincolco\nPetorca\n\nCONDICION D",
+            "due": null,
+            "labels": [
+              "Zona Norte"
+            ]
+          },
+          {
+            "id": "6880fc93b65a0299a4312045",
+            "shortLink": "ymr0pno6",
+            "name": "COMERCIAL NEW LIFE SPA",
+            "desc": "COMERCIAL NEW LIFE SPA\n\nRUT: 77432438-0\n\nCORREO: [gimnasiopucon@gmail.com](mailto:gimnasiopucon@gmail.com \"‌\")\n\nTLF: +56 941219828\n\nDIRECCION: general urrutia 260, pucon, region los lagos\n\nCONDICON DE",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "68ee69f6e0462d6caf375e65",
+            "shortLink": "0rsZzNcS",
+            "name": "BIKE CHILE",
+            "desc": "BIKE CHILE MAITENCILLO\n\nTLF: +56 9 5537 7230 CLAUDIA ALLIMANT\n\nDIRECCION: Ruta F 30 S/N, lote 3 local 54, Maitencillo, Puchuncaví, Valparaíso",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "68dc40e1588ab0ee8e4494b9",
+            "shortLink": "ZzIqgrfk",
+            "name": "EUROBIKE",
+            "desc": "EUROBIKE\nenrique@eurobike.cl\n",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "68791c0816902213fce49cf5",
+            "shortLink": "3gy9HmZ2",
+            "name": "CTOBIKE",
+            "desc": "INVERSIONES BIKE SPA\n\nRUT: 77.885.905-K\n\nCORREO: ctobikecl@gmail.com\n\nTLF: +56942045353\n\nDIRECCION: Geronimo de alderete 1327",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "6866d6a7b88cce6c12f07df9",
+            "shortLink": "Rv3jV1vH",
+            "name": "TALLER TRACK",
+            "desc": "TALLER TRACK\n\nRUT:\n\nCORREO:\n\nTLF: +56974039175\n\nDIRECCION: MADRID 985, SANTIAGO CENTRO, REGION METROPOLITANA\n\nCONDICON DE PAGO: 0",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA",
+              "AGENDAR CITA",
+              "CLIENTES DE RODAMIENTOS"
+            ]
+          },
+          {
+            "id": "6876af66d03a8094be396c74",
+            "shortLink": "6gbBHX0O",
+            "name": "BIKE & RIDE",
+            "desc": "BIKE & RIDE\n\nRUT:\n\nTLF: +56991384290\n\nCORREO: Tallerbikeandride@gmail.com\n\nDIRECCION: Av. Simón Bolívar 3782, Ñuñoa, Región Metropolitana\n\nCONDICION DE PAGO: 0",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "688bc0de7673c1524bcb2201",
+            "shortLink": "PX53bHx6",
+            "name": "GUILLERMO HIDALGO",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "Zona Norte"
+            ]
+          },
+          {
+            "id": "68befb0693540e7b84215a02",
+            "shortLink": "HcXiCLTs",
+            "name": "GARAGE TALLER",
+            "desc": "GARAGE TALLER\n\nRUT:\n\nCORREO: [JVALDIVIA.US@GMAIL.COM](mailto:JVALDIVIA.US@GMAIL.COM \"‌\")\n\nTLF: +56 995496431\n\nDIRECCION: Pdte. Riesco 3198, 7550037 Las Condes, Región Metropolitana\n\nCONDICION DE PAGO:",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68bf0d71ee0f8b2570087d7e",
+            "shortLink": "1oQCxjnK",
+            "name": "CICLOVIA TALLER",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68c83ad8466b0eb23981863c",
+            "shortLink": "VYdnw9Wo",
+            "name": "EUSPORT",
+            "desc": "EUSPORT\n\nRUT:\n\nTLF: +56938881474\n\nDIRECCION: Galeria Munchen - Metro Tobalaba - Av. Providencia 2601, local 28, 7510015 Santiago, Providencia, Región Metropolitana",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "68c83cc8b22977a5e3289391",
+            "shortLink": "FxZubtse",
+            "name": "BICICLETERIA CUQ",
+            "desc": "BICILETERIA CUQ\n\nRUT:\n\nTLF: +56973949981\n\nDIRECCION: Mariano Sánchez Fontecilla 528, 7550354 Las Condes, Región Metropolitana",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68c83c29d39993137d2a47fd",
+            "shortLink": "6blBmYe9",
+            "name": "GALIBIER (SPECILIZED)",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68c83b53a84b175eb30b4280",
+            "shortLink": "Kk8QZl6u",
+            "name": "A ON B TALLER",
+            "desc": "A ON B TALLER\n\nRUT:\n\nTLF: +56985721638\n\nDIRECCION: Bellavista 0843, 7520309 Providencia, Región Metropolitana",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68c839431c6fac47c9aa1eb2",
+            "shortLink": "neEfnFzZ",
+            "name": "DAS RIDE",
+            "desc": "DAS RAD BICICLETAS\n\nRUT:\n\nTLF:+56932257128\n\nDIRECCION: Eliodoro Yáñez 2678, Local 103, 7510426 Providencia, Región Metropolitana",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68b9bbb14a41ab6a1cca827a",
+            "shortLink": "FlobHg1R",
+            "name": "ANA CLETA",
+            "desc": "RUT: 15413525-1\n\nDIRECCION: AV HOLANDA 2837 PROVIDENCIA\n\nCORREO: [ANACLETATALLER@GMAIL.COM](mailto:ANACLETATALLER@GMAIL.COM \"‌\")\n\nCONTACTO: +56930019884 WS",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68b9f13082b69d1951c6297b",
+            "shortLink": "17LENJMv",
+            "name": "BIKE SPOT",
+            "desc": "BIKE SPOT\n\nDIRECCION: Av. Apoquindo 4900, Local 18, 7560973 Las Condes, Región Metropolitana\n\nCONTACTO: +56946766538\n\nCORREO: CONTACTO@BIKESPOT.CL",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "68768be4044129c58c31dc29",
+            "shortLink": "Cu3xS62S",
+            "name": "CICLO SERVICE",
+            "desc": "cicloservice ilimitado\n\nRUT: 76391244-2\n\nTLF: +56961350976\n\nCORREO: info@cicloservice.cl\n\nDIRECCION: Av. Simón Bolívar 3751 - D, 7790573 Ñuñoa, Región Metropolitana\n\nCONDICION DE PAGO: 0",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "686bd90a14fdb4488142197d",
+            "shortLink": "IWGwPlx6",
+            "name": "STGO BIKE",
+            "desc": "STGOBIKE\n\nRUT:\n\nTLF: +56944619863\n\nCORREO:\n\nDIRECCION: Mac Iver 711, Santiago Centro.\n\nCONDICION DE PAGO: 0",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68654beec38fa1f49dd5b5dd",
+            "shortLink": "dqwlLJzj",
+            "name": "HERNANDEZ BIKE SPA",
+            "desc": "HERNANDEZ BIKE SPA\n\nRUT:\n\nCORREO:\n\nTLF: +56 [9 3718 3428](https://www.google.com/search?gs_ssp=eJzj4tVP1zc0zKgsyUhOSy4xYLRSNaiwNDMzSjY1N05KtjRIMzdNsjKoMDGzADKMUswSLZKSDczNvPgyUovyEvNSUqsUkjKzUwHPYBT6&",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA",
+              "AGENDAR CITA"
+            ]
+          },
+          {
+            "id": "689d45135850501255900d2b",
+            "shortLink": "uMv9xafa",
+            "name": "GUILLERMO IDALGO",
+            "desc": "INVERSIONES M&H SPA (GUILLERMO HIDALGO)\n\nRUT: 77.648.793-7\n\nTLF:+56 9 3375 5226\n\nCORREO: [Ogladih99@gmail.com](mailto:Ogladih99@gmail.com \"‌\")\n\nDIRECCION: Francisco ariztia 2753 la serena, region coqu",
+            "due": null,
+            "labels": [
+              "Zona Norte"
+            ]
+          },
+          {
+            "id": "6863013d9866cacf780386bf",
+            "shortLink": "jPDyjdvy",
+            "name": "AARON BIKE 07 SPA",
+            "desc": "AARON BIKE 07 SPA\n\nRUT: 77210406-5\n\nCORREO: [aaronbike07chile@gmail.com](mailto:aaronbike07chile@gmail.com \"‌\")\n\nDIRECCION: SAN DIEGO 737 LOCAL 7, SANTIAGO CENTRO, REGION METROPOLITANA.\n\nCONDICION DE ",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA",
+              "AGENDAR CITA"
+            ]
+          },
+          {
+            "id": "686802ed5d56fb317eef34ee",
+            "shortLink": "E95zlgXw",
+            "name": "CAMELBIKE",
+            "desc": "VGG SOC COM SPA\n\nRUT: 76445744-7\n\nCORREO: [ventas@camelbike.cl](mailto:ventas@camelbike.cl \"‌\")\n\nTLF: +56222053063\n\nTLF: +56947734705\n\nDIRECCION: pedro de valdivia 1783 local 193\n\nCONDICION DE PAGO: 0",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68c8406c8259e9173b40ec0b",
+            "shortLink": "zcn8iOQW",
+            "name": "PLUS CYCLING",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          },
+          {
+            "id": "68b87c95a9aa2b7253976fb5",
+            "shortLink": "kBmtRxph",
+            "name": "G BIKE",
+            "desc": "INVERSIONES Y SERVICIOS GYD SPA\n\nRUT: 78094757-8\n\nCORREO: contactogbike@gmail.com\n\nTLF: +56 942223145 galber\n\nDIRECCION: Av. Providencia 2411, local 25, 7510043 Providencia, Región Metropolitana\n\nCOND",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "6889118c90be9b6c0a8b7c3e",
+            "shortLink": "r0oo4sMH",
+            "name": "KEDRUK y VIROVKO LIMITADA",
+            "desc": "KEDRUK y VIROVKO LIMITADA\n\nRUT: :77.768.790-5\n\nTLF: +56 9 9992 1673\n\nCORREO:  [info@kyvcycling.cl](mailto:info@kyvcycling.cl \"‌\")\n\nDIRECCION: Lo Beltrán 1979, Vitacura,\nRegión Metropolitana,\nChile\n\nCO",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA",
+              "CONSIGNACION"
+            ]
+          },
+          {
+            "id": "68ee736b8117bce1f0eed367",
+            "shortLink": "DPfGWMNU",
+            "name": "EDUARDO ROZAS TORRES",
+            "desc": "EDUARDO ROZAS TORRES\n\nRUT: 186586641-6\n\nDIRECCION ENVIO: FERROCARRIL A IQUIQUE 390, 2050208, CABILDO, VALPARAISO.\n\nCHILE EXPRESS",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "68e3c4b99050d08519942f17",
+            "shortLink": "krCB0fH7",
+            "name": "maury punta arenas",
+            "desc": "ENVIO:\n\nMAGALLANES CARGO\nAvenida Gladys Marín Millie  #6470 (Av. Ex Pajaritos) Estación Central",
+            "due": null,
+            "labels": [
+              "ZONA SUR"
+            ]
+          }
+        ],
+        "clientes ya contactados": [
+          {
+            "id": "6862c0a36991c156cd08f15a",
+            "shortLink": "iPyHlcMH",
+            "name": "CYCLING STORE",
+            "desc": "**A&G GROUP SPA**\n\nRUT: 77588163-1\n\nCORREO: [contacto@cyclingstore.cl](mailto:contacto@cyclingstore.cl \"‌\")\n\nTLF: +56 9 4540 9349\n\nDIRECCION: Av. José Pedro Alessandri 821, Ñuñoa\n\nCONDICON DE PAGO: 0",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68deb00a22102f2e4604102a",
+            "shortLink": "yJDLYQ9v",
+            "name": "CENTER BIKE",
+            "desc": "RAZÓN SOCIAL: Center bike SPA\nRUT: 77.380.306-4\nGIRO: Venta al por menor de bicicleta, repuestos y accesorios.\nDIRECCIÓN: Jose Blumell 0454, Antofagasta.\nCORREO: contacto@centerbike.cl \nCONTACTO: ‪+56",
+            "due": null,
+            "labels": [
+              "Zona Norte",
+              "CLIENTES DE RODAMIENTOS"
+            ]
+          },
+          {
+            "id": "685c12dfcc203fc43638e8e2",
+            "shortLink": "P3NNbRSd",
+            "name": "BICICLETAS SERGIO ANTONIO ABARCA ALVARADO E I R L",
+            "desc": "BICICLETAS SERGIO ANTONIO ABARCA ALVARADO E I R L\n\nKM SUR\n\nRUT: 76743111-2\n\nDIRECCION: ESMERALDA 622, TALAGANTE\n\nCONTACTO: +56956997356",
+            "due": "2025-11-12T14:00:00.000Z",
+            "labels": [
+              "ZONA CENTRAL",
+              "CONSIGNACION",
+              "Zona Norte"
+            ]
+          },
+          {
+            "id": "6866e5f9f5785f75d2ffe5d6",
+            "shortLink": "b07dXlsk",
+            "name": "BIKETRIBE",
+            "desc": "Myc spa (bike tribe)\n\nRUT: 77.066.926-k\n\nVenta de articulos deportivos\n\nCORREO: [contacto@biketribe.cl](mailto:contacto@biketribe.cl \"‌\")\n\nTLF: [+56](tel:+56232517523 \"‌\")965668454 CARLOS MORALES\n\nDIR",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "68669596ef5f9128780085e1",
+            "shortLink": "YIJhsX30",
+            "name": "DUBIKE",
+            "desc": "DUBIKE\n\nRUT:\n\nCORREO: dubike.cl@gmail.com\n\nTLF: +56 959998203\n\nDIRECCION: Arturo prat 293, santiago centro, region metropolitana.\n\nCONDICON DE PAGO: 0",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA",
+              "AGENDAR CITA"
+            ]
+          }
+        ],
+        "Visita programada": [
+          {
+            "id": "685c1483b28e4c13b7a2d547",
+            "shortLink": "RawKhwCQ",
+            "name": "ELENKA IRIS MUNOZ CIFUENTES",
+            "desc": "ELENKA IRIS MUNOZ CIFUENTES\n\nRUT: 17610947-5\n\nCORREO: [elenkairis@gmail.com](mailto:elenkairis@gmail.com \"‌\")\n\nDIRECCION: SANCHEZ FONTECILLA 9122 JARDINES DE LA VIÑA, LA FLORIDA, REGION METROPOLITANA.",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA",
+              "CONSIGNACION",
+              "PENDIENTE PAGO",
+              "CLIENTE PREFERENCIAL"
+            ]
+          },
+          {
+            "id": "685d572b55894941cca6c809",
+            "shortLink": "5DMrwXQ0",
+            "name": "Registro de Visita Clientes",
+            "desc": "",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "tiendas ya visitadas": [],
+        "Nuevo Pedido": [
+          {
+            "id": "6876ab1e1c0d28c2f4c4faf0",
+            "shortLink": "cblJOrSh",
+            "name": "DS BIKES",
+            "desc": "DS BIKE\n\nRUT:\n\nCONTACTO: +56 921996019 TOMAS\n\nDIRECCION:\n\nCORREO: VENTAS@GRUPODS.CL",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA",
+              "CLIENTES DE RODAMIENTOS"
+            ]
+          },
+          {
+            "id": "685c0714ff35f798c20eb724",
+            "shortLink": "qbVWPbsz",
+            "name": "IMPORTADORA Y EXPORTADORA MACRIS LIMITADA",
+            "desc": "IMPORTADORA Y EXPORTADORA MACRIS LIMITADA\n\nRUT: 76619690-K\n\nCORREO: [contacto@macris.cl](mailto:contacto@macris.cl \"‌\")\n\nTLF: +56994440274\n\nDIRECCION: REGION METROPOLITANA, LO BARNECHEA, AVENIDA LA DE",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA"
+            ]
+          },
+          {
+            "id": "685c16fa50b087876471d413",
+            "shortLink": "kZGRhf3v",
+            "name": "BORTEC CYCLING SPA",
+            "desc": "BORTEC CYCLING SPA\n\nRUT: 77588356-1\n\nCORREO: [sebamirandaxc@gmail.com](mailto:sebamirandaxc@gmail.com \"‌\")\n\nTLF: +56 956792666\n\nDIRECCION: Padre Mariano, 236, PROVIDENCIA, OF 236\n\nCONDICION DE PAGO: 3",
+            "due": null,
+            "labels": [
+              "REGION METROPOLITANA",
+              "PENDIENTE PAGO",
+              "CONSIGNACION",
+              "CLIENTE PREFERENCIAL"
+            ]
+          },
+          {
+            "id": "685d57327b3c4dab3d5a4755",
+            "shortLink": "sMceRd6b",
+            "name": "Nuevo Pedido",
+            "desc": "",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "En Preparacion": [
+          {
+            "id": "685d573dcea814bffc9764db",
+            "shortLink": "tZq0mN3e",
+            "name": "En Preparacion",
+            "desc": "",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "En transito a Cliente": [
+          {
+            "id": "693af838bcf6e341fe9c9066",
+            "shortLink": "Bq8Z20fu",
+            "name": "FLAVIO ARGENTINA SAN LUIS",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "685d574ae29ae15de9e600b0",
+            "shortLink": "TRLkvHfy",
+            "name": "En transito a Cliente",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "68dc0e9f0bc87b21f7049f12",
+            "shortLink": "p3imsciH",
+            "name": "LISTADO DE CLIENTES",
+            "desc": "",
+            "due": null,
+            "labels": []
+          }
+        ]
+      },
+      "totalCards": 57
+    },
+    {
+      "id": "663a3430b36231c1fa279cf7",
+      "name": "Importaciones Mi Tienda Spa",
+      "url": "https://trello.com/b/mYvLZXQ6/importaciones-mi-tienda-spa",
+      "desc": "",
+      "lists": [
+        {
+          "id": "6668b7c090077b0e06b4723a",
+          "name": "DOCUMENTACION",
+          "pos": 49152
+        },
+        {
+          "id": "663a363e257373052296c2ba",
+          "name": "PEDIDOS EN PRODUCCION",
+          "pos": 65536
+        },
+        {
+          "id": "663e28743e908c1f217fa774",
+          "name": "LLEGADA DE ORDENES",
+          "pos": 98304
+        },
+        {
+          "id": "663e28b2914410816c8d7839",
+          "name": "RECEPCION MARCAS",
+          "pos": 122880
+        }
+      ],
+      "cardsByList": {
+        "DOCUMENTACION": [
+          {
+            "id": "66cddbead6a8975ef08c26e5",
+            "shortLink": "iVFUVvMf",
+            "name": "DOCUMENTACION",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6668b7ce906f12c5f14883c5",
+            "shortLink": "fSl84tDJ",
+            "name": "REGISTRO DE PROVISIONES",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6668b88370ebc4087af8503a",
+            "shortLink": "VLvVS1Hj",
+            "name": "FUJO DE PROCESO",
+            "desc": " [https://download.palisade.com/D6/800/RiskPlatform-Setup.exe](https://download.palisade.com/D6/800/RiskPlatform-Setup.exe \"‌\")\n\n‌\n\n[Palisade_Course.lic](https://trello.com/1/cards/6668b88370ebc4087af",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "PEDIDOS EN PRODUCCION": [
+          {
+            "id": "667af956e538939504a9078c",
+            "shortLink": "OWoUxNtE",
+            "name": "DISEÑOS EN PRODUCCION",
+            "desc": "",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "LLEGADA DE ORDENES": [
+          {
+            "id": "667af8612b82146703549b68",
+            "shortLink": "rxeVYoQF",
+            "name": "LLEGADA DE ERDENES",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "685c0e296db65fe3a64daa89",
+            "shortLink": "qgCdUbZy",
+            "name": "ISB RODAMIENTOS",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6876aecdeecb878a4dffb40e",
+            "shortLink": "9xXOEvJJ",
+            "name": "DAIWA",
+            "desc": "[Book3 (1).xlsx](https://trello.com/1/cards/6876aecdeecb878a4dffb40e/attachments/6876aeda2affb8627bc12868/download/Book3_(1).xlsx \"‌\")",
+            "due": "2025-09-01T19:20:00.000Z",
+            "labels": [
+              "DAIWA"
+            ]
+          },
+          {
+            "id": "68dafbb15ac9a800e2f4c19f",
+            "shortLink": "DN7R8L6d",
+            "name": "BADFISH",
+            "desc": "VIENE VIAJANDO BARCO",
+            "due": "2025-10-30T21:37:00.000Z",
+            "labels": [
+              "BADFISH",
+              "DAIWA"
+            ]
+          },
+          {
+            "id": "6876b09a646c46e82ac36d0a",
+            "shortLink": "XleNy6EL",
+            "name": "MEIHO",
+            "desc": "",
+            "due": "2025-09-01T19:20:00.000Z",
+            "labels": [
+              "MEIHO"
+            ]
+          },
+          {
+            "id": "6876b2a90ea09944ae1e083d",
+            "shortLink": "Hkvkmf99",
+            "name": "ZENAQ",
+            "desc": "",
+            "due": "2025-07-24T19:20:00.000Z",
+            "labels": [
+              "ZENAQ"
+            ]
+          },
+          {
+            "id": "673b6ddd96110b0e0ee610f4",
+            "shortLink": "FOWJJtFy",
+            "name": "BH BIKE",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "BH"
+            ]
+          },
+          {
+            "id": "666891671f098edf55cc3385",
+            "shortLink": "kqOvlOSZ",
+            "name": "DAIWA ",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "DAIWA"
+            ]
+          },
+          {
+            "id": "6876aa8caaf265ae14cbc760",
+            "shortLink": "lKXHwQzV",
+            "name": "MAGBITES",
+            "desc": "",
+            "due": "2025-07-31T19:20:00.000Z",
+            "labels": [
+              "MAGBITES"
+            ]
+          },
+          {
+            "id": "66573e1d745c337a672e9b50",
+            "shortLink": "mOGQdiQz",
+            "name": "TSURINOYA",
+            "desc": "VIAJANDO",
+            "due": null,
+            "labels": [
+              "TSURINOYA",
+              "AEREO"
+            ]
+          },
+          {
+            "id": "6661fde0f6ca12c60a4c4b76",
+            "shortLink": "htngo45K",
+            "name": "VARIVAS",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "VARIVAS"
+            ]
+          },
+          {
+            "id": "6876b1c283a024d87b251b05",
+            "shortLink": "Eu6f8gcg",
+            "name": "FISHBITES",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "FISHIBITE"
+            ]
+          },
+          {
+            "id": "67ed47ec06f63ddd57d519ff",
+            "shortLink": "CETtp2tM",
+            "name": "SAKANA",
+            "desc": "VIENE VIAJANDO BARCO",
+            "due": "2025-05-10T15:22:00.000Z",
+            "labels": [
+              "SAKANA"
+            ]
+          }
+        ],
+        "RECEPCION MARCAS": [
+          {
+            "id": "66cddc0134df6897b0c7ffe6",
+            "shortLink": "PsfHCbyJ",
+            "name": "ARCHIVO DE IMPORTACIONES POR MARCA",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "672e6c6de051014044c8be3c",
+            "shortLink": "i9oicqRf",
+            "name": "CAÑAS_YB",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "YAMAGA"
+            ]
+          },
+          {
+            "id": "69344e10016746a0c9b9c7b3",
+            "shortLink": "SSpb6fhH",
+            "name": "ARCHIVOS",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6876a94e7688260de371c2d0",
+            "shortLink": "CQ4GgBK7",
+            "name": "TSURINOYA",
+            "desc": "",
+            "due": "2025-07-31T19:20:00.000Z",
+            "labels": []
+          },
+          {
+            "id": "6668b92396291e279420143c",
+            "shortLink": "cDZOz5MP",
+            "name": "FISHBITES",
+            "desc": "",
+            "due": "2024-06-24T16:27:00.000Z",
+            "labels": [
+              "FISHIBITE"
+            ]
+          },
+          {
+            "id": "6876ab4d3b5db7353dbaaa60",
+            "shortLink": "XZUVUpox",
+            "name": "GUY COTTEN",
+            "desc": "",
+            "due": "2025-07-25T19:20:00.000Z",
+            "labels": []
+          },
+          {
+            "id": "67f95506c8b25d75605084e7",
+            "shortLink": "7hxR9cng",
+            "name": "SASAME",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "664dfac8672cd32d476ed3e3",
+            "shortLink": "tcdE3VSA",
+            "name": "BKK",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "BKK"
+            ]
+          },
+          {
+            "id": "6732242690ab7400ad560da3",
+            "shortLink": "wwH6d4D5",
+            "name": "ROPA AMIGOS",
+            "desc": "",
+            "due": "2025-02-27T14:47:00.000Z",
+            "labels": [
+              "BOARD"
+            ]
+          },
+          {
+            "id": "67d44b2f399bba1e6093a886",
+            "shortLink": "AlurCviX",
+            "name": "LIMAR",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "67c8816ce1dbc02f0cd786ea",
+            "shortLink": "X3QfjYy2",
+            "name": "BH ESPAÑA",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "AEREO"
+            ]
+          },
+          {
+            "id": "67ebfe7f42ed34558cbe3643",
+            "shortLink": "um1QjGol",
+            "name": "SUNLINE",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "67d44b1a2fc822658498fa92",
+            "shortLink": "6zvs36F5",
+            "name": "GILLIES",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66575111a7c77c7fb8bc223f",
+            "shortLink": "dMwTCj5T",
+            "name": "HUNT HOUSE FISHING TACKLE",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "SAKANA",
+              "BADFISH",
+              "AEREO"
+            ]
+          },
+          {
+            "id": "664648fcafc32be3f41ee885",
+            "shortLink": "kW8eCSd2",
+            "name": "LINEA X8 BF",
+            "desc": "",
+            "due": null,
+            "labels": [
+              "BADFISH",
+              "AEREO"
+            ]
+          },
+          {
+            "id": "67a2549dd056d94b0f2da8dc",
+            "shortLink": "IJOMiDL0",
+            "name": "BH URUGUAY",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "6656482376163c5ce0d9fbc1",
+            "shortLink": "JCjG3aRk",
+            "name": "XESTA",
+            "desc": "CHIMODA",
+            "due": null,
+            "labels": [
+              "XESTA"
+            ]
+          },
+          {
+            "id": "67850cd88bcf0596fdeca3df",
+            "shortLink": "39shx6ny",
+            "name": "JIGS",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66df3b4674a42284f6c867bf",
+            "shortLink": "pXJdLh2o",
+            "name": "MEIHO",
+            "desc": "",
+            "due": "2024-12-09T13:00:00.000Z",
+            "labels": [
+              "BOARD"
+            ]
+          },
+          {
+            "id": "672e4aa1818be55ad27296d6",
+            "shortLink": "SyVUN1m2",
+            "name": "SAKANA KOSEN",
+            "desc": "",
+            "due": "2024-11-11T13:00:00.000Z",
+            "labels": [
+              "SAKANA",
+              "BOARD"
+            ]
+          },
+          {
+            "id": "66df3b3a5e7b7805aee58012",
+            "shortLink": "SyttDg6e",
+            "name": "PROX",
+            "desc": "",
+            "due": "2024-11-20T13:00:00.000Z",
+            "labels": [
+              "BOARD"
+            ]
+          },
+          {
+            "id": "672e6b014d83ac70596b12d5",
+            "shortLink": "1HrpSKfj",
+            "name": "CAÑAS",
+            "desc": "",
+            "due": "2024-11-11T13:00:00.000Z",
+            "labels": [
+              "BOARD"
+            ]
+          },
+          {
+            "id": "66df3afdfce66129362940f4",
+            "shortLink": "3KkQWf0m",
+            "name": "SALVIMAR",
+            "desc": "",
+            "due": "2024-11-25T13:00:00.000Z",
+            "labels": [
+              "BOARD"
+            ]
+          }
+        ]
+      },
+      "totalCards": 40
+    },
+    {
+      "id": "65e074350294fdbf3a5b0f50",
+      "name": "Operations and Business Development",
+      "url": "https://trello.com/b/11KPRPUo/operations-and-business-development",
+      "desc": "",
+      "lists": [
+        {
+          "id": "65e07441d49f29d8a7e7fdfb",
+          "name": "Listado de Tareas",
+          "pos": 65536
+        },
+        {
+          "id": "65e08a4adbc5f73c717553a9",
+          "name": "Procesando",
+          "pos": 196608
+        },
+        {
+          "id": "65e08a5371a13f62e17cf861",
+          "name": "Finalizados",
+          "pos": 262144
+        },
+        {
+          "id": "65e08a39c7211881c0ae8913",
+          "name": "INDICADORES",
+          "pos": 327680
+        },
+        {
+          "id": "663a318a8bf034f260f191ac",
+          "name": "DISEÑO",
+          "pos": 393216
+        },
+        {
+          "id": "663a319c8c498802059c1ca5",
+          "name": "Fabricación EXW",
+          "pos": 458752
+        },
+        {
+          "id": "663a33e4444b9212cf97b34d",
+          "name": "FOB",
+          "pos": 524288
+        }
+      ],
+      "cardsByList": {
+        "Listado de Tareas": [
+          {
+            "id": "65e07593fb788154c3ea7e23",
+            "shortLink": "tDSXYMip",
+            "name": "Proceso de Facturacion",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65e094bf0152e65a4afba5ee",
+            "shortLink": "MucWjQxu",
+            "name": "Proceso de Ventas",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65e09531d8836b62e0fb3bf6",
+            "shortLink": "G2L0eR4p",
+            "name": "Proceso de Importacion",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65e24060701cfba76647a15c",
+            "shortLink": "ZLUX7u9M",
+            "name": "PROCESOS SGC",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "664e005296f40c93e1dcb75e",
+            "shortLink": "9wZhJgWy",
+            "name": "Venta en verde Bluefishinh / dimarine.cl dimarsa.cl",
+            "desc": "Buenas tardes estimados !\n\n*En base a la reunión del día de hoy*, Adjunto la siguiente minuta para\nestablecer procesos, encargados e información relevante para una sana\ngestión entre ambas partes.\n\n- ",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "66549ac572520471a76716ee",
+            "shortLink": "SdtrCK5H",
+            "name": "Soporte instalación de Plugins",
+            "desc": "Estimados Bluefishing,\n\nHemos procesado su solicitud de Token, el cual es: 0de9b5a0-94cc-46df-bb4d-2c80339f11bd\n\nAdemás, le informamos que puede acceder a instrucciones detalladas sobre cómo llevar a ",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "Procesando": [
+          {
+            "id": "65e090e2166f6ad7efdfeec2",
+            "shortLink": "g5ox753T",
+            "name": "Mercado Libre",
+            "desc": "",
+            "due": null,
+            "labels": []
+          },
+          {
+            "id": "65e08a269f86c8a55f3821c1",
+            "shortLink": "BBPRLdzj",
+            "name": "Woocomerce",
+            "desc": "",
+            "due": null,
+            "labels": []
+          }
+        ],
+        "Finalizados": [],
+        "INDICADORES": [],
+        "DISEÑO": [],
+        "Fabricación EXW": [],
+        "FOB": []
+      },
+      "totalCards": 8
+    }
+  ],
+  "summary": {
+    "Área de Vendedores de Terreno": {
+      "lists": [
+        "CLIENTES PERU",
+        "LISTAS DE TIENDAS CERRADAS",
+        "CLIENTES",
+        "REGISTRO VISITA CLIENTE Contacto con el cliente",
+        "NUEVO PEDIDO",
+        "En Preparacion",
+        "LISTO PARA DESPACHO",
+        "En transito a Cliente",
+        "Confirmacon de Entrega",
+        "COMPRA CON RECLAMO"
+      ],
+      "totalCards": 269
+    },
+    "Epicbike.cl": {
+      "lists": [
+        "LISTADO CLIENTES",
+        "clientes ya contactados",
+        "Visita programada",
+        "tiendas ya visitadas",
+        "Nuevo Pedido",
+        "En Preparacion",
+        "En transito a Cliente"
+      ],
+      "totalCards": 57
+    },
+    "Importaciones Mi Tienda Spa": {
+      "lists": [
+        "DOCUMENTACION",
+        "PEDIDOS EN PRODUCCION",
+        "LLEGADA DE ORDENES",
+        "RECEPCION MARCAS"
+      ],
+      "totalCards": 40
+    },
+    "Operations and Business Development": {
+      "lists": [
+        "Listado de Tareas",
+        "Procesando",
+        "Finalizados",
+        "INDICADORES",
+        "DISEÑO",
+        "Fabricación EXW",
+        "FOB"
+      ],
+      "totalCards": 8
+    }
+  }
+}

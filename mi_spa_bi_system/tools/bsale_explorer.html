@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Bsale API Explorer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-100 min-h-screen p-8">
+    <div class="max-w-4xl mx-auto">
+        <h1 class="text-3xl font-bold mb-8">🔍 Bsale API Explorer</h1>
+        <div class="bg-white rounded-xl p-6 mb-6">
+            <label class="block text-sm font-medium mb-2">Access Token</label>
+            <div class="flex gap-4">
+                <input type="text" id="token" class="flex-1 px-4 py-2 border rounded-lg">
+                <button onclick="explorar()" class="px-6 py-2 bg-blue-600 text-white rounded-lg">🚀 Explorar</button>
+            </div>
+        </div>
+        <div id="loading" class="hidden text-center py-8"><div class="animate-spin h-8 w-8 border-4 border-blue-600 border-t-transparent rounded-full mx-auto"></div></div>
+        <div id="results" class="space-y-6 hidden">
+            <div class="bg-white rounded-xl p-6"><h2 class="text-xl font-semibold mb-4">📦 Bodegas</h2><table class="w-full"><thead><tr class="border-b"><th class="text-left py-2">ID</th><th class="text-left py-2">Nombre</th></tr></thead><tbody id="bodegas"></tbody></table></div>
+            <div class="bg-slate-900 rounded-xl p-6"><h2 class="text-white text-xl mb-4">📋 Código</h2><pre id="code" class="bg-slate-800 p-4 rounded text-green-400 text-sm"></pre><button onclick="navigator.clipboard.writeText(document.getElementById('code').textContent);alert('✅ Copiado')" class="mt-4 px-4 py-2 bg-green-600 text-white rounded">📋 Copiar</button></div>
+        </div>
+    </div>
+    <script>
+        async function explorar() {
+            const token = document.getElementById('token').value;
+            if (!token) return alert('Ingresa token');
+            document.getElementById('loading').classList.remove('hidden');
+            try {
+                const res = await fetch('https://api.bsale.cl/v1/offices.json', { headers: { 'access_token': token } });
+                const { items } = await res.json();
+                document.getElementById('bodegas').innerHTML = items.map(b => `<tr class="border-b"><td class="py-2 font-mono">${b.id}</td><td>${b.name}</td></tr>`).join('');
+                document.getElementById('code').textContent = `export const BODEGAS_MAP = {\n${items.map(b => `  ${b.id}: '${b.name.toUpperCase().replace(/\s+/g,'_').slice(0,20)}'`).join(',\n')}\n};`;
+                document.getElementById('results').classList.remove('hidden');
+            } catch(e) { alert(e); }
+            document.getElementById('loading').classList.add('hidden');
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,617 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================================
+   MI SPA BI - Sistema de Diseño Premium v2.0
+   Principios CRAP: Contraste, Repetición, Alineación, Proximidad
+   ============================================================================ */
+
+/* ============================================================================
+   1. VARIABLES CSS - PALETA DE MARCAS Y SEMÁNTICA DE ESTADO
+   ============================================================================ */
+
+:root {
+  /* === MARCA === */
+  /* Bluefishing - Azul profundo (pesca = agua/mar) */
+  --brand-bluefishing: #0ea5e9;
+  --brand-bluefishing-light: #bae6fd;
+  --brand-bluefishing-dark: #0369a1;
+  --brand-bluefishing-gradient: linear-gradient(135deg, #0ea5e9 0%, #0284c7 50%, #1e40af 100%);
+  --brand-bluefishing-soft: rgba(14, 165, 233, 0.1);
+  
+  /* === SEMÁNTICA DE ESTADO === */
+  /* Verde: Stock saludable (>60 días) o crecimiento */
+  --status-healthy: #10b981;
+  --status-healthy-light: #d1fae5;
+  --status-healthy-dark: #047857;
+  
+  /* Amarillo: Advertencia (Stock bajo pero seguro) */
+  --status-warning: #f59e0b;
+  --status-warning-light: #fef3c7;
+  --status-warning-dark: #b45309;
+  
+  /* Rojo: Quiebre inminente (<Lead Time) o caída */
+  --status-critical: #ef4444;
+  --status-critical-light: #fee2e2;
+  --status-critical-dark: #b91c1c;
+  
+  /* === NEUTRALES === */
+  --surface-primary: #ffffff;
+  --surface-secondary: #f8fafc;
+  --surface-tertiary: #f1f5f9;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #94a3b8;
+  --border-light: #e2e8f0;
+  --border-medium: #cbd5e1;
+  
+  /* === EFECTOS 3D === */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  --shadow-3d: 0 20px 40px -15px rgba(0, 0, 0, 0.2);
+  --shadow-glow-bluefishing: 0 0 40px rgba(14, 165, 233, 0.3);
+  
+  /* === GRADIENTES === */
+  --gradient-shine: linear-gradient(135deg, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0) 50%);
+  --gradient-glass: linear-gradient(135deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.7) 100%);
+}
+
+/* ============================================================================
+   2. MODO OSCURO - Para vistas de gráficos densos (reduce fatiga visual)
+   ============================================================================ */
+
+.dark {
+  --surface-primary: #0f172a;
+  --surface-secondary: #1e293b;
+  --surface-tertiary: #334155;
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #64748b;
+  --border-light: #334155;
+  --border-medium: #475569;
+  
+  --gradient-glass: linear-gradient(135deg, rgba(30,41,59,0.9) 0%, rgba(15,23,42,0.8) 100%);
+}
+
+/* ============================================================================
+   3. ESTILOS BASE
+   ============================================================================ */
+
+/* Mobile-first improvements */
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background: var(--surface-secondary);
+  color: var(--text-primary);
+  font-feature-settings: 'cv11', 'ss01';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* Safe area for notch devices */
+.safe-area-inset {
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+/* Touch-friendly interactive elements */
+@media (hover: none) and (pointer: coarse) {
+  button, a, .drillable {
+    min-height: 44px;
+  }
+}
+
+/* Prevent zoom on input focus (iOS) */
+@media screen and (max-width: 768px) {
+  input, select, textarea {
+    font-size: 16px !important;
+  }
+}
+
+/* Custom scrollbar for mobile */
+@media (max-width: 768px) {
+  ::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+  }
+}
+
+/* Light mode default background */
+body:not(.dark) {
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 50%, #f1f5f9 100%);
+}
+
+/* Dark mode background */
+body.dark {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--surface-tertiary); border-radius: 5px; }
+::-webkit-scrollbar-thumb { 
+  background: linear-gradient(135deg, #94a3b8, #64748b); 
+  border-radius: 5px;
+  border: 2px solid var(--surface-tertiary);
+}
+::-webkit-scrollbar-thumb:hover { background: linear-gradient(135deg, #64748b, #475569); }
+
+.dark ::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #475569, #334155);
+}
+
+/* ============================================================================
+   4. COMPONENTES DE MARCA
+   ============================================================================ */
+
+@layer components {
+  /* Badge de marca - BLUEFISHING */
+  .brand-badge-bluefishing {
+    @apply inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full font-semibold text-sm;
+    background: var(--brand-bluefishing-soft);
+    color: var(--brand-bluefishing-dark);
+    border: 1px solid var(--brand-bluefishing-light);
+  }
+  
+  .brand-badge-bluefishing.active {
+    background: var(--brand-bluefishing-gradient);
+    color: white;
+    border-color: var(--brand-bluefishing);
+    box-shadow: var(--shadow-glow-bluefishing);
+  }
+
+  /* ============================================================================
+     5. TARJETAS Y CONTENEDORES 3D
+     ============================================================================ */
+  
+  .card-3d {
+    @apply relative rounded-2xl border;
+    background: var(--surface-primary);
+    border-color: var(--border-light);
+    box-shadow: var(--shadow-lg);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  .card-3d:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-xl);
+  }
+
+  .card-3d::before {
+    content: '';
+    @apply absolute inset-0 rounded-2xl pointer-events-none;
+    background: var(--gradient-shine);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .card-3d:hover::before {
+    opacity: 1;
+  }
+  
+  /* Glass Card */
+  .card-glass {
+    @apply relative rounded-2xl;
+    background: var(--gradient-glass);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: var(--shadow-md);
+  }
+
+  .dark .card-glass {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+
+  /* Card con marca */
+  .card-bluefishing {
+    border-left: 4px solid var(--brand-bluefishing);
+  }
+
+  /* ============================================================================
+     6. INDICADORES DE ESTADO SEMÁNTICO
+     ============================================================================ */
+  
+  /* Status dots with glow */
+  .status-dot {
+    @apply relative w-3 h-3 rounded-full;
+  }
+
+  .status-dot::after {
+    content: '';
+    @apply absolute inset-0 rounded-full;
+    animation: pulse-glow 2s ease-in-out infinite;
+  }
+
+  .status-dot.healthy { background: var(--status-healthy); }
+  .status-dot.healthy::after { box-shadow: 0 0 12px var(--status-healthy); }
+
+  .status-dot.warning { background: var(--status-warning); }
+  .status-dot.warning::after { box-shadow: 0 0 12px var(--status-warning); }
+
+  .status-dot.critical { background: var(--status-critical); }
+  .status-dot.critical::after { box-shadow: 0 0 12px var(--status-critical); }
+
+  /* Alias para compatibilidad */
+  .status-dot.green { background: var(--status-healthy); }
+  .status-dot.green::after { box-shadow: 0 0 12px var(--status-healthy); }
+  .status-dot.yellow { background: var(--status-warning); }
+  .status-dot.yellow::after { box-shadow: 0 0 12px var(--status-warning); }
+  .status-dot.red { background: var(--status-critical); }
+  .status-dot.red::after { box-shadow: 0 0 12px var(--status-critical); }
+  
+  /* Status badges */
+  .status-badge-healthy {
+    @apply inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold;
+    background: var(--status-healthy-light);
+    color: var(--status-healthy-dark);
+  }
+  
+  .status-badge-warning {
+    @apply inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold;
+    background: var(--status-warning-light);
+    color: var(--status-warning-dark);
+  }
+  
+  .status-badge-critical {
+    @apply inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold;
+    background: var(--status-critical-light);
+    color: var(--status-critical-dark);
+  }
+
+  /* ============================================================================
+     7. BOTONES
+     ============================================================================ */
+  
+  .btn-primary {
+    @apply relative px-6 py-3 rounded-xl font-semibold text-white;
+    background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+    box-shadow: 0 4px 0 #1d4ed8, var(--shadow-md);
+    transition: all 0.15s ease;
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 0 #1d4ed8, var(--shadow-lg);
+  }
+
+  .btn-primary:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px 0 #1d4ed8, var(--shadow-sm);
+  }
+  
+  .btn-bluefishing {
+    background: var(--brand-bluefishing-gradient);
+    box-shadow: 0 4px 0 var(--brand-bluefishing-dark), var(--shadow-md);
+  }
+  
+  /* Alias btn-3d */
+  .btn-3d { @apply btn-primary; }
+
+  /* ============================================================================
+     8. GRÁFICOS Y VISUALIZACIÓN
+     ============================================================================ */
+  
+  /* Chart container with gradient background */
+  .chart-container {
+    @apply relative rounded-2xl p-4;
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(147, 51, 234, 0.05) 100%);
+  }
+
+  .dark .chart-container {
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(147, 51, 234, 0.1) 100%);
+  }
+
+  /* Visual bar for inventory */
+  .visual-bar {
+    @apply relative h-2 rounded-full overflow-hidden;
+    background: var(--surface-tertiary);
+  }
+  
+  .visual-bar-fill {
+    @apply absolute inset-y-0 left-0 rounded-full transition-all duration-500;
+  }
+  
+  .visual-bar-fill.healthy {
+    background: linear-gradient(90deg, var(--status-healthy) 0%, var(--status-healthy-dark) 100%);
+  }
+  
+  .visual-bar-fill.warning {
+    background: linear-gradient(90deg, var(--status-warning) 0%, var(--status-warning-dark) 100%);
+  }
+  
+  .visual-bar-fill.critical {
+    background: linear-gradient(90deg, var(--status-critical) 0%, var(--status-critical-dark) 100%);
+  }
+
+  /* Forecast uncertainty tunnel */
+  .forecast-confidence-area {
+    fill: url(#confidenceGradient);
+    opacity: 0.3;
+  }
+  
+  .forecast-line-actual {
+    stroke: var(--text-primary);
+    stroke-width: 2;
+  }
+  
+  .forecast-line-predicted {
+    stroke: var(--brand-bluefishing);
+    stroke-width: 2;
+    stroke-dasharray: 8 4;
+  }
+
+  /* Gradient text */
+  .gradient-text {
+    background: linear-gradient(135deg, #1e40af 0%, #7c3aed 50%, #db2777 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .gradient-text-bluefishing {
+    background: var(--brand-bluefishing-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* ============================================================================
+     9. TOOLTIPS ENRIQUECIDOS
+     ============================================================================ */
+  
+  .tooltip-rich {
+    @apply absolute z-50 px-4 py-3 rounded-xl text-sm;
+    background: var(--surface-primary);
+    border: 1px solid var(--border-light);
+    box-shadow: var(--shadow-xl);
+    max-width: 280px;
+  }
+  
+  .tooltip-rich::before {
+    content: '';
+    @apply absolute -top-2 left-1/2 -translate-x-1/2 w-4 h-4 rotate-45;
+    background: var(--surface-primary);
+    border-left: 1px solid var(--border-light);
+    border-top: 1px solid var(--border-light);
+  }
+  
+  .tooltip-value {
+    @apply text-lg font-bold;
+    color: var(--text-primary);
+  }
+  
+  .tooltip-delta {
+    @apply text-xs font-medium ml-2;
+  }
+  
+  .tooltip-delta.positive { color: var(--status-healthy); }
+  .tooltip-delta.negative { color: var(--status-critical); }
+
+  /* ============================================================================
+     10. DRILL-DOWN INDICATORS
+     ============================================================================ */
+  
+  .drillable {
+    @apply cursor-pointer transition-all duration-200;
+    position: relative;
+  }
+  
+  .drillable::after {
+    content: '→';
+    @apply absolute right-2 top-1/2 -translate-y-1/2 opacity-0 transition-all duration-200;
+    color: var(--brand-bluefishing);
+  }
+  
+  .drillable:hover::after {
+    @apply opacity-100;
+    transform: translateY(-50%) translateX(4px);
+  }
+  
+  .drillable:hover {
+    background: var(--surface-tertiary);
+    @apply rounded-lg;
+  }
+
+  /* ============================================================================
+     11. EXCLUSIVE PHYSICAL BADGE (Curanipe)
+     ============================================================================ */
+  
+  .badge-physical-exclusive {
+    @apply inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs font-medium;
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    color: #92400e;
+    border: 1px solid #fcd34d;
+  }
+  
+  .badge-physical-exclusive .icon {
+    @apply w-3 h-3;
+  }
+
+  /* ============================================================================
+     12. TAB GROUP PREMIUM
+     ============================================================================ */
+  
+  .tab-group-premium {
+    @apply inline-flex gap-1 p-1 rounded-xl;
+    background: var(--surface-tertiary);
+  }
+  
+  .tab-premium {
+    @apply px-4 py-2 rounded-lg font-medium text-sm transition-all duration-200;
+    color: var(--text-secondary);
+  }
+  
+  .tab-premium:hover {
+    color: var(--text-primary);
+    background: var(--surface-primary);
+  }
+  
+  .tab-premium.active {
+    @apply shadow-md;
+    background: var(--surface-primary);
+    color: var(--text-primary);
+  }
+  
+  .tab-premium.active-bluefishing {
+    background: var(--brand-bluefishing-gradient);
+    color: white;
+    box-shadow: var(--shadow-glow-bluefishing);
+  }
+}
+
+/* ============================================================================
+   13. ANIMACIONES
+   ============================================================================ */
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 0.6; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.5); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes slide-in {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slide-in-right {
+  from { opacity: 0; transform: translateX(20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes scale-in {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes draw-line {
+  from { stroke-dashoffset: 1000; }
+  to { stroke-dashoffset: 0; }
+}
+
+.animate-float { animation: float 3s ease-in-out infinite; }
+.animate-pulse-glow { animation: pulse-glow 2s ease-in-out infinite; }
+.animate-shimmer { 
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
+.animate-slide-in { animation: slide-in 0.5s ease-out forwards; }
+.animate-slide-in-right { animation: slide-in-right 0.5s ease-out forwards; }
+.animate-scale-in { animation: scale-in 0.3s ease-out forwards; }
+.animate-fade-in { animation: fade-in 0.3s ease-out forwards; }
+.animate-draw-line { 
+  stroke-dasharray: 1000;
+  animation: draw-line 2s ease-out forwards;
+}
+
+/* Staggered animations */
+.stagger-1 { animation-delay: 0.05s; }
+.stagger-2 { animation-delay: 0.1s; }
+.stagger-3 { animation-delay: 0.15s; }
+.stagger-4 { animation-delay: 0.2s; }
+.stagger-5 { animation-delay: 0.25s; }
+.stagger-6 { animation-delay: 0.3s; }
+.stagger-7 { animation-delay: 0.35s; }
+.stagger-8 { animation-delay: 0.4s; }
+
+/* ============================================================================
+   14. TREMOR OVERRIDES
+   ============================================================================ */
+
+/* Make tremor cards match our design system */
+[class*="tremor-Card"] {
+  background: var(--surface-primary) !important;
+  border-color: var(--border-light) !important;
+  box-shadow: var(--shadow-md) !important;
+}
+
+.dark [class*="tremor-Card"] {
+  background: var(--surface-secondary) !important;
+  border-color: var(--border-medium) !important;
+}
+
+/* Enhanced chart tooltips */
+[class*="tremor-tooltip"] {
+  background: var(--surface-primary) !important;
+  border: 1px solid var(--border-light) !important;
+  box-shadow: var(--shadow-xl) !important;
+  @apply rounded-xl;
+}
+
+.dark [class*="tremor-tooltip"] {
+  background: var(--surface-secondary) !important;
+  border-color: var(--border-medium) !important;
+}
+
+/* Tremor tab overrides */
+[class*="tremor-TabList"] {
+  @apply tab-group-premium;
+}
+
+/* ============================================================================
+   15. ACCESSIBILITY & REDUCED MOTION
+   ============================================================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Focus states for keyboard navigation */
+:focus-visible {
+  outline: 2px solid var(--brand-bluefishing);
+  outline-offset: 2px;
+}
+
+/* ============================================================================
+   16. PRINT STYLES
+   ============================================================================ */
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  
+  .card-3d, .card-glass {
+    box-shadow: none !important;
+    border: 1px solid #e5e7eb !important;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+}
