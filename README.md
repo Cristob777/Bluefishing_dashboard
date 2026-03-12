@@ -10,6 +10,10 @@
 ---
 
 <img width="1919" height="842" alt="Captura de pantalla 2026-03-12 103737" src="https://github.com/user-attachments/assets/8e4fac80-70cc-45ad-ad03-74da477703d2" />
+<img width="1916" height="652" alt="Captura de pantalla 2026-03-12 114039" src="https://github.com/user-attachments/assets/8c9f5ae4-c1f6-4e00-baa6-0f8ff6ca8f42" />
+<img width="1915" height="824" alt="Captura de pantalla 2026-03-12 114059" src="https://github.com/user-attachments/assets/a8720f9f-15b7-4183-9622-ad46fec33660" />
+<img width="1919" height="822" alt="Captura de pantalla 2026-03-12 114134" src="https://github.com/user-attachments/assets/d0f3e5d4-b9ab-4972-9408-1c4b2f510693" />
+<img width="1919" height="686" alt="Captura de pantalla 2026-03-12 114111" src="https://github.com/user-attachments/assets/bc02e3fd-f72e-47e0-9d89-6d71d5e93756" />
 
 ## The Problem
 
