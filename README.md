@@ -9,6 +9,8 @@
 
 ---
 
+<img width="1919" height="842" alt="Captura de pantalla 2026-03-12 103737" src="https://github.com/user-attachments/assets/8e4fac80-70cc-45ad-ad03-74da477703d2" />
+
 ## The Problem
 
 MISPA operates **BlueFishing.cl** — a Chilean e-commerce brand specializing in fishing gear and apparel — running all transactions through Bsale (Chile's leading POS/ERP platform). Before this project:
