@@ -306,7 +306,7 @@ This creates a silent cash leak. The business has inventory out the door, revenu
 
 This is a production system built for a real business — not a tutorial project. It processes live transactional data from BlueFishing.cl, a Chilean e-commerce operation specializing in fishing gear with a catalog of 15,000+ SKUs and ~$2M USD in annual revenue. The repository contains a sanitized version with synthetic data preserving the full architecture, ETL logic, and analytical layer.
 
-**Built by:** Cristóbal — Data Engineer & BI Developer, MSc AI for Business (NCI, Dublin)
+**Built by:** Cristóbal — Solutions Engineer, MSc AI for Business (NCI, Dublin)
 
 ---
 
